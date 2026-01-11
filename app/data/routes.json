@@ -1,0 +1,432 @@
+[
+  {
+    "route_id": "3",
+    "route_short_name": "Uuraisten Liikenne",
+    "route_long_name": "Saarijärvi-Jyväskylä"
+  },
+  {
+    "route_id": "12",
+    "route_short_name": "Matka Mäkelä",
+    "route_long_name": "KEURUU-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "13",
+    "route_short_name": "Matka Mäkelä",
+    "route_long_name": "KEURUU-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "14",
+    "route_short_name": "Matka Mäkelä",
+    "route_long_name": "KEURUU-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "15",
+    "route_short_name": "Matka Mäkelä",
+    "route_long_name": "KEURUU-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "118",
+    "route_short_name": "Pohjolan Matka",
+    "route_long_name": "Uurainen - Jyväskylä"
+  },
+  {
+    "route_id": "216",
+    "route_short_name": "Matka Mäkelä",
+    "route_long_name": "KEURUU-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "411",
+    "route_short_name": "Koivuranta",
+    "route_long_name": "LAUKAA-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "412",
+    "route_short_name": "Koivuranta",
+    "route_long_name": "Laukaa-Jyväskylä Kos"
+  },
+  {
+    "route_id": "413",
+    "route_short_name": "Kyläbussi",
+    "route_long_name": "Äänekosken Kyläbussi"
+  },
+  {
+    "route_id": "901",
+    "route_short_name": "S1",
+    "route_long_name": "HAAPANIEMI-KORTEMÄKI"
+  },
+  {
+    "route_id": "902",
+    "route_short_name": "S2",
+    "route_long_name": "KAUNISHARJU-KORTEMÄKI"
+  },
+  {
+    "route_id": "903",
+    "route_short_name": "S3",
+    "route_long_name": "RISTIKIVI-KORTEPOHJA"
+  },
+  {
+    "route_id": "904",
+    "route_short_name": "S4",
+    "route_long_name": "NENÄINNIEMI-KORTEPOHJA"
+  },
+  {
+    "route_id": "905",
+    "route_short_name": "S5",
+    "route_long_name": "KAAKKOLAMPI-PALOKKA"
+  },
+  {
+    "route_id": "906",
+    "route_short_name": "S6",
+    "route_long_name": "MUSTALAMPI-PALOKKA-HEIKKILÄ"
+  },
+  {
+    "route_id": "6133",
+    "route_short_name": "113",
+    "route_long_name": "KORPILAHTI-JYVÄSKYLA"
+  },
+  {
+    "route_id": "6134",
+    "route_short_name": "113",
+    "route_long_name": "JYVÄSKYLA-KORPILAHTI"
+  },
+  {
+    "route_id": "6140",
+    "route_short_name": "140",
+    "route_long_name": "ÄÄNEKOSKI-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "6141",
+    "route_short_name": "141",
+    "route_long_name": "ÄÄNEKOSKI-LAUKAA-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "6541",
+    "route_short_name": "Koiviston Auto",
+    "route_long_name": "JKL-JÄMSÄNKOSKI"
+  },
+  {
+    "route_id": "6542",
+    "route_short_name": "Koiviston Auto",
+    "route_long_name": "JÄMSÄNKOSKI-JKL"
+  },
+  {
+    "route_id": "6671",
+    "route_short_name": "Koiviston Auto",
+    "route_long_name": "SAARIJÄRVI-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "6672",
+    "route_short_name": "Koiviston Auto",
+    "route_long_name": "JYVÄSKYLÄ-SAARIJÄRVI"
+  },
+  {
+    "route_id": "6701",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Suolahti-Ruotinkylä"
+  },
+  {
+    "route_id": "6702",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Ruotinkylä - Suo - Äki"
+  },
+  {
+    "route_id": "6711",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Äänekoski - Hirvaskangas - Koivisto - Suolahti"
+  },
+  {
+    "route_id": "6712",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Suolahti - Koivisto - Hirvaskangas"
+  },
+  {
+    "route_id": "6832",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Suolahti - Sumiainen"
+  },
+  {
+    "route_id": "6861",
+    "route_short_name": "SEUTU VEHNIÄ",
+    "route_long_name": "LAUKAA-VEHNIÄ"
+  },
+  {
+    "route_id": "6901",
+    "route_short_name": "kouluv Äki",
+    "route_long_name": "Konginkangas - Äänekoski"
+  },
+  {
+    "route_id": "6902",
+    "route_short_name": "Kouluv Äki",
+    "route_long_name": "Äänekoski - Konginkangas"
+  },
+  {
+    "route_id": "6908",
+    "route_short_name": "Mämmensalmi",
+    "route_long_name": "Äki tk - Mämmensalmi - Äänekoski"
+  },
+  {
+    "route_id": "6911",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Lantelantie - Äänekoski"
+  },
+  {
+    "route_id": "6912",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Äänekoski - Lantelantie"
+  },
+  {
+    "route_id": "6913",
+    "route_short_name": "Kouluvuoro",
+    "route_long_name": "Kalaniemi - Konginkangas - Äänekoski"
+  },
+  {
+    "route_id": "9017",
+    "route_short_name": "1M",
+    "route_long_name": "HAAPANIEMI-VIITANIEMI"
+  },
+  {
+    "route_id": "9027",
+    "route_short_name": "2V",
+    "route_long_name": "KAUNISHARJU-VIITANIEMI"
+  },
+  {
+    "route_id": "9028",
+    "route_short_name": "S2M",
+    "route_long_name": "KAUNISHARJU-KORTEMÄKI"
+  },
+  {
+    "route_id": "9031",
+    "route_short_name": "3",
+    "route_long_name": "VAAJAKOSKI-KESKUSTA"
+  },
+  {
+    "route_id": "9033",
+    "route_short_name": "3K",
+    "route_long_name": "HALSSILA-HUHTAHARJUN KOULU"
+  },
+  {
+    "route_id": "9043",
+    "route_short_name": "4K",
+    "route_long_name": "VIHERLANDIA-VAAJAKOSKI"
+  },
+  {
+    "route_id": "9051",
+    "route_short_name": "5",
+    "route_long_name": "YLISTÖNMÄKI-VIITANIEMI"
+  },
+  {
+    "route_id": "9053",
+    "route_short_name": "5K",
+    "route_long_name": "YLISTÖNMÄKI-KORTEPOHJA-YLISTÖNMÄKI"
+  },
+  {
+    "route_id": "9071",
+    "route_short_name": "7",
+    "route_long_name": "SÄÄKSVUORI-VIITANIEMI"
+  },
+  {
+    "route_id": "9081",
+    "route_short_name": "8",
+    "route_long_name": "KUOKKALA-VIITANIEMI"
+  },
+  {
+    "route_id": "9091",
+    "route_short_name": "9",
+    "route_long_name": "VAAJAKOSKI-SAVULAHTI"
+  },
+  {
+    "route_id": "9092",
+    "route_short_name": "9K",
+    "route_long_name": "VAAJAKOSKI-SAVULAHTI"
+  },
+  {
+    "route_id": "9121",
+    "route_short_name": "12",
+    "route_long_name": "KANGASLAMPI-KELTINMÄKI"
+  },
+  {
+    "route_id": "9123",
+    "route_short_name": "12K",
+    "route_long_name": "YLÄMYLLYJÄRVI-PALOKANGAS"
+  },
+  {
+    "route_id": "9131",
+    "route_short_name": "13",
+    "route_long_name": "TIKKALA-KAUPPATORI"
+  },
+  {
+    "route_id": "9141",
+    "route_short_name": "14",
+    "route_long_name": "MUURAME-KANGASLAMPI"
+  },
+  {
+    "route_id": "9143",
+    "route_short_name": "14M",
+    "route_long_name": "VERKKONIEMI-9TIE-VIITANIEMI"
+  },
+  {
+    "route_id": "9151",
+    "route_short_name": "15",
+    "route_long_name": "VIHERLANDIA-KESKUSTA"
+  },
+  {
+    "route_id": "9153",
+    "route_short_name": "15K",
+    "route_long_name": "VIHERLANDIA-KSAIRAALA"
+  },
+  {
+    "route_id": "9161",
+    "route_short_name": "16",
+    "route_long_name": "MUURATSALO-KESKUSSAIRAALA"
+  },
+  {
+    "route_id": "9163",
+    "route_short_name": "16M",
+    "route_long_name": "MUURATSALO-VIITANIEMI"
+  },
+  {
+    "route_id": "9201",
+    "route_short_name": "20",
+    "route_long_name": "PUPUHUHTA-KAURAMÄKI"
+  },
+  {
+    "route_id": "9211",
+    "route_short_name": "21",
+    "route_long_name": "MUURAME-KAUPPATORI"
+  },
+  {
+    "route_id": "9221",
+    "route_short_name": "22",
+    "route_long_name": "TIKKAKOSKI-KESKUSTA-KESKUSSAIRAALA"
+  },
+  {
+    "route_id": "9223",
+    "route_short_name": "22M",
+    "route_long_name": "TIKKAKOSKI-4TIE-KESKUSSAIRAALA"
+  },
+  {
+    "route_id": "9227",
+    "route_short_name": "KOULUKYYTI",
+    "route_long_name": "Laajavuori-Mankola"
+  },
+  {
+    "route_id": "9231",
+    "route_short_name": "23",
+    "route_long_name": "KIRRI-KESKUSSAIRAALA"
+  },
+  {
+    "route_id": "9261",
+    "route_short_name": "26",
+    "route_long_name": "JYLHA-YLISTÖNMÄKI"
+  },
+  {
+    "route_id": "9311",
+    "route_short_name": "31",
+    "route_long_name": "SAARENMAA-LINTUKANGAS-KESKUSTA"
+  },
+  {
+    "route_id": "9321",
+    "route_short_name": "32",
+    "route_long_name": "VERTAALA-PALOKKA-KESKUSTA"
+  },
+  {
+    "route_id": "9341",
+    "route_short_name": "34",
+    "route_long_name": "TIKKAKOSKI-JYLHÄ-PUUPPOLA"
+  },
+  {
+    "route_id": "9342",
+    "route_short_name": "34",
+    "route_long_name": "RANNILA-PUUPPOLA"
+  },
+  {
+    "route_id": "9361",
+    "route_short_name": "36",
+    "route_long_name": "TIKKAKOSKI-MATINMÄKI-KESKUSTA"
+  },
+  {
+    "route_id": "9372",
+    "route_short_name": "37",
+    "route_long_name": "KESKUSTA-NUUTTI-RUOKE-KESKUSTA"
+  },
+  {
+    "route_id": "9381",
+    "route_short_name": "38",
+    "route_long_name": "TOIVAKKA-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "9383",
+    "route_short_name": "38K",
+    "route_long_name": "LEPPÄLAHTI-KESKUSTA"
+  },
+  {
+    "route_id": "9385",
+    "route_short_name": "38R",
+    "route_long_name": "TOIVAKKA-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "9391",
+    "route_short_name": "39",
+    "route_long_name": "RUOKE-KESKUSTA-RUOKE"
+  },
+  {
+    "route_id": "9401",
+    "route_short_name": "40",
+    "route_long_name": "KUOHU-KESKUSTA"
+  },
+  {
+    "route_id": "9411",
+    "route_short_name": "41",
+    "route_long_name": "LAUKAA-JYVÄSKYLÄ"
+  },
+  {
+    "route_id": "9414",
+    "route_short_name": "41",
+    "route_long_name": "JYVÄSKYLÄ-PEURUNKA"
+  },
+  {
+    "route_id": "9423",
+    "route_short_name": "42",
+    "route_long_name": "LIEVESTUORE-KESKUSSAIRAALA"
+  },
+  {
+    "route_id": "9431",
+    "route_short_name": "143",
+    "route_long_name": "JYVÄSKYLÄ-HANKASALMI"
+  },
+  {
+    "route_id": "9451",
+    "route_short_name": "45",
+    "route_long_name": "VAAJAKOSKI-PALOKKA"
+  },
+  {
+    "route_id": "9461",
+    "route_short_name": "46",
+    "route_long_name": "VIHERLANDIA-NOVA"
+  },
+  {
+    "route_id": "9601",
+    "route_short_name": "TARVAALA",
+    "route_long_name": "LAUKAA-VUONTEE-TARVAALA-LAUKAA"
+  },
+  {
+    "route_id": "9603",
+    "route_short_name": "NOJOSNIEMI",
+    "route_long_name": "NOJOSNIEMEN TH-LIEVESTUORE"
+  },
+  {
+    "route_id": "9604",
+    "route_short_name": "41",
+    "route_long_name": "JYVÄSKYLÄ-VATIA"
+  },
+  {
+    "route_id": "9801",
+    "route_short_name": "100",
+    "route_long_name": "Rutalahti - Korpilahti"
+  },
+  {
+    "route_id": "9802",
+    "route_short_name": "100",
+    "route_long_name": "Korpilahti - Rutalahti"
+  }
+]

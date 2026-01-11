@@ -1,0 +1,8806 @@
+[
+  {
+    "stop_id": "1",
+    "stop_name": "Linkkikeskus"
+  },
+  {
+    "stop_id": "3",
+    "stop_name": "Äänekoski"
+  },
+  {
+    "stop_id": "16727/1/3906",
+    "stop_name": "Nokintie th"
+  },
+  {
+    "stop_id": "90170",
+    "stop_name": "Syrjälä E"
+  },
+  {
+    "stop_id": "90171",
+    "stop_name": "Syrjälä P"
+  },
+  {
+    "stop_id": "90172",
+    "stop_name": "Pohjoonlahti E"
+  },
+  {
+    "stop_id": "90173",
+    "stop_name": "Pohjoonlahti P"
+  },
+  {
+    "stop_id": "90174",
+    "stop_name": "Kaarre E"
+  },
+  {
+    "stop_id": "90175",
+    "stop_name": "Kaarre P"
+  },
+  {
+    "stop_id": "90176",
+    "stop_name": "Norolantie E"
+  },
+  {
+    "stop_id": "90177",
+    "stop_name": "Norolantie P"
+  },
+  {
+    "stop_id": "90178",
+    "stop_name": "Kuorekallio E"
+  },
+  {
+    "stop_id": "90179",
+    "stop_name": "Kuorekallio P"
+  },
+  {
+    "stop_id": "90180",
+    "stop_name": "Kiviriihi E"
+  },
+  {
+    "stop_id": "90181",
+    "stop_name": "Kiviriihi P"
+  },
+  {
+    "stop_id": "90182",
+    "stop_name": "Majalahti E"
+  },
+  {
+    "stop_id": "90183",
+    "stop_name": "Majalahti P"
+  },
+  {
+    "stop_id": "90186",
+    "stop_name": "Syvälahti I"
+  },
+  {
+    "stop_id": "90187",
+    "stop_name": "Syvälahti L"
+  },
+  {
+    "stop_id": "90188",
+    "stop_name": "Korpelantie I"
+  },
+  {
+    "stop_id": "90189",
+    "stop_name": "Korpelantie P"
+  },
+  {
+    "stop_id": "90190",
+    "stop_name": "Kaukaanlahti P"
+  },
+  {
+    "stop_id": "90191",
+    "stop_name": "Kaukaanlahti E"
+  },
+  {
+    "stop_id": "90192",
+    "stop_name": "Multamäki P"
+  },
+  {
+    "stop_id": "90193",
+    "stop_name": "Multamäki E"
+  },
+  {
+    "stop_id": "90194",
+    "stop_name": "Haukanmaa E"
+  },
+  {
+    "stop_id": "90195",
+    "stop_name": "Haukanmaa P"
+  },
+  {
+    "stop_id": "90196",
+    "stop_name": "Harjulantie E"
+  },
+  {
+    "stop_id": "90197",
+    "stop_name": "Harjulantie P"
+  },
+  {
+    "stop_id": "90198",
+    "stop_name": "Oravasaari E"
+  },
+  {
+    "stop_id": "90199",
+    "stop_name": "Oravasaari P"
+  },
+  {
+    "stop_id": "90200",
+    "stop_name": "Aijasaho E"
+  },
+  {
+    "stop_id": "90201",
+    "stop_name": "Aijasaho P"
+  },
+  {
+    "stop_id": "90202",
+    "stop_name": "Pölönen E"
+  },
+  {
+    "stop_id": "90203",
+    "stop_name": "Pölönen P"
+  },
+  {
+    "stop_id": "90204",
+    "stop_name": "Kotalahti E"
+  },
+  {
+    "stop_id": "90205",
+    "stop_name": "Kotaniemi P"
+  },
+  {
+    "stop_id": "90206",
+    "stop_name": "Jääskelä E"
+  },
+  {
+    "stop_id": "90207",
+    "stop_name": "Jääskelä P"
+  },
+  {
+    "stop_id": "90208",
+    "stop_name": "Tura th P"
+  },
+  {
+    "stop_id": "90209",
+    "stop_name": "Tura th E"
+  },
+  {
+    "stop_id": "90210",
+    "stop_name": "Mäntylahti E"
+  },
+  {
+    "stop_id": "90211",
+    "stop_name": "Mäntylahti P"
+  },
+  {
+    "stop_id": "90212",
+    "stop_name": "Hokkatuomas P"
+  },
+  {
+    "stop_id": "90213",
+    "stop_name": "Hokkatuomas E"
+  },
+  {
+    "stop_id": "90214",
+    "stop_name": "Jussilanmutka P"
+  },
+  {
+    "stop_id": "90215",
+    "stop_name": "Jussilanmutka E"
+  },
+  {
+    "stop_id": "90216",
+    "stop_name": "Jussila P"
+  },
+  {
+    "stop_id": "90217",
+    "stop_name": "Jussila E"
+  },
+  {
+    "stop_id": "90218",
+    "stop_name": "Kairahta E"
+  },
+  {
+    "stop_id": "90219",
+    "stop_name": "Kairahta P"
+  },
+  {
+    "stop_id": "90220",
+    "stop_name": "Kanavuori P"
+  },
+  {
+    "stop_id": "90221",
+    "stop_name": "Kanavuori E"
+  },
+  {
+    "stop_id": "90222",
+    "stop_name": "Laurinniemi th E"
+  },
+  {
+    "stop_id": "90223",
+    "stop_name": "Laurinniemi th P"
+  },
+  {
+    "stop_id": "90224",
+    "stop_name": "Hupeli E"
+  },
+  {
+    "stop_id": "90225",
+    "stop_name": "Hupeli P"
+  },
+  {
+    "stop_id": "90226",
+    "stop_name": "Siperianpolku E"
+  },
+  {
+    "stop_id": "90227",
+    "stop_name": "Siperianpolku P"
+  },
+  {
+    "stop_id": "90228",
+    "stop_name": "Konttisentie L"
+  },
+  {
+    "stop_id": "90229",
+    "stop_name": "Konttisentie I"
+  },
+  {
+    "stop_id": "90266",
+    "stop_name": "Vehniä koulu nelostie E"
+  },
+  {
+    "stop_id": "90267",
+    "stop_name": "Vehniä koulu nelostie P"
+  },
+  {
+    "stop_id": "90268",
+    "stop_name": "Jokihaara th E"
+  },
+  {
+    "stop_id": "90269",
+    "stop_name": "Jokihaara th P"
+  },
+  {
+    "stop_id": "90270",
+    "stop_name": "Uusi-Paavola E"
+  },
+  {
+    "stop_id": "90271",
+    "stop_name": "Uusi-Paavola P"
+  },
+  {
+    "stop_id": "90272",
+    "stop_name": "Rantala E"
+  },
+  {
+    "stop_id": "90273",
+    "stop_name": "Rantala P"
+  },
+  {
+    "stop_id": "90274",
+    "stop_name": "Paananen E"
+  },
+  {
+    "stop_id": "90275",
+    "stop_name": "Paananen P"
+  },
+  {
+    "stop_id": "90276",
+    "stop_name": "Hovila E"
+  },
+  {
+    "stop_id": "90277",
+    "stop_name": "Hovila P"
+  },
+  {
+    "stop_id": "90278",
+    "stop_name": "Markunranta E"
+  },
+  {
+    "stop_id": "90279",
+    "stop_name": "Markunranta P"
+  },
+  {
+    "stop_id": "90280",
+    "stop_name": "Hirvasen Koulu E"
+  },
+  {
+    "stop_id": "90281",
+    "stop_name": "Hirvasen koulu P"
+  },
+  {
+    "stop_id": "90306",
+    "stop_name": "Mämmenkylä E"
+  },
+  {
+    "stop_id": "90307",
+    "stop_name": "Mämmenkylä P"
+  },
+  {
+    "stop_id": "90308",
+    "stop_name": "Karvalahti E"
+  },
+  {
+    "stop_id": "90309",
+    "stop_name": "Karvalahti P"
+  },
+  {
+    "stop_id": "90318",
+    "stop_name": "Häkkiläntie P"
+  },
+  {
+    "stop_id": "90319",
+    "stop_name": "Polunharjuntie E"
+  },
+  {
+    "stop_id": "90320",
+    "stop_name": "Polunharjuntie P"
+  },
+  {
+    "stop_id": "90321",
+    "stop_name": "Konginkangas th E"
+  },
+  {
+    "stop_id": "90326",
+    "stop_name": "Rajakorpi P"
+  },
+  {
+    "stop_id": "90327",
+    "stop_name": "Lekosaari E"
+  },
+  {
+    "stop_id": "90329",
+    "stop_name": "Murontie E"
+  },
+  {
+    "stop_id": "90330",
+    "stop_name": "Murontie P"
+  },
+  {
+    "stop_id": "90331",
+    "stop_name": "Maso E"
+  },
+  {
+    "stop_id": "90332",
+    "stop_name": "Maso P"
+  },
+  {
+    "stop_id": "90333",
+    "stop_name": "Riita-ahontie E"
+  },
+  {
+    "stop_id": "90334",
+    "stop_name": "Riita-ahontie P"
+  },
+  {
+    "stop_id": "90335",
+    "stop_name": "Kalaniemi E nelostie"
+  },
+  {
+    "stop_id": "90506",
+    "stop_name": "Perälänraitti E"
+  },
+  {
+    "stop_id": "90507",
+    "stop_name": "Perälänraitti P"
+  },
+  {
+    "stop_id": "90508",
+    "stop_name": "Peltola E (Korpilahti)"
+  },
+  {
+    "stop_id": "90509",
+    "stop_name": "Peltola P (Korpilahti)"
+  },
+  {
+    "stop_id": "90510",
+    "stop_name": "Saakoski E"
+  },
+  {
+    "stop_id": "90511",
+    "stop_name": "Saakoski P"
+  },
+  {
+    "stop_id": "90512",
+    "stop_name": "Saarentie E"
+  },
+  {
+    "stop_id": "90513",
+    "stop_name": "Saarentie P"
+  },
+  {
+    "stop_id": "90514",
+    "stop_name": "Saalahdentie E"
+  },
+  {
+    "stop_id": "90515",
+    "stop_name": "Saalahdentie P"
+  },
+  {
+    "stop_id": "90516",
+    "stop_name": "Kuusimäki E"
+  },
+  {
+    "stop_id": "90517",
+    "stop_name": "Kuusimäki I"
+  },
+  {
+    "stop_id": "90518",
+    "stop_name": "Painaantie L"
+  },
+  {
+    "stop_id": "90519",
+    "stop_name": "Painaantie I"
+  },
+  {
+    "stop_id": "90520",
+    "stop_name": "Painaa L"
+  },
+  {
+    "stop_id": "90521",
+    "stop_name": "Painaa I"
+  },
+  {
+    "stop_id": "90522",
+    "stop_name": "Rimminjärvi L"
+  },
+  {
+    "stop_id": "90523",
+    "stop_name": "Rimminjärvi I"
+  },
+  {
+    "stop_id": "90524",
+    "stop_name": "Lautakontie L"
+  },
+  {
+    "stop_id": "90525",
+    "stop_name": "Lautakontie I"
+  },
+  {
+    "stop_id": "90526",
+    "stop_name": "Reivilä L"
+  },
+  {
+    "stop_id": "90527",
+    "stop_name": "Reivilä I"
+  },
+  {
+    "stop_id": "90530",
+    "stop_name": "Petäjävesi th I"
+  },
+  {
+    "stop_id": "90531",
+    "stop_name": "Sammalniemi th L"
+  },
+  {
+    "stop_id": "90532",
+    "stop_name": "Sammalniemi th P"
+  },
+  {
+    "stop_id": "90533",
+    "stop_name": "Joutsa th E"
+  },
+  {
+    "stop_id": "90534",
+    "stop_name": "Joutsa th P"
+  },
+  {
+    "stop_id": "90535",
+    "stop_name": "Maatiajärvi E"
+  },
+  {
+    "stop_id": "90536",
+    "stop_name": "Maatiajärvi P"
+  },
+  {
+    "stop_id": "90537",
+    "stop_name": "Punamäentie E"
+  },
+  {
+    "stop_id": "90538",
+    "stop_name": "Punamäentie P"
+  },
+  {
+    "stop_id": "90539",
+    "stop_name": "Mäntylänpolku E"
+  },
+  {
+    "stop_id": "90540",
+    "stop_name": "Mäntylänpolku P"
+  },
+  {
+    "stop_id": "90541",
+    "stop_name": "Punamäki th E"
+  },
+  {
+    "stop_id": "90559",
+    "stop_name": "Autotalo Muurame E"
+  },
+  {
+    "stop_id": "90560",
+    "stop_name": "Autotalo Muurame P"
+  },
+  {
+    "stop_id": "90561",
+    "stop_name": "Oksalanmäentie E 9-tie"
+  },
+  {
+    "stop_id": "90562",
+    "stop_name": "Oksalanmäentie P 9-tie"
+  },
+  {
+    "stop_id": "90563",
+    "stop_name": "Syrjälä 9-tie P"
+  },
+  {
+    "stop_id": "90564",
+    "stop_name": "Syrjälä 9-tie E"
+  },
+  {
+    "stop_id": "90573",
+    "stop_name": "Kuopiontie 369 L"
+  },
+  {
+    "stop_id": "90574",
+    "stop_name": "Leppälahden th I"
+  },
+  {
+    "stop_id": "90575",
+    "stop_name": "Leppälahden th L"
+  },
+  {
+    "stop_id": "90576",
+    "stop_name": "Lepäsmutka L"
+  },
+  {
+    "stop_id": "90577",
+    "stop_name": "Lepäsmutka I"
+  },
+  {
+    "stop_id": "90578",
+    "stop_name": "Mehtoniementie L"
+  },
+  {
+    "stop_id": "90579",
+    "stop_name": "Mehtoniementie I"
+  },
+  {
+    "stop_id": "90580",
+    "stop_name": "Antinrinne L"
+  },
+  {
+    "stop_id": "90581",
+    "stop_name": "Antinrinne I"
+  },
+  {
+    "stop_id": "90582",
+    "stop_name": "Pommiovuorentie L"
+  },
+  {
+    "stop_id": "90583",
+    "stop_name": "Pommiovuorentie I"
+  },
+  {
+    "stop_id": "90584",
+    "stop_name": "Talvimäen th L"
+  },
+  {
+    "stop_id": "90585",
+    "stop_name": "Matinniemen th I"
+  },
+  {
+    "stop_id": "90586",
+    "stop_name": "Metsolahti th L"
+  },
+  {
+    "stop_id": "90587",
+    "stop_name": "Metsolahti th I"
+  },
+  {
+    "stop_id": "90588",
+    "stop_name": "Lipeälampi L"
+  },
+  {
+    "stop_id": "90589",
+    "stop_name": "Lipeälampi I"
+  },
+  {
+    "stop_id": "90590",
+    "stop_name": "Laukaanhovi L"
+  },
+  {
+    "stop_id": "90596",
+    "stop_name": "Hohontie I"
+  },
+  {
+    "stop_id": "90598",
+    "stop_name": "Taipale I"
+  },
+  {
+    "stop_id": "90599",
+    "stop_name": "Kuopiontie 2009 L"
+  },
+  {
+    "stop_id": "90600",
+    "stop_name": "Kuopiontie 2020 I"
+  },
+  {
+    "stop_id": "90601",
+    "stop_name": "Puhakan th L"
+  },
+  {
+    "stop_id": "90602",
+    "stop_name": "Puhakan th I"
+  },
+  {
+    "stop_id": "90603",
+    "stop_name": "Pajula L"
+  },
+  {
+    "stop_id": "90604",
+    "stop_name": "Pajula I"
+  },
+  {
+    "stop_id": "90605",
+    "stop_name": "Niittylä L"
+  },
+  {
+    "stop_id": "90606",
+    "stop_name": "Niittylä I"
+  },
+  {
+    "stop_id": "90607",
+    "stop_name": "Rämyntie L"
+  },
+  {
+    "stop_id": "90608",
+    "stop_name": "Rämyntie P"
+  },
+  {
+    "stop_id": "90609",
+    "stop_name": "Väinöntie E"
+  },
+  {
+    "stop_id": "90610",
+    "stop_name": "Väinöntie P"
+  },
+  {
+    "stop_id": "90611",
+    "stop_name": "Vuokonmaa E"
+  },
+  {
+    "stop_id": "90612",
+    "stop_name": "Vuokonmaa P"
+  },
+  {
+    "stop_id": "90613",
+    "stop_name": "Niemisjärvi th E"
+  },
+  {
+    "stop_id": "90615",
+    "stop_name": "Tuomiojantie L"
+  },
+  {
+    "stop_id": "90616",
+    "stop_name": "Tuomiojantie I"
+  },
+  {
+    "stop_id": "90617",
+    "stop_name": "Ahokkaantie L"
+  },
+  {
+    "stop_id": "90618",
+    "stop_name": "Ahokkaantie I"
+  },
+  {
+    "stop_id": "90619",
+    "stop_name": "Tuomaalantie L"
+  },
+  {
+    "stop_id": "90620",
+    "stop_name": "Tuomaalantie I"
+  },
+  {
+    "stop_id": "90621",
+    "stop_name": "Kovalanmäentie L"
+  },
+  {
+    "stop_id": "90622",
+    "stop_name": "Kovalanmäentie I"
+  },
+  {
+    "stop_id": "90623",
+    "stop_name": "Multainen I"
+  },
+  {
+    "stop_id": "90624",
+    "stop_name": "Multainen L"
+  },
+  {
+    "stop_id": "90625",
+    "stop_name": "Talvelantie L"
+  },
+  {
+    "stop_id": "90626",
+    "stop_name": "Talvelantie I"
+  },
+  {
+    "stop_id": "90627",
+    "stop_name": "Nujulanlenkki L"
+  },
+  {
+    "stop_id": "90803",
+    "stop_name": "Summakoskentie E"
+  },
+  {
+    "stop_id": "90804",
+    "stop_name": "Summakoskentie P"
+  },
+  {
+    "stop_id": "90805",
+    "stop_name": "Naurismäki E"
+  },
+  {
+    "stop_id": "90806",
+    "stop_name": "Naurismäki P"
+  },
+  {
+    "stop_id": "90807",
+    "stop_name": "Saviniementie P"
+  },
+  {
+    "stop_id": "90808",
+    "stop_name": "Saviniementie E"
+  },
+  {
+    "stop_id": "90809",
+    "stop_name": "Myllylahti P"
+  },
+  {
+    "stop_id": "90811",
+    "stop_name": "Hammarenintie P"
+  },
+  {
+    "stop_id": "90812",
+    "stop_name": "Parantala P"
+  },
+  {
+    "stop_id": "90814",
+    "stop_name": "Ahvenlampi E"
+  },
+  {
+    "stop_id": "90815",
+    "stop_name": "Ahvenlampi P"
+  },
+  {
+    "stop_id": "90816",
+    "stop_name": "Upatonpohjantie E"
+  },
+  {
+    "stop_id": "90817",
+    "stop_name": "Upatonpohjantie P"
+  },
+  {
+    "stop_id": "90818",
+    "stop_name": "Notkola P"
+  },
+  {
+    "stop_id": "90819",
+    "stop_name": "Notkola E"
+  },
+  {
+    "stop_id": "90820",
+    "stop_name": "Sarjantie P"
+  },
+  {
+    "stop_id": "90821",
+    "stop_name": "Sarjantie E"
+  },
+  {
+    "stop_id": "90822",
+    "stop_name": "Saarijärventie 800 E"
+  },
+  {
+    "stop_id": "90823",
+    "stop_name": "Saarijärventie 800 P"
+  },
+  {
+    "stop_id": "90824",
+    "stop_name": "Ukonlahti P"
+  },
+  {
+    "stop_id": "90825",
+    "stop_name": "Ukonlahti E"
+  },
+  {
+    "stop_id": "90826",
+    "stop_name": "Hietama P"
+  },
+  {
+    "stop_id": "90827",
+    "stop_name": "Hietama E"
+  },
+  {
+    "stop_id": "90828",
+    "stop_name": "Rantahaantie P"
+  },
+  {
+    "stop_id": "90829",
+    "stop_name": "Rantahaantie E"
+  },
+  {
+    "stop_id": "90830",
+    "stop_name": "Möttölänharju P"
+  },
+  {
+    "stop_id": "90831",
+    "stop_name": "Möttölänharju E"
+  },
+  {
+    "stop_id": "90832",
+    "stop_name": "Hietama hautausmaa E"
+  },
+  {
+    "stop_id": "90833",
+    "stop_name": "Hietama hautausmaa P"
+  },
+  {
+    "stop_id": "90834",
+    "stop_name": "Kolunpohjantie P"
+  },
+  {
+    "stop_id": "90835",
+    "stop_name": "Kolunpohjantie E"
+  },
+  {
+    "stop_id": "90836",
+    "stop_name": "Eevala P"
+  },
+  {
+    "stop_id": "90837",
+    "stop_name": "Eevala E"
+  },
+  {
+    "stop_id": "90838",
+    "stop_name": "Päivärinteentie P"
+  },
+  {
+    "stop_id": "90839",
+    "stop_name": "Päivärinteentie E"
+  },
+  {
+    "stop_id": "90843",
+    "stop_name": "Kangasniementie 434 P"
+  },
+  {
+    "stop_id": "90845",
+    "stop_name": "Reivintie P"
+  },
+  {
+    "stop_id": "90846",
+    "stop_name": "Reivintie E"
+  },
+  {
+    "stop_id": "90847",
+    "stop_name": "Ruuhimäki th P"
+  },
+  {
+    "stop_id": "90848",
+    "stop_name": "Ruuhimäki th E"
+  },
+  {
+    "stop_id": "90849",
+    "stop_name": "Hännilä P"
+  },
+  {
+    "stop_id": "90850",
+    "stop_name": "Hännilä E"
+  },
+  {
+    "stop_id": "90851",
+    "stop_name": "Uusitie th P"
+  },
+  {
+    "stop_id": "90852",
+    "stop_name": "Uusitie th E"
+  },
+  {
+    "stop_id": "90853",
+    "stop_name": "Saarela L"
+  },
+  {
+    "stop_id": "90854",
+    "stop_name": "Saarela I"
+  },
+  {
+    "stop_id": "90855",
+    "stop_name": "Taulu th P"
+  },
+  {
+    "stop_id": "90974",
+    "stop_name": "Imatran Voiman tie P"
+  },
+  {
+    "stop_id": "90975",
+    "stop_name": "Halkokangas L"
+  },
+  {
+    "stop_id": "90976",
+    "stop_name": "Halkokangas I"
+  },
+  {
+    "stop_id": "90977",
+    "stop_name": "Tiilimaantie L"
+  },
+  {
+    "stop_id": "90978",
+    "stop_name": "Tiilimaantie I"
+  },
+  {
+    "stop_id": "90979",
+    "stop_name": "Palvalahti L"
+  },
+  {
+    "stop_id": "90980",
+    "stop_name": "Palvalahti I"
+  },
+  {
+    "stop_id": "90981",
+    "stop_name": "Oiniemi L"
+  },
+  {
+    "stop_id": "90982",
+    "stop_name": "Oiniemi I"
+  },
+  {
+    "stop_id": "90983",
+    "stop_name": "Oiniementie L"
+  },
+  {
+    "stop_id": "90984",
+    "stop_name": "Oiniementie I"
+  },
+  {
+    "stop_id": "90985",
+    "stop_name": "Kannulanperä L"
+  },
+  {
+    "stop_id": "90986",
+    "stop_name": "Kannulanperä I"
+  },
+  {
+    "stop_id": "90987",
+    "stop_name": "Koskensaaren tehtaat L"
+  },
+  {
+    "stop_id": "90988",
+    "stop_name": "Koskensaaren tehtaat I"
+  },
+  {
+    "stop_id": "90989",
+    "stop_name": "Koskensaari L"
+  },
+  {
+    "stop_id": "90990",
+    "stop_name": "Koskensaari I"
+  },
+  {
+    "stop_id": "90991",
+    "stop_name": "Petäjävedentie 877 L"
+  },
+  {
+    "stop_id": "90992",
+    "stop_name": "Petäjävedentie 882 I"
+  },
+  {
+    "stop_id": "90993",
+    "stop_name": "Kivilinnantie L"
+  },
+  {
+    "stop_id": "90994",
+    "stop_name": "Kivilinnantie I"
+  },
+  {
+    "stop_id": "90995",
+    "stop_name": "Kintaus L"
+  },
+  {
+    "stop_id": "90996",
+    "stop_name": "Kintaus I"
+  },
+  {
+    "stop_id": "90997",
+    "stop_name": "Pekkalanmäki L"
+  },
+  {
+    "stop_id": "90998",
+    "stop_name": "Niemelä th L"
+  },
+  {
+    "stop_id": "90999",
+    "stop_name": "Niemeläth I"
+  },
+  {
+    "stop_id": "91000",
+    "stop_name": "Vehkasuo L"
+  },
+  {
+    "stop_id": "91001",
+    "stop_name": "Vehkasuo I"
+  },
+  {
+    "stop_id": "91002",
+    "stop_name": "Tallilantie L"
+  },
+  {
+    "stop_id": "91003",
+    "stop_name": "Tallilantie I"
+  },
+  {
+    "stop_id": "91004",
+    "stop_name": "Vehkasuontie L"
+  },
+  {
+    "stop_id": "91005",
+    "stop_name": "Vehkasuontie I"
+  },
+  {
+    "stop_id": "91006",
+    "stop_name": "Kuohu I"
+  },
+  {
+    "stop_id": "91007",
+    "stop_name": "Kuohu L"
+  },
+  {
+    "stop_id": "91008",
+    "stop_name": "Raiviokoskentie L"
+  },
+  {
+    "stop_id": "91009",
+    "stop_name": "Raiviokoskentie I"
+  },
+  {
+    "stop_id": "91010",
+    "stop_name": "Metsärannantie L"
+  },
+  {
+    "stop_id": "91011",
+    "stop_name": "Metsärannantie I"
+  },
+  {
+    "stop_id": "91012",
+    "stop_name": "Konnuntie L"
+  },
+  {
+    "stop_id": "91013",
+    "stop_name": "Konnuntie I"
+  },
+  {
+    "stop_id": "91014",
+    "stop_name": "Nuuttilantie L"
+  },
+  {
+    "stop_id": "91015",
+    "stop_name": "Nuuttilantie I"
+  },
+  {
+    "stop_id": "91016",
+    "stop_name": "Humalamäki L"
+  },
+  {
+    "stop_id": "91017",
+    "stop_name": "Humalamäki I"
+  },
+  {
+    "stop_id": "91018",
+    "stop_name": "Ala-Siekkiläntie L"
+  },
+  {
+    "stop_id": "91019",
+    "stop_name": "Ala-Siekkiläntie I"
+  },
+  {
+    "stop_id": "91020",
+    "stop_name": "Saukkolantie L"
+  },
+  {
+    "stop_id": "91021",
+    "stop_name": "Saukkolantie I"
+  },
+  {
+    "stop_id": "91022",
+    "stop_name": "Vesanka L"
+  },
+  {
+    "stop_id": "91023",
+    "stop_name": "Vesanka I"
+  },
+  {
+    "stop_id": "91024",
+    "stop_name": "Möykynmäki L"
+  },
+  {
+    "stop_id": "91025",
+    "stop_name": "Möykynmäki I"
+  },
+  {
+    "stop_id": "91026",
+    "stop_name": "Ruokkeentie th L"
+  },
+  {
+    "stop_id": "91027",
+    "stop_name": "Ruokkeentie th I"
+  },
+  {
+    "stop_id": "91028",
+    "stop_name": "Lehtiniemi L"
+  },
+  {
+    "stop_id": "91030",
+    "stop_name": "Mäyränpolku I"
+  },
+  {
+    "stop_id": "91032",
+    "stop_name": "Tarhamäki L"
+  },
+  {
+    "stop_id": "91121",
+    "stop_name": "Kalliosaari I"
+  },
+  {
+    "stop_id": "91122",
+    "stop_name": "Tervamäki L"
+  },
+  {
+    "stop_id": "91123",
+    "stop_name": "Tervamäki I"
+  },
+  {
+    "stop_id": "91124",
+    "stop_name": "Rautakylä L"
+  },
+  {
+    "stop_id": "91125",
+    "stop_name": "Rautakylä I"
+  },
+  {
+    "stop_id": "91301",
+    "stop_name": "Mäyränpolku L"
+  },
+  {
+    "stop_id": "91617",
+    "stop_name": "Lahdentauksentie I"
+  },
+  {
+    "stop_id": "91618",
+    "stop_name": "Lahdentauksentie L"
+  },
+  {
+    "stop_id": "91619",
+    "stop_name": "Koivistonkyläntie L"
+  },
+  {
+    "stop_id": "91622",
+    "stop_name": "Koivisto L"
+  },
+  {
+    "stop_id": "91623",
+    "stop_name": "Lehtovuori L"
+  },
+  {
+    "stop_id": "91624",
+    "stop_name": "Lehtovuori I"
+  },
+  {
+    "stop_id": "91625",
+    "stop_name": "Valkolantie I"
+  },
+  {
+    "stop_id": "91626",
+    "stop_name": "Valkolantie L"
+  },
+  {
+    "stop_id": "91627",
+    "stop_name": "Loukeentie I"
+  },
+  {
+    "stop_id": "91628",
+    "stop_name": "Loukeentie L"
+  },
+  {
+    "stop_id": "91629",
+    "stop_name": "Kapeenlahti L"
+  },
+  {
+    "stop_id": "91630",
+    "stop_name": "Kapeenlahti I"
+  },
+  {
+    "stop_id": "91631",
+    "stop_name": "Pukkiaho L"
+  },
+  {
+    "stop_id": "91632",
+    "stop_name": "Pukkiaho I"
+  },
+  {
+    "stop_id": "91633",
+    "stop_name": "Kaura-aho L"
+  },
+  {
+    "stop_id": "92128",
+    "stop_name": "Tikkala E"
+  },
+  {
+    "stop_id": "92149",
+    "stop_name": "Iloniementie L"
+  },
+  {
+    "stop_id": "92150",
+    "stop_name": "Iloniementie I"
+  },
+  {
+    "stop_id": "92151",
+    "stop_name": "Piesasentie L"
+  },
+  {
+    "stop_id": "92152",
+    "stop_name": "Piesasentie E"
+  },
+  {
+    "stop_id": "92153",
+    "stop_name": "Vitikkalantie P"
+  },
+  {
+    "stop_id": "92154",
+    "stop_name": "Vitikkalantie E"
+  },
+  {
+    "stop_id": "92155",
+    "stop_name": "Heinosniementie P"
+  },
+  {
+    "stop_id": "92156",
+    "stop_name": "Heinosniementie E"
+  },
+  {
+    "stop_id": "92157",
+    "stop_name": "Kärkinen L"
+  },
+  {
+    "stop_id": "92159",
+    "stop_name": "Tahkosaari P"
+  },
+  {
+    "stop_id": "92160",
+    "stop_name": "Tahkosaari E"
+  },
+  {
+    "stop_id": "92161",
+    "stop_name": "Lintusaari P"
+  },
+  {
+    "stop_id": "92162",
+    "stop_name": "Lintusaari E"
+  },
+  {
+    "stop_id": "92163",
+    "stop_name": "Sutostenpääntie P"
+  },
+  {
+    "stop_id": "92164",
+    "stop_name": "Sutostenpääntie E"
+  },
+  {
+    "stop_id": "92165",
+    "stop_name": "Kaurasuontie P"
+  },
+  {
+    "stop_id": "92166",
+    "stop_name": "Kaurasuontie E"
+  },
+  {
+    "stop_id": "92167",
+    "stop_name": "Veijonjärventie E"
+  },
+  {
+    "stop_id": "92168",
+    "stop_name": "Veijonjärventie P"
+  },
+  {
+    "stop_id": "92169",
+    "stop_name": "Syvälahti P"
+  },
+  {
+    "stop_id": "92170",
+    "stop_name": "Syvälahti E"
+  },
+  {
+    "stop_id": "92171",
+    "stop_name": "Veijontie P"
+  },
+  {
+    "stop_id": "92172",
+    "stop_name": "Veijontie E"
+  },
+  {
+    "stop_id": "92173",
+    "stop_name": "Oittilan th E"
+  },
+  {
+    "stop_id": "92174",
+    "stop_name": "Oittilan th P"
+  },
+  {
+    "stop_id": "92175",
+    "stop_name": "Syväkorventie E"
+  },
+  {
+    "stop_id": "92176",
+    "stop_name": "Syväkorventie P"
+  },
+  {
+    "stop_id": "92177",
+    "stop_name": "Niittyniementie P"
+  },
+  {
+    "stop_id": "92178",
+    "stop_name": "Niittyniementie E"
+  },
+  {
+    "stop_id": "92179",
+    "stop_name": "Vanhavaaruntie P"
+  },
+  {
+    "stop_id": "92180",
+    "stop_name": "Vanhavaaruntie E"
+  },
+  {
+    "stop_id": "92181",
+    "stop_name": "Nikkiläntie E"
+  },
+  {
+    "stop_id": "92182",
+    "stop_name": "Nikkiläntie P"
+  },
+  {
+    "stop_id": "92183",
+    "stop_name": "Töppöspohjantie E"
+  },
+  {
+    "stop_id": "92184",
+    "stop_name": "Töppöspohjantie P"
+  },
+  {
+    "stop_id": "92185",
+    "stop_name": "Könnöntie P"
+  },
+  {
+    "stop_id": "92186",
+    "stop_name": "Könnöntie E"
+  },
+  {
+    "stop_id": "92187",
+    "stop_name": "Putkilahti P"
+  },
+  {
+    "stop_id": "92188",
+    "stop_name": "Putkilahti E"
+  },
+  {
+    "stop_id": "92189",
+    "stop_name": "Herapohjantie P"
+  },
+  {
+    "stop_id": "92190",
+    "stop_name": "Kassinsaarentie E"
+  },
+  {
+    "stop_id": "92191",
+    "stop_name": "Etu-Varmantie P"
+  },
+  {
+    "stop_id": "92351",
+    "stop_name": "Vehmaantie E"
+  },
+  {
+    "stop_id": "92352",
+    "stop_name": "Vehmaantie P"
+  },
+  {
+    "stop_id": "92353",
+    "stop_name": "Kiikarvuori E"
+  },
+  {
+    "stop_id": "92354",
+    "stop_name": "Kiikarvuori P"
+  },
+  {
+    "stop_id": "92355",
+    "stop_name": "Kakaravaara E"
+  },
+  {
+    "stop_id": "92356",
+    "stop_name": "Kakaravaara P"
+  },
+  {
+    "stop_id": "92357",
+    "stop_name": "Kanervakuja E"
+  },
+  {
+    "stop_id": "92358",
+    "stop_name": "Paloisentie E"
+  },
+  {
+    "stop_id": "92359",
+    "stop_name": "Paloisentie P"
+  },
+  {
+    "stop_id": "92360",
+    "stop_name": "Toivakantie 57 E"
+  },
+  {
+    "stop_id": "92361",
+    "stop_name": "Toivakantie 57 P"
+  },
+  {
+    "stop_id": "92362",
+    "stop_name": "Aittojärventie E"
+  },
+  {
+    "stop_id": "92363",
+    "stop_name": "Aittojärventie P"
+  },
+  {
+    "stop_id": "92364",
+    "stop_name": "Saarisenraitti E"
+  },
+  {
+    "stop_id": "92365",
+    "stop_name": "Saarisenraitti P"
+  },
+  {
+    "stop_id": "92366",
+    "stop_name": "Leppälahdenväylä E"
+  },
+  {
+    "stop_id": "92367",
+    "stop_name": "Leppälahdenväylä P"
+  },
+  {
+    "stop_id": "92368",
+    "stop_name": "Havula E"
+  },
+  {
+    "stop_id": "92369",
+    "stop_name": "Havula P"
+  },
+  {
+    "stop_id": "92370",
+    "stop_name": "Havulankangas E"
+  },
+  {
+    "stop_id": "92371",
+    "stop_name": "Havulankangas P"
+  },
+  {
+    "stop_id": "92372",
+    "stop_name": "Liikalantie E"
+  },
+  {
+    "stop_id": "92373",
+    "stop_name": "Liikalantie P"
+  },
+  {
+    "stop_id": "92374",
+    "stop_name": "Lamminpäänlampi E"
+  },
+  {
+    "stop_id": "92375",
+    "stop_name": "Lamminpäänlampi P"
+  },
+  {
+    "stop_id": "92376",
+    "stop_name": "Valkeisentie E"
+  },
+  {
+    "stop_id": "92377",
+    "stop_name": "Valkeisentie P"
+  },
+  {
+    "stop_id": "92378",
+    "stop_name": "Maunonen E"
+  },
+  {
+    "stop_id": "92379",
+    "stop_name": "Maunonen P"
+  },
+  {
+    "stop_id": "92380",
+    "stop_name": "Salmenniemi E"
+  },
+  {
+    "stop_id": "92381",
+    "stop_name": "Huikon kylätalo P"
+  },
+  {
+    "stop_id": "92382",
+    "stop_name": "Huikon kylätalo E"
+  },
+  {
+    "stop_id": "92383",
+    "stop_name": "Huikko P"
+  },
+  {
+    "stop_id": "92384",
+    "stop_name": "Hautakoskentie E"
+  },
+  {
+    "stop_id": "92385",
+    "stop_name": "Hautakoskentie P"
+  },
+  {
+    "stop_id": "92386",
+    "stop_name": "Särkilamminsuo E"
+  },
+  {
+    "stop_id": "92387",
+    "stop_name": "Särkilamminsuo P"
+  },
+  {
+    "stop_id": "92388",
+    "stop_name": "Ruokosenkangas E"
+  },
+  {
+    "stop_id": "92390",
+    "stop_name": "Huikontie 907 E"
+  },
+  {
+    "stop_id": "92391",
+    "stop_name": "Huikontie 915 P"
+  },
+  {
+    "stop_id": "92392",
+    "stop_name": "Ruuhimäki th E"
+  },
+  {
+    "stop_id": "92393",
+    "stop_name": "Ruuhimäki th P"
+  },
+  {
+    "stop_id": "92394",
+    "stop_name": "Ruuhipirtintie E"
+  },
+  {
+    "stop_id": "92395",
+    "stop_name": "Ruuhipirtintie I"
+  },
+  {
+    "stop_id": "92396",
+    "stop_name": "Kangasniementie L"
+  },
+  {
+    "stop_id": "92527",
+    "stop_name": "Saarijärventie P"
+  },
+  {
+    "stop_id": "92528",
+    "stop_name": "Lintukangas E"
+  },
+  {
+    "stop_id": "92529",
+    "stop_name": "Lintukangas P"
+  },
+  {
+    "stop_id": "92530",
+    "stop_name": "Lintula P"
+  },
+  {
+    "stop_id": "92531",
+    "stop_name": "Lintula E"
+  },
+  {
+    "stop_id": "92532",
+    "stop_name": "Pohjola E"
+  },
+  {
+    "stop_id": "92533",
+    "stop_name": "Pohjola P"
+  },
+  {
+    "stop_id": "92534",
+    "stop_name": "Rannilantie E"
+  },
+  {
+    "stop_id": "92535",
+    "stop_name": "Rannilantie P"
+  },
+  {
+    "stop_id": "92536",
+    "stop_name": "Kennääntie E"
+  },
+  {
+    "stop_id": "92537",
+    "stop_name": "Kennääntie P"
+  },
+  {
+    "stop_id": "92538",
+    "stop_name": "Korttajärvi P"
+  },
+  {
+    "stop_id": "92539",
+    "stop_name": "Korttajärvi E"
+  },
+  {
+    "stop_id": "92540",
+    "stop_name": "Puuppola E"
+  },
+  {
+    "stop_id": "92541",
+    "stop_name": "Puuppola P"
+  },
+  {
+    "stop_id": "92542",
+    "stop_name": "Lehtotie E"
+  },
+  {
+    "stop_id": "92543",
+    "stop_name": "Lehtotie P"
+  },
+  {
+    "stop_id": "92545",
+    "stop_name": "Suontaustantie P"
+  },
+  {
+    "stop_id": "92546",
+    "stop_name": "Mehtolantie E"
+  },
+  {
+    "stop_id": "92547",
+    "stop_name": "Mehtolantie P"
+  },
+  {
+    "stop_id": "92548",
+    "stop_name": "Tikantie th E"
+  },
+  {
+    "stop_id": "92549",
+    "stop_name": "Tikantie th P"
+  },
+  {
+    "stop_id": "92550",
+    "stop_name": "Rajaniementie E"
+  },
+  {
+    "stop_id": "92551",
+    "stop_name": "Rajaniementie L"
+  },
+  {
+    "stop_id": "92552",
+    "stop_name": "Korkeamäki I"
+  },
+  {
+    "stop_id": "92553",
+    "stop_name": "Korkeamäki L"
+  },
+  {
+    "stop_id": "92554",
+    "stop_name": "Heinosenmäki I"
+  },
+  {
+    "stop_id": "92555",
+    "stop_name": "Heinosenmäki P"
+  },
+  {
+    "stop_id": "92556",
+    "stop_name": "Ränssi E"
+  },
+  {
+    "stop_id": "92557",
+    "stop_name": "Ränssi P"
+  },
+  {
+    "stop_id": "92558",
+    "stop_name": "Kuikka P"
+  },
+  {
+    "stop_id": "92559",
+    "stop_name": "Kuikka E"
+  },
+  {
+    "stop_id": "92560",
+    "stop_name": "Kuikan lava E"
+  },
+  {
+    "stop_id": "92561",
+    "stop_name": "Kuikan lava P"
+  },
+  {
+    "stop_id": "92562",
+    "stop_name": "Töyryläntie E"
+  },
+  {
+    "stop_id": "92563",
+    "stop_name": "Töyryläntie P"
+  },
+  {
+    "stop_id": "92564",
+    "stop_name": "Köntysmäentie E"
+  },
+  {
+    "stop_id": "92565",
+    "stop_name": "Köntysmäentie P"
+  },
+  {
+    "stop_id": "92566",
+    "stop_name": "Syväoja E"
+  },
+  {
+    "stop_id": "92567",
+    "stop_name": "Syväoja P"
+  },
+  {
+    "stop_id": "92720",
+    "stop_name": "Ampumaradantie E"
+  },
+  {
+    "stop_id": "92721",
+    "stop_name": "Ampumaradantie P"
+  },
+  {
+    "stop_id": "92722",
+    "stop_name": "Tiituspohja th L"
+  },
+  {
+    "stop_id": "92726",
+    "stop_name": "Tiituspohja E"
+  },
+  {
+    "stop_id": "92727",
+    "stop_name": "Tiituspohja P"
+  },
+  {
+    "stop_id": "92728",
+    "stop_name": "Aallopintie E"
+  },
+  {
+    "stop_id": "92729",
+    "stop_name": "Aallopintie P"
+  },
+  {
+    "stop_id": "92730",
+    "stop_name": "Vaajakoski th E"
+  },
+  {
+    "stop_id": "92731",
+    "stop_name": "Vaajakoski th P"
+  },
+  {
+    "stop_id": "92733",
+    "stop_name": "Ala-Kuukkalantie E"
+  },
+  {
+    "stop_id": "92734",
+    "stop_name": "Ala-Kuukkalantie P"
+  },
+  {
+    "stop_id": "92735",
+    "stop_name": "Pekkalantie P"
+  },
+  {
+    "stop_id": "92736",
+    "stop_name": "Tikkisentie E"
+  },
+  {
+    "stop_id": "92737",
+    "stop_name": "Tikkisentie P"
+  },
+  {
+    "stop_id": "92738",
+    "stop_name": "Sikomäki E"
+  },
+  {
+    "stop_id": "92739",
+    "stop_name": "Sikomäki P"
+  },
+  {
+    "stop_id": "92740",
+    "stop_name": "Jyväskyläntie 643 E"
+  },
+  {
+    "stop_id": "92741",
+    "stop_name": "Jyväskyläntie 636 P"
+  },
+  {
+    "stop_id": "92742",
+    "stop_name": "Hienonen th E"
+  },
+  {
+    "stop_id": "92743",
+    "stop_name": "Hienonen th P"
+  },
+  {
+    "stop_id": "92744",
+    "stop_name": "Haaviston th E"
+  },
+  {
+    "stop_id": "92745",
+    "stop_name": "Jyväskyläntie 517 P"
+  },
+  {
+    "stop_id": "92746",
+    "stop_name": "Pieni Kuhajärvi E"
+  },
+  {
+    "stop_id": "92747",
+    "stop_name": "Pieni Kuhajärvi P"
+  },
+  {
+    "stop_id": "92748",
+    "stop_name": "Leppäläntie E"
+  },
+  {
+    "stop_id": "92749",
+    "stop_name": "Leppäläntie P"
+  },
+  {
+    "stop_id": "92750",
+    "stop_name": "Lahnajärvi E"
+  },
+  {
+    "stop_id": "92751",
+    "stop_name": "Lahnajärvi P"
+  },
+  {
+    "stop_id": "92752",
+    "stop_name": "Lemettilänmäentie E"
+  },
+  {
+    "stop_id": "92753",
+    "stop_name": "Lemettilänmäentie P"
+  },
+  {
+    "stop_id": "92754",
+    "stop_name": "Rajamäki P"
+  },
+  {
+    "stop_id": "92755",
+    "stop_name": "Vuojärvi E"
+  },
+  {
+    "stop_id": "92756",
+    "stop_name": "Uimarannantie E"
+  },
+  {
+    "stop_id": "92757",
+    "stop_name": "Uimarannantie P"
+  },
+  {
+    "stop_id": "92758",
+    "stop_name": "Laajalahdentie P"
+  },
+  {
+    "stop_id": "92759",
+    "stop_name": "Laajalahdentie E"
+  },
+  {
+    "stop_id": "92760",
+    "stop_name": "Rokkakangas E"
+  },
+  {
+    "stop_id": "92761",
+    "stop_name": "Rokkakangas P"
+  },
+  {
+    "stop_id": "92762",
+    "stop_name": "Rokkamäki Vehniä th E"
+  },
+  {
+    "stop_id": "92763",
+    "stop_name": "Rokkamäki Vehniä th P"
+  },
+  {
+    "stop_id": "92764",
+    "stop_name": "Peurungantie E"
+  },
+  {
+    "stop_id": "92765",
+    "stop_name": "Peurungantie P"
+  },
+  {
+    "stop_id": "92766",
+    "stop_name": "Harjutie E"
+  },
+  {
+    "stop_id": "92767",
+    "stop_name": "Harjutie P"
+  },
+  {
+    "stop_id": "92768",
+    "stop_name": "Hinkkasensuora P"
+  },
+  {
+    "stop_id": "92769",
+    "stop_name": "Hinkkasensuora E"
+  },
+  {
+    "stop_id": "92770",
+    "stop_name": "Suolahdentie 425 E"
+  },
+  {
+    "stop_id": "92771",
+    "stop_name": "Suolahdentie 425 P"
+  },
+  {
+    "stop_id": "92772",
+    "stop_name": "Oitinkorpi E"
+  },
+  {
+    "stop_id": "92773",
+    "stop_name": "Oitinkorpi P"
+  },
+  {
+    "stop_id": "92774",
+    "stop_name": "Koskelantie E"
+  },
+  {
+    "stop_id": "92775",
+    "stop_name": "Koskelantie P"
+  },
+  {
+    "stop_id": "92776",
+    "stop_name": "Kuusa E"
+  },
+  {
+    "stop_id": "92777",
+    "stop_name": "Kuusa P"
+  },
+  {
+    "stop_id": "92778",
+    "stop_name": "Äijäläntien siltä I"
+  },
+  {
+    "stop_id": "92779",
+    "stop_name": "Äijäläntien siltä L"
+  },
+  {
+    "stop_id": "92780",
+    "stop_name": "Talaanmäki L"
+  },
+  {
+    "stop_id": "92781",
+    "stop_name": "Talaanmäki I"
+  },
+  {
+    "stop_id": "92782",
+    "stop_name": "Ränssi th L"
+  },
+  {
+    "stop_id": "92783",
+    "stop_name": "Ränssi th I"
+  },
+  {
+    "stop_id": "92784",
+    "stop_name": "Kauppisen notko I"
+  },
+  {
+    "stop_id": "92785",
+    "stop_name": "Kauppisen notko L"
+  },
+  {
+    "stop_id": "92786",
+    "stop_name": "Leinolantie E"
+  },
+  {
+    "stop_id": "92787",
+    "stop_name": "Leinolantie P"
+  },
+  {
+    "stop_id": "92788",
+    "stop_name": "Nikinsuo E"
+  },
+  {
+    "stop_id": "92789",
+    "stop_name": "Nikinsuo P"
+  },
+  {
+    "stop_id": "92790",
+    "stop_name": "Viitalantie E"
+  },
+  {
+    "stop_id": "92791",
+    "stop_name": "Viitalantie P"
+  },
+  {
+    "stop_id": "92792",
+    "stop_name": "Allunlahdentie E"
+  },
+  {
+    "stop_id": "92793",
+    "stop_name": "Allunlahdentie P"
+  },
+  {
+    "stop_id": "92794",
+    "stop_name": "Tervatehdas E"
+  },
+  {
+    "stop_id": "92795",
+    "stop_name": "Tervatehdas P"
+  },
+  {
+    "stop_id": "92796",
+    "stop_name": "Hietasyrjän th P"
+  },
+  {
+    "stop_id": "92797",
+    "stop_name": "Hietasyrjän th E"
+  },
+  {
+    "stop_id": "92798",
+    "stop_name": "Korkeakoski L"
+  },
+  {
+    "stop_id": "92799",
+    "stop_name": "Korkeakoski I"
+  },
+  {
+    "stop_id": "92800",
+    "stop_name": "Miljoonatie L"
+  },
+  {
+    "stop_id": "92801",
+    "stop_name": "Miljoonatie I"
+  },
+  {
+    "stop_id": "92802",
+    "stop_name": "Tervalampi E"
+  },
+  {
+    "stop_id": "92803",
+    "stop_name": "Tervalampi P"
+  },
+  {
+    "stop_id": "92804",
+    "stop_name": "Nurmijärventie P"
+  },
+  {
+    "stop_id": "92805",
+    "stop_name": "Nurmijärventie E"
+  },
+  {
+    "stop_id": "92806",
+    "stop_name": "Isolahti E"
+  },
+  {
+    "stop_id": "92807",
+    "stop_name": "Isolahti P"
+  },
+  {
+    "stop_id": "92808",
+    "stop_name": "Häppäläntie E"
+  },
+  {
+    "stop_id": "92809",
+    "stop_name": "Häppäläntie P"
+  },
+  {
+    "stop_id": "92810",
+    "stop_name": "Äijälä E"
+  },
+  {
+    "stop_id": "92811",
+    "stop_name": "Äijälä P"
+  },
+  {
+    "stop_id": "92812",
+    "stop_name": "Muikkuniementie E"
+  },
+  {
+    "stop_id": "92813",
+    "stop_name": "Muikkuniementie P"
+  },
+  {
+    "stop_id": "92814",
+    "stop_name": "Ristilä E"
+  },
+  {
+    "stop_id": "92815",
+    "stop_name": "Ristilä P"
+  },
+  {
+    "stop_id": "92816",
+    "stop_name": "Uurapohjantie E"
+  },
+  {
+    "stop_id": "92817",
+    "stop_name": "Uurapohjantie P"
+  },
+  {
+    "stop_id": "92818",
+    "stop_name": "Lepikontie E"
+  },
+  {
+    "stop_id": "92819",
+    "stop_name": "Lepikontie P"
+  },
+  {
+    "stop_id": "92820",
+    "stop_name": "Heinäaho E"
+  },
+  {
+    "stop_id": "92821",
+    "stop_name": "Heinäaho P"
+  },
+  {
+    "stop_id": "92828",
+    "stop_name": "Saarikkaantie I"
+  },
+  {
+    "stop_id": "92829",
+    "stop_name": "Kuokankangas P"
+  },
+  {
+    "stop_id": "92830",
+    "stop_name": "Kuokankangas E"
+  },
+  {
+    "stop_id": "92831",
+    "stop_name": "Sumiainen kirkko E"
+  },
+  {
+    "stop_id": "92832",
+    "stop_name": "Sumiainen kirkko P"
+  },
+  {
+    "stop_id": "92833",
+    "stop_name": "Hakolanpelto E"
+  },
+  {
+    "stop_id": "92834",
+    "stop_name": "Heikkisniementie E"
+  },
+  {
+    "stop_id": "92835",
+    "stop_name": "Heikkisniementie P"
+  },
+  {
+    "stop_id": "92836",
+    "stop_name": "Majasaari E"
+  },
+  {
+    "stop_id": "92837",
+    "stop_name": "Majasaari P"
+  },
+  {
+    "stop_id": "92838",
+    "stop_name": "Peiponsalmi E"
+  },
+  {
+    "stop_id": "92839",
+    "stop_name": "Peiponsalmi P"
+  },
+  {
+    "stop_id": "92840",
+    "stop_name": "Niinimäentie E"
+  },
+  {
+    "stop_id": "92841",
+    "stop_name": "Niinimäentie P"
+  },
+  {
+    "stop_id": "92842",
+    "stop_name": "Kierälahti E"
+  },
+  {
+    "stop_id": "92843",
+    "stop_name": "Kierälahti P"
+  },
+  {
+    "stop_id": "92844",
+    "stop_name": "Matilanvirrantie 1038 E"
+  },
+  {
+    "stop_id": "92845",
+    "stop_name": "Matilanvirrantie 1038 P"
+  },
+  {
+    "stop_id": "92846",
+    "stop_name": "Tapionrannantie E"
+  },
+  {
+    "stop_id": "92847",
+    "stop_name": "Tapionrannantie P"
+  },
+  {
+    "stop_id": "92848",
+    "stop_name": "Pirttisalmi E"
+  },
+  {
+    "stop_id": "92849",
+    "stop_name": "Pirttisalmi P"
+  },
+  {
+    "stop_id": "92850",
+    "stop_name": "Matilanvirrantie 1358 L"
+  },
+  {
+    "stop_id": "92851",
+    "stop_name": "Matilanvirrantie 1358 I"
+  },
+  {
+    "stop_id": "92852",
+    "stop_name": "Jänislahdentie L"
+  },
+  {
+    "stop_id": "92853",
+    "stop_name": "Jänislahdentie I"
+  },
+  {
+    "stop_id": "92854",
+    "stop_name": "Riihilahdentie I"
+  },
+  {
+    "stop_id": "92855",
+    "stop_name": "Riihilahdentie L"
+  },
+  {
+    "stop_id": "92856",
+    "stop_name": "Parkkijärventie I"
+  },
+  {
+    "stop_id": "92857",
+    "stop_name": "Parkkijärventie L"
+  },
+  {
+    "stop_id": "92858",
+    "stop_name": "Petäjäniementie I"
+  },
+  {
+    "stop_id": "92859",
+    "stop_name": "Petäjäniementie L"
+  },
+  {
+    "stop_id": "92860",
+    "stop_name": "Vihtalahti I"
+  },
+  {
+    "stop_id": "92861",
+    "stop_name": "Vihtalahti L"
+  },
+  {
+    "stop_id": "92862",
+    "stop_name": "Lapinniementie I"
+  },
+  {
+    "stop_id": "92863",
+    "stop_name": "Lapinniementie L"
+  },
+  {
+    "stop_id": "92864",
+    "stop_name": "Välskärintie E"
+  },
+  {
+    "stop_id": "92865",
+    "stop_name": "Välskärintie P"
+  },
+  {
+    "stop_id": "92866",
+    "stop_name": "Hautama E"
+  },
+  {
+    "stop_id": "92867",
+    "stop_name": "Hautama P"
+  },
+  {
+    "stop_id": "92868",
+    "stop_name": "Panda E"
+  },
+  {
+    "stop_id": "92869",
+    "stop_name": "Panda P"
+  },
+  {
+    "stop_id": "92870",
+    "stop_name": "Tölskä th E"
+  },
+  {
+    "stop_id": "92871",
+    "stop_name": "Tölskä th P"
+  },
+  {
+    "stop_id": "92872",
+    "stop_name": "Pöytäkangas E"
+  },
+  {
+    "stop_id": "92873",
+    "stop_name": "Pöytäkangas P"
+  },
+  {
+    "stop_id": "92874",
+    "stop_name": "Rahkosentie E"
+  },
+  {
+    "stop_id": "92875",
+    "stop_name": "Rahkosentie P"
+  },
+  {
+    "stop_id": "92876",
+    "stop_name": "Kivilampi th E"
+  },
+  {
+    "stop_id": "92877",
+    "stop_name": "Kivilampi th P"
+  },
+  {
+    "stop_id": "92878",
+    "stop_name": "Janatie E"
+  },
+  {
+    "stop_id": "92879",
+    "stop_name": "Janatie P"
+  },
+  {
+    "stop_id": "92880",
+    "stop_name": "Mustalahti P"
+  },
+  {
+    "stop_id": "92881",
+    "stop_name": "Mustalahti E"
+  },
+  {
+    "stop_id": "92882",
+    "stop_name": "Venevalkama P"
+  },
+  {
+    "stop_id": "92883",
+    "stop_name": "Venevalkama E"
+  },
+  {
+    "stop_id": "92884",
+    "stop_name": "Leppävedentie 402 E"
+  },
+  {
+    "stop_id": "92885",
+    "stop_name": "Leppävedentie 405 P"
+  },
+  {
+    "stop_id": "92886",
+    "stop_name": "Savumäentie E"
+  },
+  {
+    "stop_id": "92887",
+    "stop_name": "Savumäentie P"
+  },
+  {
+    "stop_id": "92888",
+    "stop_name": "Nojosniemi th P"
+  },
+  {
+    "stop_id": "92889",
+    "stop_name": "Nojosniemi th E"
+  },
+  {
+    "stop_id": "92890",
+    "stop_name": "Vihtiäläntie P"
+  },
+  {
+    "stop_id": "92891",
+    "stop_name": "Vihtiäläntie E"
+  },
+  {
+    "stop_id": "92892",
+    "stop_name": "Vaajakoskentie 391 P"
+  },
+  {
+    "stop_id": "92893",
+    "stop_name": "Vaajakoskentie 390 E"
+  },
+  {
+    "stop_id": "92894",
+    "stop_name": "Halkolaanintie P"
+  },
+  {
+    "stop_id": "92895",
+    "stop_name": "Seppäläntie E"
+  },
+  {
+    "stop_id": "92897",
+    "stop_name": "Havurinne I"
+  },
+  {
+    "stop_id": "92923",
+    "stop_name": "Vuontee I"
+  },
+  {
+    "stop_id": "92924",
+    "stop_name": "Vuontee L"
+  },
+  {
+    "stop_id": "92925",
+    "stop_name": "Laukaan vankila I"
+  },
+  {
+    "stop_id": "92926",
+    "stop_name": "Laukaan vankila P"
+  },
+  {
+    "stop_id": "92929",
+    "stop_name": "Karisaari E"
+  },
+  {
+    "stop_id": "92930",
+    "stop_name": "Karisaari P"
+  },
+  {
+    "stop_id": "92931",
+    "stop_name": "Majalahti E"
+  },
+  {
+    "stop_id": "92932",
+    "stop_name": "Majalahti L"
+  },
+  {
+    "stop_id": "92933",
+    "stop_name": "Kuusisaaren th E"
+  },
+  {
+    "stop_id": "92934",
+    "stop_name": "Kuusisaaren th P"
+  },
+  {
+    "stop_id": "92935",
+    "stop_name": "Vihtalahti E"
+  },
+  {
+    "stop_id": "92936",
+    "stop_name": "Vihtalahti P"
+  },
+  {
+    "stop_id": "92937",
+    "stop_name": "Vihtasilta th E"
+  },
+  {
+    "stop_id": "92939",
+    "stop_name": "Mansikkaniemi E"
+  },
+  {
+    "stop_id": "92940",
+    "stop_name": "Kantolantie L"
+  },
+  {
+    "stop_id": "92941",
+    "stop_name": "Samulinkallio I"
+  },
+  {
+    "stop_id": "92942",
+    "stop_name": "Samulinkallio L"
+  },
+  {
+    "stop_id": "92943",
+    "stop_name": "Aholantie I (Laukaa)"
+  },
+  {
+    "stop_id": "92944",
+    "stop_name": "Aholantie L (Laukaa)"
+  },
+  {
+    "stop_id": "92945",
+    "stop_name": "Vehmasahontie L"
+  },
+  {
+    "stop_id": "92946",
+    "stop_name": "Vehmasahontie I"
+  },
+  {
+    "stop_id": "92947",
+    "stop_name": "Haavistontie I"
+  },
+  {
+    "stop_id": "92948",
+    "stop_name": "Haavistontie L"
+  },
+  {
+    "stop_id": "92949",
+    "stop_name": "Hermannintie I"
+  },
+  {
+    "stop_id": "92950",
+    "stop_name": "Hermannintie L"
+  },
+  {
+    "stop_id": "92951",
+    "stop_name": "Ysitien ramppi th E"
+  },
+  {
+    "stop_id": "92952",
+    "stop_name": "Ysitien ramppi th P"
+  },
+  {
+    "stop_id": "92953",
+    "stop_name": "Pirttihertuntie E"
+  },
+  {
+    "stop_id": "92954",
+    "stop_name": "Pirttihertuntie P"
+  },
+  {
+    "stop_id": "92955",
+    "stop_name": "Hertunniemi E"
+  },
+  {
+    "stop_id": "92956",
+    "stop_name": "Hertunniemi P"
+  },
+  {
+    "stop_id": "92957",
+    "stop_name": "Pihlajaseläntie E"
+  },
+  {
+    "stop_id": "92958",
+    "stop_name": "Pihlajaseläntie P"
+  },
+  {
+    "stop_id": "92959",
+    "stop_name": "Hankasalmen leirikeskus E"
+  },
+  {
+    "stop_id": "92960",
+    "stop_name": "Hankasalmen leirikeskus P"
+  },
+  {
+    "stop_id": "92961",
+    "stop_name": "Kallioaho E"
+  },
+  {
+    "stop_id": "92962",
+    "stop_name": "Kallioaho P"
+  },
+  {
+    "stop_id": "92963",
+    "stop_name": "Koivula E"
+  },
+  {
+    "stop_id": "92965",
+    "stop_name": "Piilolantie E"
+  },
+  {
+    "stop_id": "92966",
+    "stop_name": "Piilolantie P"
+  },
+  {
+    "stop_id": "92967",
+    "stop_name": "Kantolantie E"
+  },
+  {
+    "stop_id": "92968",
+    "stop_name": "Kantolantie P"
+  },
+  {
+    "stop_id": "92969",
+    "stop_name": "Hännilä E"
+  },
+  {
+    "stop_id": "92970",
+    "stop_name": "Hännilä P"
+  },
+  {
+    "stop_id": "92971",
+    "stop_name": "Neuvolantie P"
+  },
+  {
+    "stop_id": "92972",
+    "stop_name": "Neuvolantie E"
+  },
+  {
+    "stop_id": "92973",
+    "stop_name": "Mäntyrannantie E"
+  },
+  {
+    "stop_id": "92974",
+    "stop_name": "Mäntyrannantie P"
+  },
+  {
+    "stop_id": "92975",
+    "stop_name": "Hankasalmen kirkko E"
+  },
+  {
+    "stop_id": "92976",
+    "stop_name": "Hankasalmen kirkko P"
+  },
+  {
+    "stop_id": "93040",
+    "stop_name": "Kuusa pohj E"
+  },
+  {
+    "stop_id": "93041",
+    "stop_name": "Kuusa pohj P"
+  },
+  {
+    "stop_id": "93042",
+    "stop_name": "Mäntyrannan koulu E"
+  },
+  {
+    "stop_id": "93043",
+    "stop_name": "Mäntyrannan koulu P"
+  },
+  {
+    "stop_id": "93044",
+    "stop_name": "Naavaranta P"
+  },
+  {
+    "stop_id": "93045",
+    "stop_name": "Naavaranta E"
+  },
+  {
+    "stop_id": "93046",
+    "stop_name": "Kotipelto E"
+  },
+  {
+    "stop_id": "93047",
+    "stop_name": "Kotipelto P"
+  },
+  {
+    "stop_id": "93048",
+    "stop_name": "Itämäki E"
+  },
+  {
+    "stop_id": "93049",
+    "stop_name": "Itämäki P"
+  },
+  {
+    "stop_id": "93050",
+    "stop_name": "Peurankylä E"
+  },
+  {
+    "stop_id": "93051",
+    "stop_name": "Peurankylä P"
+  },
+  {
+    "stop_id": "93052",
+    "stop_name": "Peurantie E"
+  },
+  {
+    "stop_id": "93053",
+    "stop_name": "Peurantie P"
+  },
+  {
+    "stop_id": "93054",
+    "stop_name": "Vatia E"
+  },
+  {
+    "stop_id": "93055",
+    "stop_name": "Vatia P"
+  },
+  {
+    "stop_id": "93056",
+    "stop_name": "Kapeenkoskentie P"
+  },
+  {
+    "stop_id": "93057",
+    "stop_name": "Kapeenkoskentie E"
+  },
+  {
+    "stop_id": "93058",
+    "stop_name": "Peräaho E"
+  },
+  {
+    "stop_id": "93059",
+    "stop_name": "Peräaho P"
+  },
+  {
+    "stop_id": "93060",
+    "stop_name": "Juholantie E"
+  },
+  {
+    "stop_id": "93061",
+    "stop_name": "Juholantie P"
+  },
+  {
+    "stop_id": "93062",
+    "stop_name": "Aapinaho E"
+  },
+  {
+    "stop_id": "93063",
+    "stop_name": "Aapinaho P"
+  },
+  {
+    "stop_id": "93064",
+    "stop_name": "Kaura-aho th E"
+  },
+  {
+    "stop_id": "93065",
+    "stop_name": "Kaura-ahontie E"
+  },
+  {
+    "stop_id": "93066",
+    "stop_name": "Kaura-ahontie P"
+  },
+  {
+    "stop_id": "93067",
+    "stop_name": "Nakertaja E"
+  },
+  {
+    "stop_id": "93068",
+    "stop_name": "Nakertaja P"
+  },
+  {
+    "stop_id": "93069",
+    "stop_name": "Vuorikuja E"
+  },
+  {
+    "stop_id": "93070",
+    "stop_name": "Vuorikuja P"
+  },
+  {
+    "stop_id": "93071",
+    "stop_name": "Hotellinpolku P"
+  },
+  {
+    "stop_id": "93072",
+    "stop_name": "Hotellinpolku E"
+  },
+  {
+    "stop_id": "93073",
+    "stop_name": "Suolahti kirkko I"
+  },
+  {
+    "stop_id": "93074",
+    "stop_name": "Alkula I"
+  },
+  {
+    "stop_id": "93075",
+    "stop_name": "Alkula L"
+  },
+  {
+    "stop_id": "93076",
+    "stop_name": "Alkula teoll. I"
+  },
+  {
+    "stop_id": "93077",
+    "stop_name": "Alkula teoll. L"
+  },
+  {
+    "stop_id": "93078",
+    "stop_name": "Kotimäki I"
+  },
+  {
+    "stop_id": "93079",
+    "stop_name": "Kotimäki L"
+  },
+  {
+    "stop_id": "93080",
+    "stop_name": "Hämepohja th I"
+  },
+  {
+    "stop_id": "93081",
+    "stop_name": "Paatelanlahti L"
+  },
+  {
+    "stop_id": "93082",
+    "stop_name": "Paatelan kanava P"
+  },
+  {
+    "stop_id": "93083",
+    "stop_name": "Paatelan kanava E"
+  },
+  {
+    "stop_id": "93084",
+    "stop_name": "Paatela P"
+  },
+  {
+    "stop_id": "93085",
+    "stop_name": "Paatela E"
+  },
+  {
+    "stop_id": "93086",
+    "stop_name": "Rotkolan alikulku E"
+  },
+  {
+    "stop_id": "93087",
+    "stop_name": "Rotkolan alikulku P"
+  },
+  {
+    "stop_id": "93088",
+    "stop_name": "Valio th P"
+  },
+  {
+    "stop_id": "93089",
+    "stop_name": "Valio th E"
+  },
+  {
+    "stop_id": "93090",
+    "stop_name": "Pakokangas E"
+  },
+  {
+    "stop_id": "93091",
+    "stop_name": "Pakokangas P"
+  },
+  {
+    "stop_id": "93092",
+    "stop_name": "Aholankangas E"
+  },
+  {
+    "stop_id": "93093",
+    "stop_name": "Aholankangas P"
+  },
+  {
+    "stop_id": "93094",
+    "stop_name": "Kovala th I"
+  },
+  {
+    "stop_id": "93095",
+    "stop_name": "Kovala th L"
+  },
+  {
+    "stop_id": "93096",
+    "stop_name": "Botnia th I"
+  },
+  {
+    "stop_id": "93097",
+    "stop_name": "Botnia th L"
+  },
+  {
+    "stop_id": "93098",
+    "stop_name": "Hiskimäen koulu I"
+  },
+  {
+    "stop_id": "93099",
+    "stop_name": "Hiskinmäen koulu L"
+  },
+  {
+    "stop_id": "93100",
+    "stop_name": "Viiskulma L"
+  },
+  {
+    "stop_id": "93101",
+    "stop_name": "Viiskulma I"
+  },
+  {
+    "stop_id": "93102",
+    "stop_name": "Karhunlähde E"
+  },
+  {
+    "stop_id": "93103",
+    "stop_name": "Karhunlähde P"
+  },
+  {
+    "stop_id": "93104",
+    "stop_name": "Römmi I"
+  },
+  {
+    "stop_id": "93389",
+    "stop_name": "Ruokosenkangas P"
+  },
+  {
+    "stop_id": "100000",
+    "stop_name": "Kintauden koulu"
+  },
+  {
+    "stop_id": "112514",
+    "stop_name": "Laukaa linja-autoasema"
+  },
+  {
+    "stop_id": "142648",
+    "stop_name": "Tervala 1"
+  },
+  {
+    "stop_id": "142792",
+    "stop_name": "Ramppi Muurame I"
+  },
+  {
+    "stop_id": "142793",
+    "stop_name": "Setäläntie P"
+  },
+  {
+    "stop_id": "142794",
+    "stop_name": "Säynätsalo th I"
+  },
+  {
+    "stop_id": "142796",
+    "stop_name": "Kotirannantie I"
+  },
+  {
+    "stop_id": "142797",
+    "stop_name": "Paavalinvuori th L"
+  },
+  {
+    "stop_id": "142798",
+    "stop_name": "Paavalinvuori th I"
+  },
+  {
+    "stop_id": "142802",
+    "stop_name": "Karkaussaari th I"
+  },
+  {
+    "stop_id": "142804",
+    "stop_name": "Kinkovuori  L"
+  },
+  {
+    "stop_id": "142805",
+    "stop_name": "Kinkovuori I"
+  },
+  {
+    "stop_id": "142806",
+    "stop_name": "Karkauspohja L"
+  },
+  {
+    "stop_id": "142807",
+    "stop_name": "Karkauspohja I"
+  },
+  {
+    "stop_id": "142808",
+    "stop_name": "Riihelä L"
+  },
+  {
+    "stop_id": "142809",
+    "stop_name": "Eteläväylä 22 I"
+  },
+  {
+    "stop_id": "142810",
+    "stop_name": "Eteläväylä 18 I"
+  },
+  {
+    "stop_id": "142811",
+    "stop_name": "Sohlberginkatu L"
+  },
+  {
+    "stop_id": "142812",
+    "stop_name": "Sohlberginkatu I"
+  },
+  {
+    "stop_id": "142813",
+    "stop_name": "Keljonkangas L"
+  },
+  {
+    "stop_id": "142814",
+    "stop_name": "Keljonkangas  E"
+  },
+  {
+    "stop_id": "142815",
+    "stop_name": "Välitie P"
+  },
+  {
+    "stop_id": "142816",
+    "stop_name": "Välitie  E"
+  },
+  {
+    "stop_id": "142817",
+    "stop_name": "Sääksvuorentie P"
+  },
+  {
+    "stop_id": "142818",
+    "stop_name": "Sääksvuorentie E"
+  },
+  {
+    "stop_id": "142819",
+    "stop_name": "Sääkslahti P"
+  },
+  {
+    "stop_id": "142820",
+    "stop_name": "Sääkslahti E"
+  },
+  {
+    "stop_id": "142821",
+    "stop_name": "Tapani E"
+  },
+  {
+    "stop_id": "142823",
+    "stop_name": "Tapani P"
+  },
+  {
+    "stop_id": "142825",
+    "stop_name": "Ahosenveräjä P"
+  },
+  {
+    "stop_id": "142826",
+    "stop_name": "Ahosenveräjä E"
+  },
+  {
+    "stop_id": "142827",
+    "stop_name": "Kinkomäki P"
+  },
+  {
+    "stop_id": "142828",
+    "stop_name": "Kinkomäki E"
+  },
+  {
+    "stop_id": "142829",
+    "stop_name": "Olympiakylä E"
+  },
+  {
+    "stop_id": "142830",
+    "stop_name": "Olympiakylä P"
+  },
+  {
+    "stop_id": "142831",
+    "stop_name": "Kinkomaan sairaala th P"
+  },
+  {
+    "stop_id": "142832",
+    "stop_name": "Kinkomaan sairaala th E"
+  },
+  {
+    "stop_id": "142833",
+    "stop_name": "Kertuntie P"
+  },
+  {
+    "stop_id": "142834",
+    "stop_name": "Kertuntie E"
+  },
+  {
+    "stop_id": "142835",
+    "stop_name": "Betonivalimo P"
+  },
+  {
+    "stop_id": "142836",
+    "stop_name": "Betonivalimo E"
+  },
+  {
+    "stop_id": "142837",
+    "stop_name": "Ss-Vuorensyrjä P"
+  },
+  {
+    "stop_id": "142838",
+    "stop_name": "Vuorensyrjä E"
+  },
+  {
+    "stop_id": "142839",
+    "stop_name": "Kinkovuorentie th P"
+  },
+  {
+    "stop_id": "142842",
+    "stop_name": "Tammitie 2 I"
+  },
+  {
+    "stop_id": "142843",
+    "stop_name": "Viherlandia P"
+  },
+  {
+    "stop_id": "142846",
+    "stop_name": "Hieta-aho E"
+  },
+  {
+    "stop_id": "142847",
+    "stop_name": "Hieta-aho P"
+  },
+  {
+    "stop_id": "142848",
+    "stop_name": "Rajahongantie E"
+  },
+  {
+    "stop_id": "142849",
+    "stop_name": "Rajahongantie P"
+  },
+  {
+    "stop_id": "142850",
+    "stop_name": "Rajarinne E"
+  },
+  {
+    "stop_id": "142851",
+    "stop_name": "Rajarinne P"
+  },
+  {
+    "stop_id": "142866",
+    "stop_name": "Rutalahti E"
+  },
+  {
+    "stop_id": "142876",
+    "stop_name": "Leppälahdenväylä 17 P"
+  },
+  {
+    "stop_id": "142877",
+    "stop_name": "Leppälahdenväylä 17 E"
+  },
+  {
+    "stop_id": "142878",
+    "stop_name": "Sahinjoentie P"
+  },
+  {
+    "stop_id": "142879",
+    "stop_name": "Koivukumpu E"
+  },
+  {
+    "stop_id": "142880",
+    "stop_name": "Koivukumpu P"
+  },
+  {
+    "stop_id": "142881",
+    "stop_name": "Kettukankaantie P"
+  },
+  {
+    "stop_id": "142883",
+    "stop_name": "Humalajärventie P"
+  },
+  {
+    "stop_id": "142884",
+    "stop_name": "Leinosrannantie E"
+  },
+  {
+    "stop_id": "142886",
+    "stop_name": "Kurkela E"
+  },
+  {
+    "stop_id": "142887",
+    "stop_name": "Matara-aho E"
+  },
+  {
+    "stop_id": "142888",
+    "stop_name": "Matara-aho P"
+  },
+  {
+    "stop_id": "142889",
+    "stop_name": "Heiska P"
+  },
+  {
+    "stop_id": "142891",
+    "stop_name": "Kuusela P"
+  },
+  {
+    "stop_id": "142892",
+    "stop_name": "Matarasalo E"
+  },
+  {
+    "stop_id": "142893",
+    "stop_name": "Matarasalo P"
+  },
+  {
+    "stop_id": "142894",
+    "stop_name": "Rusila E"
+  },
+  {
+    "stop_id": "142895",
+    "stop_name": "Rusila P"
+  },
+  {
+    "stop_id": "142896",
+    "stop_name": "Talsanlampi E"
+  },
+  {
+    "stop_id": "142897",
+    "stop_name": "Talsanlampi P"
+  },
+  {
+    "stop_id": "142898",
+    "stop_name": "Hanhimäentie E"
+  },
+  {
+    "stop_id": "142899",
+    "stop_name": "Hanhimäentie P"
+  },
+  {
+    "stop_id": "142900",
+    "stop_name": "Mäkelänraitti E"
+  },
+  {
+    "stop_id": "142901",
+    "stop_name": "Mäkelänraitti P"
+  },
+  {
+    "stop_id": "142902",
+    "stop_name": "Siekkiläntie E"
+  },
+  {
+    "stop_id": "142903",
+    "stop_name": "Siekkiläntie P"
+  },
+  {
+    "stop_id": "142904",
+    "stop_name": "Jokelanvuori E"
+  },
+  {
+    "stop_id": "142905",
+    "stop_name": "Jokelanvuori P"
+  },
+  {
+    "stop_id": "142906",
+    "stop_name": "Koskelanpolku E"
+  },
+  {
+    "stop_id": "142907",
+    "stop_name": "Koskelanpolku P"
+  },
+  {
+    "stop_id": "142908",
+    "stop_name": "Orajärvi E"
+  },
+  {
+    "stop_id": "142909",
+    "stop_name": "Orajärvi P"
+  },
+  {
+    "stop_id": "142911",
+    "stop_name": "Manunsaarentie P"
+  },
+  {
+    "stop_id": "142912",
+    "stop_name": "Pitkäjärventie E"
+  },
+  {
+    "stop_id": "142913",
+    "stop_name": "Pitkäjärventie P"
+  },
+  {
+    "stop_id": "142914",
+    "stop_name": "Lepola E"
+  },
+  {
+    "stop_id": "142915",
+    "stop_name": "Lepola P"
+  },
+  {
+    "stop_id": "142916",
+    "stop_name": "Muurikaisjärvi E"
+  },
+  {
+    "stop_id": "142917",
+    "stop_name": "Muurikaisjärvi P"
+  },
+  {
+    "stop_id": "142919",
+    "stop_name": "Leppälahti th P"
+  },
+  {
+    "stop_id": "142930",
+    "stop_name": "Pekkalanmäki E"
+  },
+  {
+    "stop_id": "142932",
+    "stop_name": "Kitkanlahti E"
+  },
+  {
+    "stop_id": "142936",
+    "stop_name": "Ylämäentie E"
+  },
+  {
+    "stop_id": "142937",
+    "stop_name": "Yläkintaus E"
+  },
+  {
+    "stop_id": "142939",
+    "stop_name": "Murrontie E"
+  },
+  {
+    "stop_id": "142984",
+    "stop_name": "Tikkamannilantie I"
+  },
+  {
+    "stop_id": "142985",
+    "stop_name": "Tikkamannilantie L"
+  },
+  {
+    "stop_id": "142986",
+    "stop_name": "Elementtitie I"
+  },
+  {
+    "stop_id": "142987",
+    "stop_name": "Elementtitie L"
+  },
+  {
+    "stop_id": "142988",
+    "stop_name": "Tikansalontie I"
+  },
+  {
+    "stop_id": "142989",
+    "stop_name": "Tikansalontie L"
+  },
+  {
+    "stop_id": "142990",
+    "stop_name": "Lennostontie I"
+  },
+  {
+    "stop_id": "142991",
+    "stop_name": "Lennostontie L"
+  },
+  {
+    "stop_id": "142992",
+    "stop_name": "Martinkatu I"
+  },
+  {
+    "stop_id": "142993",
+    "stop_name": "Mestarinkatu L"
+  },
+  {
+    "stop_id": "142994",
+    "stop_name": "Mestarinkatu I"
+  },
+  {
+    "stop_id": "142995",
+    "stop_name": "Hakakatu, Tikkakoski L"
+  },
+  {
+    "stop_id": "142996",
+    "stop_name": "Hakakatu, Tikkakoski I"
+  },
+  {
+    "stop_id": "142997",
+    "stop_name": "Koulukatu, Tikkakoski I"
+  },
+  {
+    "stop_id": "142998",
+    "stop_name": "Koulukatu  Tikkakoski L"
+  },
+  {
+    "stop_id": "142999",
+    "stop_name": "Hytölänpolku I"
+  },
+  {
+    "stop_id": "143000",
+    "stop_name": "Hytölänpolku L"
+  },
+  {
+    "stop_id": "143001",
+    "stop_name": "Tikkakoskentie 526 I"
+  },
+  {
+    "stop_id": "143002",
+    "stop_name": "Tikkakoskentie 526 L"
+  },
+  {
+    "stop_id": "143003",
+    "stop_name": "Tikkakoskentie 577 I"
+  },
+  {
+    "stop_id": "143004",
+    "stop_name": "Tikkakoskentie 577 L"
+  },
+  {
+    "stop_id": "143005",
+    "stop_name": "Kuikka I"
+  },
+  {
+    "stop_id": "143093",
+    "stop_name": "Valkolantie L"
+  },
+  {
+    "stop_id": "143094",
+    "stop_name": "Valkolantie I"
+  },
+  {
+    "stop_id": "143095",
+    "stop_name": "Lepolantie L"
+  },
+  {
+    "stop_id": "143096",
+    "stop_name": "Lepolantie I"
+  },
+  {
+    "stop_id": "143097",
+    "stop_name": "Peurunka TH L"
+  },
+  {
+    "stop_id": "143098",
+    "stop_name": "Peurunka TH I"
+  },
+  {
+    "stop_id": "143099",
+    "stop_name": "Koppelontie L"
+  },
+  {
+    "stop_id": "143100",
+    "stop_name": "Koppelontie I"
+  },
+  {
+    "stop_id": "143101",
+    "stop_name": "Lievestuore th P"
+  },
+  {
+    "stop_id": "143103",
+    "stop_name": "Paavonkuja E"
+  },
+  {
+    "stop_id": "143105",
+    "stop_name": "Männikön th L"
+  },
+  {
+    "stop_id": "143106",
+    "stop_name": "Männikön th I"
+  },
+  {
+    "stop_id": "143107",
+    "stop_name": "Tervamäen koulu L"
+  },
+  {
+    "stop_id": "143108",
+    "stop_name": "Tervamäen koulu I"
+  },
+  {
+    "stop_id": "143109",
+    "stop_name": "Raita-ahontie I"
+  },
+  {
+    "stop_id": "143110",
+    "stop_name": "Raita-ahontie L"
+  },
+  {
+    "stop_id": "143111",
+    "stop_name": "Raitakuja I"
+  },
+  {
+    "stop_id": "143112",
+    "stop_name": "Raitakuja L"
+  },
+  {
+    "stop_id": "143113",
+    "stop_name": "Kukkakuja E"
+  },
+  {
+    "stop_id": "143114",
+    "stop_name": "Henrikintie L"
+  },
+  {
+    "stop_id": "143115",
+    "stop_name": "Henrikintie I"
+  },
+  {
+    "stop_id": "143145",
+    "stop_name": "Mäntylä I"
+  },
+  {
+    "stop_id": "143146",
+    "stop_name": "Nujulanlenkki 95 L"
+  },
+  {
+    "stop_id": "143147",
+    "stop_name": "Nujulanlenkki 99 I"
+  },
+  {
+    "stop_id": "143148",
+    "stop_name": "Hankasalmen as. saha P"
+  },
+  {
+    "stop_id": "143149",
+    "stop_name": "Hankasalmen as. saha E"
+  },
+  {
+    "stop_id": "143150",
+    "stop_name": "Suotie E"
+  },
+  {
+    "stop_id": "143151",
+    "stop_name": "Suotie P"
+  },
+  {
+    "stop_id": "143152",
+    "stop_name": "Aseman koulu E"
+  },
+  {
+    "stop_id": "143153",
+    "stop_name": "Aseman koulu P"
+  },
+  {
+    "stop_id": "143156",
+    "stop_name": "Sumiaistentie 3"
+  },
+  {
+    "stop_id": "143157",
+    "stop_name": "Sumiaistentie 3"
+  },
+  {
+    "stop_id": "143158",
+    "stop_name": "Syvälahti th L"
+  },
+  {
+    "stop_id": "143160",
+    "stop_name": "Vihijärvi L"
+  },
+  {
+    "stop_id": "143161",
+    "stop_name": "Vihijärvi I"
+  },
+  {
+    "stop_id": "143164",
+    "stop_name": "Saarikkaantie L"
+  },
+  {
+    "stop_id": "143174",
+    "stop_name": "Suojarinne I"
+  },
+  {
+    "stop_id": "143176",
+    "stop_name": "Konginkangas th I"
+  },
+  {
+    "stop_id": "143177",
+    "stop_name": "Konginkankaantie 74 P"
+  },
+  {
+    "stop_id": "143178",
+    "stop_name": "Konginkangas kirkko P"
+  },
+  {
+    "stop_id": "143184",
+    "stop_name": "Häkkiläntie L"
+  },
+  {
+    "stop_id": "143416",
+    "stop_name": "Patajärventie E"
+  },
+  {
+    "stop_id": "143417",
+    "stop_name": "Patajärventie P"
+  },
+  {
+    "stop_id": "143418",
+    "stop_name": "Majalanmäki E"
+  },
+  {
+    "stop_id": "143419",
+    "stop_name": "Majalanmäki P"
+  },
+  {
+    "stop_id": "143420",
+    "stop_name": "Rietulantie E"
+  },
+  {
+    "stop_id": "143421",
+    "stop_name": "Rietulantie P"
+  },
+  {
+    "stop_id": "143422",
+    "stop_name": "Sutolantie E"
+  },
+  {
+    "stop_id": "143423",
+    "stop_name": "Sutolantie P"
+  },
+  {
+    "stop_id": "143424",
+    "stop_name": "Saukontie E"
+  },
+  {
+    "stop_id": "143425",
+    "stop_name": "Saukontie P"
+  },
+  {
+    "stop_id": "143426",
+    "stop_name": "Kuusjärventie E"
+  },
+  {
+    "stop_id": "143430",
+    "stop_name": "Myllymäki L"
+  },
+  {
+    "stop_id": "143431",
+    "stop_name": "Myllymäki I"
+  },
+  {
+    "stop_id": "143432",
+    "stop_name": "Myllyntaus L"
+  },
+  {
+    "stop_id": "143433",
+    "stop_name": "Myllyntaus I"
+  },
+  {
+    "stop_id": "143434",
+    "stop_name": "Tervakangas L"
+  },
+  {
+    "stop_id": "143435",
+    "stop_name": "Tervakangas I"
+  },
+  {
+    "stop_id": "143436",
+    "stop_name": "Pitkäkorventie L"
+  },
+  {
+    "stop_id": "143437",
+    "stop_name": "Pitkäkorventie I"
+  },
+  {
+    "stop_id": "143438",
+    "stop_name": "Saukkolahdentie 793 L"
+  },
+  {
+    "stop_id": "143439",
+    "stop_name": "Saukkolahdentie 793 I"
+  },
+  {
+    "stop_id": "143440",
+    "stop_name": "Pukkimäentie L"
+  },
+  {
+    "stop_id": "143441",
+    "stop_name": "Pukkimäentie I"
+  },
+  {
+    "stop_id": "143442",
+    "stop_name": "Isolahti koulu  I"
+  },
+  {
+    "stop_id": "143443",
+    "stop_name": "Jaakontie I"
+  },
+  {
+    "stop_id": "143444",
+    "stop_name": "Jaakontie L"
+  },
+  {
+    "stop_id": "143445",
+    "stop_name": "Ronsu L"
+  },
+  {
+    "stop_id": "143446",
+    "stop_name": "Ronsu I"
+  },
+  {
+    "stop_id": "143449",
+    "stop_name": "Isoranta L"
+  },
+  {
+    "stop_id": "143450",
+    "stop_name": "Isoranta I"
+  },
+  {
+    "stop_id": "143451",
+    "stop_name": "Kitukangas L"
+  },
+  {
+    "stop_id": "143452",
+    "stop_name": "Kitukangas I"
+  },
+  {
+    "stop_id": "143453",
+    "stop_name": "Kitumäki I"
+  },
+  {
+    "stop_id": "143454",
+    "stop_name": "Kitumäki L"
+  },
+  {
+    "stop_id": "143455",
+    "stop_name": "Kotanen I"
+  },
+  {
+    "stop_id": "143456",
+    "stop_name": "Kotanen L"
+  },
+  {
+    "stop_id": "143457",
+    "stop_name": "TV-masto I"
+  },
+  {
+    "stop_id": "143458",
+    "stop_name": "TV-masto L"
+  },
+  {
+    "stop_id": "143459",
+    "stop_name": "Lähteelä L"
+  },
+  {
+    "stop_id": "143460",
+    "stop_name": "Lähteelä I"
+  },
+  {
+    "stop_id": "143463",
+    "stop_name": "Ylämyllyjärvi L"
+  },
+  {
+    "stop_id": "143464",
+    "stop_name": "Ylämyllyjärvi P"
+  },
+  {
+    "stop_id": "143471",
+    "stop_name": "Pyyppöläntie I"
+  },
+  {
+    "stop_id": "143472",
+    "stop_name": "Pyyppöläntie L"
+  },
+  {
+    "stop_id": "143473",
+    "stop_name": "Laaksotie I"
+  },
+  {
+    "stop_id": "143474",
+    "stop_name": "Laaksotie L"
+  },
+  {
+    "stop_id": "143475",
+    "stop_name": "Rantatöyry I"
+  },
+  {
+    "stop_id": "143476",
+    "stop_name": "Rantatöyry L"
+  },
+  {
+    "stop_id": "143477",
+    "stop_name": "Alhonsaarentie I"
+  },
+  {
+    "stop_id": "143478",
+    "stop_name": "Alhonsaarentie L"
+  },
+  {
+    "stop_id": "143479",
+    "stop_name": "Huhtiniementie I"
+  },
+  {
+    "stop_id": "143480",
+    "stop_name": "Huhtiniementie L"
+  },
+  {
+    "stop_id": "143481",
+    "stop_name": "Lietniementie I"
+  },
+  {
+    "stop_id": "143482",
+    "stop_name": "Lietniementie L"
+  },
+  {
+    "stop_id": "143483",
+    "stop_name": "Mehtolanniementie I"
+  },
+  {
+    "stop_id": "143484",
+    "stop_name": "Mehtolanniementie L"
+  },
+  {
+    "stop_id": "143485",
+    "stop_name": "Hyrtölänlahti E"
+  },
+  {
+    "stop_id": "143486",
+    "stop_name": "Hyrtölänlahti P"
+  },
+  {
+    "stop_id": "143487",
+    "stop_name": "Hyrtölänniementie E"
+  },
+  {
+    "stop_id": "143488",
+    "stop_name": "Hyrtölänniementie P"
+  },
+  {
+    "stop_id": "143489",
+    "stop_name": "Melleri E"
+  },
+  {
+    "stop_id": "143490",
+    "stop_name": "Melleri P"
+  },
+  {
+    "stop_id": "143491",
+    "stop_name": "Hokkasentie E"
+  },
+  {
+    "stop_id": "143492",
+    "stop_name": "Hokkasentie P"
+  },
+  {
+    "stop_id": "143493",
+    "stop_name": "Mellerinsaari th E"
+  },
+  {
+    "stop_id": "143494",
+    "stop_name": "Mellerinsaari th P"
+  },
+  {
+    "stop_id": "143495",
+    "stop_name": "Kalliosaarentie E"
+  },
+  {
+    "stop_id": "143496",
+    "stop_name": "Kalliosaarentie P"
+  },
+  {
+    "stop_id": "143497",
+    "stop_name": "Polkuluoto E"
+  },
+  {
+    "stop_id": "143498",
+    "stop_name": "Polkuluoto P"
+  },
+  {
+    "stop_id": "143499",
+    "stop_name": "Polkulanrannantie E"
+  },
+  {
+    "stop_id": "143500",
+    "stop_name": "Polkulanrannantie P"
+  },
+  {
+    "stop_id": "143501",
+    "stop_name": "Uimaranta th P"
+  },
+  {
+    "stop_id": "143502",
+    "stop_name": "Uimaranta th E"
+  },
+  {
+    "stop_id": "143503",
+    "stop_name": "Isolahti E"
+  },
+  {
+    "stop_id": "143504",
+    "stop_name": "Isolahti P"
+  },
+  {
+    "stop_id": "143505",
+    "stop_name": "Lapinmäentie E"
+  },
+  {
+    "stop_id": "143506",
+    "stop_name": "Lapinmäentie P"
+  },
+  {
+    "stop_id": "143508",
+    "stop_name": "Saukkolahdentie E"
+  },
+  {
+    "stop_id": "143509",
+    "stop_name": "Nokkatie L"
+  },
+  {
+    "stop_id": "143510",
+    "stop_name": "Nokkatie I"
+  },
+  {
+    "stop_id": "143511",
+    "stop_name": "Yrittäjäntie E"
+  },
+  {
+    "stop_id": "143512",
+    "stop_name": "Yrittäjäntie P"
+  },
+  {
+    "stop_id": "143513",
+    "stop_name": "Riihivuori th E"
+  },
+  {
+    "stop_id": "143514",
+    "stop_name": "Riihivuori th P"
+  },
+  {
+    "stop_id": "143515",
+    "stop_name": "Saarenkylä E"
+  },
+  {
+    "stop_id": "143516",
+    "stop_name": "Saarenkylä P"
+  },
+  {
+    "stop_id": "143517",
+    "stop_name": "Kannistontie E"
+  },
+  {
+    "stop_id": "143518",
+    "stop_name": "Kannistontie P"
+  },
+  {
+    "stop_id": "143519",
+    "stop_name": "Rättälintie E"
+  },
+  {
+    "stop_id": "143520",
+    "stop_name": "Rättälintie P"
+  },
+  {
+    "stop_id": "143521",
+    "stop_name": "Verkkoniemi th P"
+  },
+  {
+    "stop_id": "143522",
+    "stop_name": "Verkkoniemi th E"
+  },
+  {
+    "stop_id": "143523",
+    "stop_name": "Virastotie E"
+  },
+  {
+    "stop_id": "143524",
+    "stop_name": "Virastotie P"
+  },
+  {
+    "stop_id": "143525",
+    "stop_name": "Mikkolantie P"
+  },
+  {
+    "stop_id": "143526",
+    "stop_name": "Mikkolantie E"
+  },
+  {
+    "stop_id": "143528",
+    "stop_name": "Setäläntie E"
+  },
+  {
+    "stop_id": "143529",
+    "stop_name": "Hautalanmäki E"
+  },
+  {
+    "stop_id": "143530",
+    "stop_name": "Hautalanmäki P"
+  },
+  {
+    "stop_id": "143531",
+    "stop_name": "Tervamäki E"
+  },
+  {
+    "stop_id": "143532",
+    "stop_name": "Tervamäki P"
+  },
+  {
+    "stop_id": "143533",
+    "stop_name": "Iso Palojärvi P"
+  },
+  {
+    "stop_id": "143534",
+    "stop_name": "Iso Palojärvi E"
+  },
+  {
+    "stop_id": "143535",
+    "stop_name": "Puromäki E"
+  },
+  {
+    "stop_id": "143536",
+    "stop_name": "Puromäki P"
+  },
+  {
+    "stop_id": "143537",
+    "stop_name": "Oksalanmäentie E"
+  },
+  {
+    "stop_id": "143538",
+    "stop_name": "Oksalanmäentie P"
+  },
+  {
+    "stop_id": "143539",
+    "stop_name": "Koppikylä 1"
+  },
+  {
+    "stop_id": "143540",
+    "stop_name": "Koppikylä E"
+  },
+  {
+    "stop_id": "143541",
+    "stop_name": "Lehtisaari P"
+  },
+  {
+    "stop_id": "143542",
+    "stop_name": "Lehtisaari E"
+  },
+  {
+    "stop_id": "143543",
+    "stop_name": "Lemmensilta P"
+  },
+  {
+    "stop_id": "143544",
+    "stop_name": "Lemmensilta I"
+  },
+  {
+    "stop_id": "143545",
+    "stop_name": "Satasarvinen L"
+  },
+  {
+    "stop_id": "143546",
+    "stop_name": "Satasarvinen I"
+  },
+  {
+    "stop_id": "143547",
+    "stop_name": "Vuorenlahti L"
+  },
+  {
+    "stop_id": "143549",
+    "stop_name": "Sysmälä E"
+  },
+  {
+    "stop_id": "143550",
+    "stop_name": "Sysmälä P"
+  },
+  {
+    "stop_id": "143551",
+    "stop_name": "Keljonranta E"
+  },
+  {
+    "stop_id": "143552",
+    "stop_name": "Keljonranta P"
+  },
+  {
+    "stop_id": "143553",
+    "stop_name": "Valimontie E"
+  },
+  {
+    "stop_id": "143554",
+    "stop_name": "Valimontie P"
+  },
+  {
+    "stop_id": "143555",
+    "stop_name": "Varastomyymälä L"
+  },
+  {
+    "stop_id": "143556",
+    "stop_name": "Varastomyymälä I"
+  },
+  {
+    "stop_id": "143557",
+    "stop_name": "Jyskä L"
+  },
+  {
+    "stop_id": "143558",
+    "stop_name": "Jyskä I"
+  },
+  {
+    "stop_id": "143559",
+    "stop_name": "Pitkäsilta L"
+  },
+  {
+    "stop_id": "143560",
+    "stop_name": "Pitkäsilta I"
+  },
+  {
+    "stop_id": "143561",
+    "stop_name": "Latostenmäki L"
+  },
+  {
+    "stop_id": "143562",
+    "stop_name": "Latostenmäki I"
+  },
+  {
+    "stop_id": "143563",
+    "stop_name": "Kotimäki th L"
+  },
+  {
+    "stop_id": "143564",
+    "stop_name": "Kotimäki th I"
+  },
+  {
+    "stop_id": "143565",
+    "stop_name": "Vesmanninmäki L"
+  },
+  {
+    "stop_id": "143566",
+    "stop_name": "Vesmanninmäki I"
+  },
+  {
+    "stop_id": "143567",
+    "stop_name": "Amiraali E"
+  },
+  {
+    "stop_id": "143568",
+    "stop_name": "Kalustetehdas E"
+  },
+  {
+    "stop_id": "143569",
+    "stop_name": "Kalustetehdas P"
+  },
+  {
+    "stop_id": "143570",
+    "stop_name": "Hutunki P"
+  },
+  {
+    "stop_id": "143571",
+    "stop_name": "Hutunki E"
+  },
+  {
+    "stop_id": "143572",
+    "stop_name": "Sammallahti P"
+  },
+  {
+    "stop_id": "143573",
+    "stop_name": "Sammallahti E"
+  },
+  {
+    "stop_id": "143574",
+    "stop_name": "Kankarsaarentie P"
+  },
+  {
+    "stop_id": "143575",
+    "stop_name": "Kankarsaarentie  E"
+  },
+  {
+    "stop_id": "143576",
+    "stop_name": "Suvimäki E"
+  },
+  {
+    "stop_id": "143577",
+    "stop_name": "Suvimäki P"
+  },
+  {
+    "stop_id": "143579",
+    "stop_name": "Amiraali P"
+  },
+  {
+    "stop_id": "143582",
+    "stop_name": "Multamäentie E"
+  },
+  {
+    "stop_id": "143583",
+    "stop_name": "Multamäentie P"
+  },
+  {
+    "stop_id": "143584",
+    "stop_name": "Kurkisuontie P"
+  },
+  {
+    "stop_id": "143585",
+    "stop_name": "Kurkisuontie E"
+  },
+  {
+    "stop_id": "143586",
+    "stop_name": "Keskinen E"
+  },
+  {
+    "stop_id": "143587",
+    "stop_name": "Keskinen P"
+  },
+  {
+    "stop_id": "143588",
+    "stop_name": "Puroharju P"
+  },
+  {
+    "stop_id": "143590",
+    "stop_name": "Oittila L"
+  },
+  {
+    "stop_id": "143591",
+    "stop_name": "Synsiä E"
+  },
+  {
+    "stop_id": "143592",
+    "stop_name": "Päiväkunta L"
+  },
+  {
+    "stop_id": "143607",
+    "stop_name": "Katvelantie E"
+  },
+  {
+    "stop_id": "143608",
+    "stop_name": "Katvelantie P"
+  },
+  {
+    "stop_id": "143615",
+    "stop_name": "Vesangantie th  P"
+  },
+  {
+    "stop_id": "143616",
+    "stop_name": "Vesangantie th E"
+  },
+  {
+    "stop_id": "143617",
+    "stop_name": "Timolantie P"
+  },
+  {
+    "stop_id": "143618",
+    "stop_name": "Timolantie E"
+  },
+  {
+    "stop_id": "143619",
+    "stop_name": "Ruokepuolinen P"
+  },
+  {
+    "stop_id": "143620",
+    "stop_name": "Ruokepuolinen E"
+  },
+  {
+    "stop_id": "143621",
+    "stop_name": "Kylmäoja P"
+  },
+  {
+    "stop_id": "143622",
+    "stop_name": "Suomäentie P"
+  },
+  {
+    "stop_id": "143623",
+    "stop_name": "Suomäentie E"
+  },
+  {
+    "stop_id": "143624",
+    "stop_name": "Porttilantie P"
+  },
+  {
+    "stop_id": "143625",
+    "stop_name": "Porttilantie E"
+  },
+  {
+    "stop_id": "143626",
+    "stop_name": "Soikkalantie P"
+  },
+  {
+    "stop_id": "143627",
+    "stop_name": "Soikkalantie E"
+  },
+  {
+    "stop_id": "143628",
+    "stop_name": "Kesärannantie L"
+  },
+  {
+    "stop_id": "143629",
+    "stop_name": "Kesärannantie I"
+  },
+  {
+    "stop_id": "143630",
+    "stop_name": "Majajärvi L"
+  },
+  {
+    "stop_id": "143631",
+    "stop_name": "Majajärvi I"
+  },
+  {
+    "stop_id": "143632",
+    "stop_name": "Yijälä L"
+  },
+  {
+    "stop_id": "143633",
+    "stop_name": "Yijälä I"
+  },
+  {
+    "stop_id": "143634",
+    "stop_name": "Koskelantie L"
+  },
+  {
+    "stop_id": "143635",
+    "stop_name": "Koskelantie I"
+  },
+  {
+    "stop_id": "143636",
+    "stop_name": "Rippalanmäki L"
+  },
+  {
+    "stop_id": "143637",
+    "stop_name": "Rippalanmäki I"
+  },
+  {
+    "stop_id": "143638",
+    "stop_name": "Syväojankuja L"
+  },
+  {
+    "stop_id": "143639",
+    "stop_name": "Syväojankuja I"
+  },
+  {
+    "stop_id": "143640",
+    "stop_name": "Laajavuorentie L"
+  },
+  {
+    "stop_id": "143641",
+    "stop_name": "Laajavuorentie I"
+  },
+  {
+    "stop_id": "143642",
+    "stop_name": "Rantaniemeläntie E"
+  },
+  {
+    "stop_id": "143643",
+    "stop_name": "Rantaniemeläntie P"
+  },
+  {
+    "stop_id": "143644",
+    "stop_name": "Korppumäki E"
+  },
+  {
+    "stop_id": "143645",
+    "stop_name": "Korppumäki P"
+  },
+  {
+    "stop_id": "143646",
+    "stop_name": "Palokanorsi 838 L"
+  },
+  {
+    "stop_id": "143648",
+    "stop_name": "Pappilanjoki silta L"
+  },
+  {
+    "stop_id": "143649",
+    "stop_name": "Pappilanjoki silta I"
+  },
+  {
+    "stop_id": "143650",
+    "stop_name": "Matinmäentie th L"
+  },
+  {
+    "stop_id": "143652",
+    "stop_name": "Haukkalantie 2"
+  },
+  {
+    "stop_id": "143653",
+    "stop_name": "Haukanpesäntie 1"
+  },
+  {
+    "stop_id": "143654",
+    "stop_name": "Haukanpesäntie 2"
+  },
+  {
+    "stop_id": "143655",
+    "stop_name": "Laajavuorentie E"
+  },
+  {
+    "stop_id": "143656",
+    "stop_name": "Korppumäki I"
+  },
+  {
+    "stop_id": "143657",
+    "stop_name": "Korppumäki L"
+  },
+  {
+    "stop_id": "143658",
+    "stop_name": "Nuutti I"
+  },
+  {
+    "stop_id": "143659",
+    "stop_name": "Nuutti L"
+  },
+  {
+    "stop_id": "143660",
+    "stop_name": "Kaunikkila I"
+  },
+  {
+    "stop_id": "143661",
+    "stop_name": "Kaunikkila L"
+  },
+  {
+    "stop_id": "143662",
+    "stop_name": "Saarenmaantie 225 E"
+  },
+  {
+    "stop_id": "143663",
+    "stop_name": "Saarenmaantie 225 P"
+  },
+  {
+    "stop_id": "143664",
+    "stop_name": "Pykälistönkuja E"
+  },
+  {
+    "stop_id": "143665",
+    "stop_name": "Kaitalahti I"
+  },
+  {
+    "stop_id": "143666",
+    "stop_name": "Kaitalahti L"
+  },
+  {
+    "stop_id": "143667",
+    "stop_name": "Reijunperä E"
+  },
+  {
+    "stop_id": "143668",
+    "stop_name": "Reijunperä P"
+  },
+  {
+    "stop_id": "143669",
+    "stop_name": "Kaijanpääntie E"
+  },
+  {
+    "stop_id": "143670",
+    "stop_name": "Kaijanpääntie P"
+  },
+  {
+    "stop_id": "143671",
+    "stop_name": "Saarenmaantie 536 E"
+  },
+  {
+    "stop_id": "143672",
+    "stop_name": "Saarenmaantie 536 P"
+  },
+  {
+    "stop_id": "143673",
+    "stop_name": "Kivelänlammentie E"
+  },
+  {
+    "stop_id": "143674",
+    "stop_name": "Kivelänlammentie P"
+  },
+  {
+    "stop_id": "143675",
+    "stop_name": "Kokkomäentie E"
+  },
+  {
+    "stop_id": "143676",
+    "stop_name": "Kokkomäentie P"
+  },
+  {
+    "stop_id": "143677",
+    "stop_name": "Korpelanperä E"
+  },
+  {
+    "stop_id": "143678",
+    "stop_name": "Korpelanperä P"
+  },
+  {
+    "stop_id": "143679",
+    "stop_name": "Kärkeläntie E"
+  },
+  {
+    "stop_id": "143680",
+    "stop_name": "Kärkeläntie P"
+  },
+  {
+    "stop_id": "143681",
+    "stop_name": "Kaakkolampi E"
+  },
+  {
+    "stop_id": "143682",
+    "stop_name": "Kaakkolampi P"
+  },
+  {
+    "stop_id": "143683",
+    "stop_name": "Rajala E"
+  },
+  {
+    "stop_id": "143684",
+    "stop_name": "Rajala P"
+  },
+  {
+    "stop_id": "143685",
+    "stop_name": "Lintukangas I"
+  },
+  {
+    "stop_id": "143686",
+    "stop_name": "Lintukangas L"
+  },
+  {
+    "stop_id": "143687",
+    "stop_name": "Huuhanmäentie I"
+  },
+  {
+    "stop_id": "143688",
+    "stop_name": "Huuhanmäentie L"
+  },
+  {
+    "stop_id": "143689",
+    "stop_name": "Myllylänperä I"
+  },
+  {
+    "stop_id": "143690",
+    "stop_name": "Myllylänperä L"
+  },
+  {
+    "stop_id": "143691",
+    "stop_name": "Sarjomäentie I"
+  },
+  {
+    "stop_id": "143692",
+    "stop_name": "Sarjomäentie L"
+  },
+  {
+    "stop_id": "143693",
+    "stop_name": "Topinkuja I"
+  },
+  {
+    "stop_id": "143694",
+    "stop_name": "Topinkuja L"
+  },
+  {
+    "stop_id": "143695",
+    "stop_name": "Lähteenlammit L"
+  },
+  {
+    "stop_id": "143696",
+    "stop_name": "Lähteenlammit I"
+  },
+  {
+    "stop_id": "143697",
+    "stop_name": "Vasaramäki I"
+  },
+  {
+    "stop_id": "143698",
+    "stop_name": "Vasaramäki L"
+  },
+  {
+    "stop_id": "143699",
+    "stop_name": "Puuppolantie E"
+  },
+  {
+    "stop_id": "143700",
+    "stop_name": "Terttumäki E"
+  },
+  {
+    "stop_id": "143701",
+    "stop_name": "Terttumäki P"
+  },
+  {
+    "stop_id": "143702",
+    "stop_name": "Tarmola E"
+  },
+  {
+    "stop_id": "143703",
+    "stop_name": "Tarmola P"
+  },
+  {
+    "stop_id": "143704",
+    "stop_name": "Kirri E"
+  },
+  {
+    "stop_id": "143705",
+    "stop_name": "Kirri P"
+  },
+  {
+    "stop_id": "143706",
+    "stop_name": "Haukkamäki P"
+  },
+  {
+    "stop_id": "143707",
+    "stop_name": "Haukkamäki E"
+  },
+  {
+    "stop_id": "143708",
+    "stop_name": "Palokanorsi P"
+  },
+  {
+    "stop_id": "143709",
+    "stop_name": "Palokankeskus E"
+  },
+  {
+    "stop_id": "143710",
+    "stop_name": "Palokankeskus P"
+  },
+  {
+    "stop_id": "143711",
+    "stop_name": "Hakatalot P"
+  },
+  {
+    "stop_id": "143712",
+    "stop_name": "Hakatalot 1"
+  },
+  {
+    "stop_id": "143713",
+    "stop_name": "Viihdekeskus P"
+  },
+  {
+    "stop_id": "143714",
+    "stop_name": "Viihdekeskus 1"
+  },
+  {
+    "stop_id": "143717",
+    "stop_name": "Mannila 2"
+  },
+  {
+    "stop_id": "143718",
+    "stop_name": "Mannila 1"
+  },
+  {
+    "stop_id": "143719",
+    "stop_name": "Pirttisuo I"
+  },
+  {
+    "stop_id": "143720",
+    "stop_name": "Pirttisuo L"
+  },
+  {
+    "stop_id": "143721",
+    "stop_name": "Vertaalantie 57 I"
+  },
+  {
+    "stop_id": "143722",
+    "stop_name": "Vertaalantie 57 L"
+  },
+  {
+    "stop_id": "143723",
+    "stop_name": "Kätkänmäki I"
+  },
+  {
+    "stop_id": "143724",
+    "stop_name": "Kätkänmäki L"
+  },
+  {
+    "stop_id": "143725",
+    "stop_name": "Tyyneläntie I"
+  },
+  {
+    "stop_id": "143726",
+    "stop_name": "Tyyneläntie L"
+  },
+  {
+    "stop_id": "143727",
+    "stop_name": "Varrenvesi I"
+  },
+  {
+    "stop_id": "143728",
+    "stop_name": "Vasaraisentie L"
+  },
+  {
+    "stop_id": "143729",
+    "stop_name": "Vasaraisentie I"
+  },
+  {
+    "stop_id": "143730",
+    "stop_name": "Myllylänkuja I"
+  },
+  {
+    "stop_id": "143731",
+    "stop_name": "Myllylänkuja L"
+  },
+  {
+    "stop_id": "143732",
+    "stop_name": "Pitkänahonmäki I"
+  },
+  {
+    "stop_id": "143733",
+    "stop_name": "Pitkänahonmäki L"
+  },
+  {
+    "stop_id": "143734",
+    "stop_name": "Vertaalantie th I"
+  },
+  {
+    "stop_id": "143735",
+    "stop_name": "Nyrölä P"
+  },
+  {
+    "stop_id": "143736",
+    "stop_name": "Jatkola E"
+  },
+  {
+    "stop_id": "143737",
+    "stop_name": "Naarantie E"
+  },
+  {
+    "stop_id": "143738",
+    "stop_name": "Naarantie P"
+  },
+  {
+    "stop_id": "143739",
+    "stop_name": "Parolantie P"
+  },
+  {
+    "stop_id": "143740",
+    "stop_name": "Parolantie E"
+  },
+  {
+    "stop_id": "143741",
+    "stop_name": "Länsiranta E"
+  },
+  {
+    "stop_id": "143742",
+    "stop_name": "Koulukatu  Tikkakoski P"
+  },
+  {
+    "stop_id": "143743",
+    "stop_name": "Kiilakatu L"
+  },
+  {
+    "stop_id": "143745",
+    "stop_name": "Tikkakoski koulu L"
+  },
+  {
+    "stop_id": "143746",
+    "stop_name": "Tikkakoski koulu I"
+  },
+  {
+    "stop_id": "143747",
+    "stop_name": "Myllykatu I"
+  },
+  {
+    "stop_id": "143748",
+    "stop_name": "Kirkkokatu  Tikkakoski L"
+  },
+  {
+    "stop_id": "143751",
+    "stop_name": "Autiosillantie P"
+  },
+  {
+    "stop_id": "143752",
+    "stop_name": "Autiosillantie E"
+  },
+  {
+    "stop_id": "143753",
+    "stop_name": "Autiokangas E"
+  },
+  {
+    "stop_id": "143754",
+    "stop_name": "Autiokangas P"
+  },
+  {
+    "stop_id": "143755",
+    "stop_name": "Tuomolantie E"
+  },
+  {
+    "stop_id": "143756",
+    "stop_name": "Tuomolantie P"
+  },
+  {
+    "stop_id": "143757",
+    "stop_name": "Mutkaperä E"
+  },
+  {
+    "stop_id": "143758",
+    "stop_name": "Mutkaperä P"
+  },
+  {
+    "stop_id": "143759",
+    "stop_name": "Liinalampi E"
+  },
+  {
+    "stop_id": "143760",
+    "stop_name": "Liinalampi P"
+  },
+  {
+    "stop_id": "143761",
+    "stop_name": "Tervaruukinkatu E"
+  },
+  {
+    "stop_id": "143762",
+    "stop_name": "Tervaruukinkatu P"
+  },
+  {
+    "stop_id": "143765",
+    "stop_name": "Salmelantie 66 I"
+  },
+  {
+    "stop_id": "143766",
+    "stop_name": "Koivuharju I"
+  },
+  {
+    "stop_id": "143767",
+    "stop_name": "Vähäjärventie P"
+  },
+  {
+    "stop_id": "143768",
+    "stop_name": "Vähäjärventie L"
+  },
+  {
+    "stop_id": "143769",
+    "stop_name": "Kuusela E"
+  },
+  {
+    "stop_id": "143770",
+    "stop_name": "Kuusela P"
+  },
+  {
+    "stop_id": "143771",
+    "stop_name": "Koivurinne L"
+  },
+  {
+    "stop_id": "143772",
+    "stop_name": "Koivurinne I"
+  },
+  {
+    "stop_id": "143774",
+    "stop_name": "Jylhä E"
+  },
+  {
+    "stop_id": "143775",
+    "stop_name": "Jylhä I"
+  },
+  {
+    "stop_id": "143776",
+    "stop_name": "Kuukanpää I"
+  },
+  {
+    "stop_id": "143777",
+    "stop_name": "Kuukanpää L"
+  },
+  {
+    "stop_id": "143778",
+    "stop_name": "Ukonniementie P"
+  },
+  {
+    "stop_id": "143779",
+    "stop_name": "Heinälammentie 2"
+  },
+  {
+    "stop_id": "143780",
+    "stop_name": "Heinälammentie 1"
+  },
+  {
+    "stop_id": "143781",
+    "stop_name": "Heinäoja 2"
+  },
+  {
+    "stop_id": "143782",
+    "stop_name": "Heinäoja 1"
+  },
+  {
+    "stop_id": "143783",
+    "stop_name": "Ritoniemi 1"
+  },
+  {
+    "stop_id": "143784",
+    "stop_name": "Ritoniemi 2"
+  },
+  {
+    "stop_id": "143787",
+    "stop_name": "Palokan terveyskeskus 2"
+  },
+  {
+    "stop_id": "143788",
+    "stop_name": "Palokan terveyskeskus 1"
+  },
+  {
+    "stop_id": "143789",
+    "stop_name": "Pappilanvuori 2"
+  },
+  {
+    "stop_id": "143790",
+    "stop_name": "Pappilanrinne 1"
+  },
+  {
+    "stop_id": "143791",
+    "stop_name": "Jokela th E"
+  },
+  {
+    "stop_id": "143792",
+    "stop_name": "Jokela th P"
+  },
+  {
+    "stop_id": "143793",
+    "stop_name": "Piilola E"
+  },
+  {
+    "stop_id": "143794",
+    "stop_name": "Piilola P"
+  },
+  {
+    "stop_id": "143795",
+    "stop_name": "Ollila th E"
+  },
+  {
+    "stop_id": "143796",
+    "stop_name": "Ollila th P"
+  },
+  {
+    "stop_id": "143797",
+    "stop_name": "Martikaisentie P"
+  },
+  {
+    "stop_id": "143798",
+    "stop_name": "Martikaisentie E"
+  },
+  {
+    "stop_id": "143799",
+    "stop_name": "Heikkilä E"
+  },
+  {
+    "stop_id": "143800",
+    "stop_name": "Heikkilä P"
+  },
+  {
+    "stop_id": "143801",
+    "stop_name": "Koivumutka E"
+  },
+  {
+    "stop_id": "143802",
+    "stop_name": "Koivumutka P"
+  },
+  {
+    "stop_id": "143803",
+    "stop_name": "Hiekkapohjan th E"
+  },
+  {
+    "stop_id": "143804",
+    "stop_name": "Hiekkapohjan th P"
+  },
+  {
+    "stop_id": "143805",
+    "stop_name": "Isolahti E"
+  },
+  {
+    "stop_id": "143806",
+    "stop_name": "Isolahti P"
+  },
+  {
+    "stop_id": "143807",
+    "stop_name": "Syvälahdentie E"
+  },
+  {
+    "stop_id": "143808",
+    "stop_name": "Syvälahdentie P"
+  },
+  {
+    "stop_id": "143809",
+    "stop_name": "Lehtoniemi th E"
+  },
+  {
+    "stop_id": "143810",
+    "stop_name": "Lehtoniemi th P"
+  },
+  {
+    "stop_id": "143811",
+    "stop_name": "Huittilantie E"
+  },
+  {
+    "stop_id": "143812",
+    "stop_name": "Huittilantie P"
+  },
+  {
+    "stop_id": "143813",
+    "stop_name": "Kappeliahontie E"
+  },
+  {
+    "stop_id": "143814",
+    "stop_name": "Kappeliahontie L"
+  },
+  {
+    "stop_id": "143815",
+    "stop_name": "Matinmäentie 555 I"
+  },
+  {
+    "stop_id": "143816",
+    "stop_name": "Matinmäentie 555 L"
+  },
+  {
+    "stop_id": "143817",
+    "stop_name": "Lehesjärventie I"
+  },
+  {
+    "stop_id": "143819",
+    "stop_name": "Hiekkapohjantie 13 I"
+  },
+  {
+    "stop_id": "143820",
+    "stop_name": "Väliläntie L"
+  },
+  {
+    "stop_id": "143821",
+    "stop_name": "Väliläntie I"
+  },
+  {
+    "stop_id": "143822",
+    "stop_name": "Karhulammentie L"
+  },
+  {
+    "stop_id": "143823",
+    "stop_name": "Karhulammentie I"
+  },
+  {
+    "stop_id": "143824",
+    "stop_name": "Saarenmäentie I"
+  },
+  {
+    "stop_id": "143825",
+    "stop_name": "Saarenmäentie L"
+  },
+  {
+    "stop_id": "143826",
+    "stop_name": "Mutapohja L"
+  },
+  {
+    "stop_id": "143827",
+    "stop_name": "Mutapohja I"
+  },
+  {
+    "stop_id": "143828",
+    "stop_name": "Karhunrinta L"
+  },
+  {
+    "stop_id": "143829",
+    "stop_name": "Karhunrinta I"
+  },
+  {
+    "stop_id": "143830",
+    "stop_name": "Hiekkapohjantie 240 L"
+  },
+  {
+    "stop_id": "143831",
+    "stop_name": "Hiekkapohjantie 242 P"
+  },
+  {
+    "stop_id": "143832",
+    "stop_name": "Perälamminmäki  E"
+  },
+  {
+    "stop_id": "143833",
+    "stop_name": "Perälamminmäki P"
+  },
+  {
+    "stop_id": "143834",
+    "stop_name": "Perälä E"
+  },
+  {
+    "stop_id": "143836",
+    "stop_name": "Osmolantie E"
+  },
+  {
+    "stop_id": "143837",
+    "stop_name": "Osmolantie P"
+  },
+  {
+    "stop_id": "143838",
+    "stop_name": "Vähäjärventie E"
+  },
+  {
+    "stop_id": "143839",
+    "stop_name": "Vähäjärventie P"
+  },
+  {
+    "stop_id": "143840",
+    "stop_name": "Katvela E"
+  },
+  {
+    "stop_id": "143841",
+    "stop_name": "Katvela P"
+  },
+  {
+    "stop_id": "143842",
+    "stop_name": "Koivurinne E"
+  },
+  {
+    "stop_id": "143844",
+    "stop_name": "Salmela E"
+  },
+  {
+    "stop_id": "143845",
+    "stop_name": "Salmela P"
+  },
+  {
+    "stop_id": "143846",
+    "stop_name": "Vaajakosken th P"
+  },
+  {
+    "stop_id": "143847",
+    "stop_name": "Vaajakosken th E"
+  },
+  {
+    "stop_id": "143848",
+    "stop_name": "Laviantie E"
+  },
+  {
+    "stop_id": "143849",
+    "stop_name": "Laviantie P"
+  },
+  {
+    "stop_id": "143850",
+    "stop_name": "Ala-Kuukkalantie E"
+  },
+  {
+    "stop_id": "143852",
+    "stop_name": "Ala-Kuukkalantie I"
+  },
+  {
+    "stop_id": "143853",
+    "stop_name": "Ilveslahti L"
+  },
+  {
+    "stop_id": "143854",
+    "stop_name": "Ilveslahti I"
+  },
+  {
+    "stop_id": "143855",
+    "stop_name": "Kuusikkotie L"
+  },
+  {
+    "stop_id": "143856",
+    "stop_name": "Kuusikkotie I"
+  },
+  {
+    "stop_id": "143857",
+    "stop_name": "Saviontie I"
+  },
+  {
+    "stop_id": "143858",
+    "stop_name": "Saviontie L"
+  },
+  {
+    "stop_id": "143859",
+    "stop_name": "Lapinlampi P"
+  },
+  {
+    "stop_id": "143860",
+    "stop_name": "Rantakylä E"
+  },
+  {
+    "stop_id": "143862",
+    "stop_name": "Mansikkaniemi P"
+  },
+  {
+    "stop_id": "143863",
+    "stop_name": "Niemelä P"
+  },
+  {
+    "stop_id": "143864",
+    "stop_name": "Niemelä E"
+  },
+  {
+    "stop_id": "143865",
+    "stop_name": "Kuhankoski E"
+  },
+  {
+    "stop_id": "143866",
+    "stop_name": "Kuhankoski P"
+  },
+  {
+    "stop_id": "143867",
+    "stop_name": "Bovallius-ammattiopisto E"
+  },
+  {
+    "stop_id": "143868",
+    "stop_name": "Bovallius-ammattiopisto P"
+  },
+  {
+    "stop_id": "143869",
+    "stop_name": "Puustelli E"
+  },
+  {
+    "stop_id": "143870",
+    "stop_name": "Kuhanpuro P"
+  },
+  {
+    "stop_id": "143871",
+    "stop_name": "Harhalantie E"
+  },
+  {
+    "stop_id": "143872",
+    "stop_name": "Harhalantie P"
+  },
+  {
+    "stop_id": "143873",
+    "stop_name": "Tarvaala th E"
+  },
+  {
+    "stop_id": "143874",
+    "stop_name": "Tarvaala th P"
+  },
+  {
+    "stop_id": "143875",
+    "stop_name": "Kantola P"
+  },
+  {
+    "stop_id": "143876",
+    "stop_name": "Kantola E"
+  },
+  {
+    "stop_id": "143878",
+    "stop_name": "Tyvelänniemi P"
+  },
+  {
+    "stop_id": "143879",
+    "stop_name": "Mikkolanniemi E"
+  },
+  {
+    "stop_id": "143883",
+    "stop_name": "Kuhankoskentie L"
+  },
+  {
+    "stop_id": "143885",
+    "stop_name": "Näppymäentie L"
+  },
+  {
+    "stop_id": "143887",
+    "stop_name": "Kelkkamäki I"
+  },
+  {
+    "stop_id": "143888",
+    "stop_name": "Kelkkamäki L"
+  },
+  {
+    "stop_id": "143889",
+    "stop_name": "Asevarikko I"
+  },
+  {
+    "stop_id": "143890",
+    "stop_name": "Asevarikko L"
+  },
+  {
+    "stop_id": "143891",
+    "stop_name": "Pekanraitti I"
+  },
+  {
+    "stop_id": "143893",
+    "stop_name": "Liepeentie E"
+  },
+  {
+    "stop_id": "143894",
+    "stop_name": "Montolantie E"
+  },
+  {
+    "stop_id": "143895",
+    "stop_name": "Tiilitehtaantie E"
+  },
+  {
+    "stop_id": "143896",
+    "stop_name": "Lamminpääntie E"
+  },
+  {
+    "stop_id": "143897",
+    "stop_name": "Haalatvantie E"
+  },
+  {
+    "stop_id": "143901",
+    "stop_name": "Hohontie 3 P"
+  },
+  {
+    "stop_id": "143902",
+    "stop_name": "Haukkavuorentie P"
+  },
+  {
+    "stop_id": "143903",
+    "stop_name": "Haukkavuorentie E"
+  },
+  {
+    "stop_id": "143904",
+    "stop_name": "Kuopiontie P"
+  },
+  {
+    "stop_id": "143905",
+    "stop_name": "Parkonniemi E"
+  },
+  {
+    "stop_id": "143906",
+    "stop_name": "Parkonniemi P"
+  },
+  {
+    "stop_id": "143907",
+    "stop_name": "Rauhalanmäki E"
+  },
+  {
+    "stop_id": "143908",
+    "stop_name": "Sulkulantie E"
+  },
+  {
+    "stop_id": "143909",
+    "stop_name": "VALKOLA (LAUKAA)"
+  },
+  {
+    "stop_id": "143910",
+    "stop_name": "Vitkalantie E"
+  },
+  {
+    "stop_id": "143911",
+    "stop_name": "Kaipionpohja P"
+  },
+  {
+    "stop_id": "143912",
+    "stop_name": "Kaipiontie E"
+  },
+  {
+    "stop_id": "143955",
+    "stop_name": "Purola I"
+  },
+  {
+    "stop_id": "143956",
+    "stop_name": "LAAJARANTA  Liimattalantie 365"
+  },
+  {
+    "stop_id": "143957",
+    "stop_name": "Mäenpää I"
+  },
+  {
+    "stop_id": "143958",
+    "stop_name": "Mäenpää L"
+  },
+  {
+    "stop_id": "143959",
+    "stop_name": "Liimattala E"
+  },
+  {
+    "stop_id": "143960",
+    "stop_name": "Häkkiläntie I"
+  },
+  {
+    "stop_id": "143961",
+    "stop_name": "Ruotinkylä E"
+  },
+  {
+    "stop_id": "143962",
+    "stop_name": "Syvälahdentie E"
+  },
+  {
+    "stop_id": "144049",
+    "stop_name": "Kalaniemi E"
+  },
+  {
+    "stop_id": "144050",
+    "stop_name": "Kalaniemi P"
+  },
+  {
+    "stop_id": "160339",
+    "stop_name": "Kolkkapolku"
+  },
+  {
+    "stop_id": "161150",
+    "stop_name": "Sipiläntie"
+  },
+  {
+    "stop_id": "171300",
+    "stop_name": "Sulkulantie E"
+  },
+  {
+    "stop_id": "171301",
+    "stop_name": "Sulkulantie P"
+  },
+  {
+    "stop_id": "171302",
+    "stop_name": "Kolmisoppinen L"
+  },
+  {
+    "stop_id": "171303",
+    "stop_name": "Kolmisoppinen 1"
+  },
+  {
+    "stop_id": "171304",
+    "stop_name": "Sarvikallio E"
+  },
+  {
+    "stop_id": "171305",
+    "stop_name": "Sarvikallio P"
+  },
+  {
+    "stop_id": "171421",
+    "stop_name": "Korpilahdentie L"
+  },
+  {
+    "stop_id": "171423",
+    "stop_name": "Punamäki th P"
+  },
+  {
+    "stop_id": "171600",
+    "stop_name": "Rajamäki E"
+  },
+  {
+    "stop_id": "171601",
+    "stop_name": "Kukkakuja P"
+  },
+  {
+    "stop_id": "171712",
+    "stop_name": "Punamäki E"
+  },
+  {
+    "stop_id": "171713",
+    "stop_name": "Punamäki P"
+  },
+  {
+    "stop_id": "171714",
+    "stop_name": "Kuusanmäentie E"
+  },
+  {
+    "stop_id": "171715",
+    "stop_name": "Kuusanmäentie P"
+  },
+  {
+    "stop_id": "171854",
+    "stop_name": "Väinöntie I"
+  },
+  {
+    "stop_id": "172472",
+    "stop_name": "Konginkangas kirkko E"
+  },
+  {
+    "stop_id": "184305",
+    "stop_name": "Niemisjärvi th P"
+  },
+  {
+    "stop_id": "184430",
+    "stop_name": "Riuttamäentie I"
+  },
+  {
+    "stop_id": "184431",
+    "stop_name": "Riuttamäentie P"
+  },
+  {
+    "stop_id": "184512",
+    "stop_name": "Anterontie E"
+  },
+  {
+    "stop_id": "184513",
+    "stop_name": "Anterontie P"
+  },
+  {
+    "stop_id": "184514",
+    "stop_name": "Mäntytie E"
+  },
+  {
+    "stop_id": "184515",
+    "stop_name": "Mäntytie P"
+  },
+  {
+    "stop_id": "186632",
+    "stop_name": "Jyväskylä Matkakeskus"
+  },
+  {
+    "stop_id": "187133",
+    "stop_name": "Jämsä th I"
+  },
+  {
+    "stop_id": "187134",
+    "stop_name": "Jämsä th L"
+  },
+  {
+    "stop_id": "187135",
+    "stop_name": "Petäjävesi th E"
+  },
+  {
+    "stop_id": "187136",
+    "stop_name": "Petäjävesi th P"
+  },
+  {
+    "stop_id": "187533",
+    "stop_name": "Kalaniementie I"
+  },
+  {
+    "stop_id": "187858",
+    "stop_name": "Eerolantie P"
+  },
+  {
+    "stop_id": "188466",
+    "stop_name": "Kanavuori 9-tie I"
+  },
+  {
+    "stop_id": "188468",
+    "stop_name": "Kanavuori 9-tie L"
+  },
+  {
+    "stop_id": "188469",
+    "stop_name": "Ruokosaari L"
+  },
+  {
+    "stop_id": "188470",
+    "stop_name": "Ruokosaari I"
+  },
+  {
+    "stop_id": "188489",
+    "stop_name": "Myllylahti E"
+  },
+  {
+    "stop_id": "188490",
+    "stop_name": "Jaakkolantie E"
+  },
+  {
+    "stop_id": "189507",
+    "stop_name": "Parantala E"
+  },
+  {
+    "stop_id": "189513",
+    "stop_name": "Sarvenperäntie L"
+  },
+  {
+    "stop_id": "189514",
+    "stop_name": "Lehtiniemi I"
+  },
+  {
+    "stop_id": "189574",
+    "stop_name": "Toivakka"
+  },
+  {
+    "stop_id": "189583",
+    "stop_name": "Kukkumäki ramppi I"
+  },
+  {
+    "stop_id": "189584",
+    "stop_name": "Tervala 2"
+  },
+  {
+    "stop_id": "189611",
+    "stop_name": "Hirvaskangas I Äänekoski"
+  },
+  {
+    "stop_id": "189612",
+    "stop_name": "Hirvaskangas L"
+  },
+  {
+    "stop_id": "189629",
+    "stop_name": "Erkintie P"
+  },
+  {
+    "stop_id": "189630",
+    "stop_name": "Erkintie E"
+  },
+  {
+    "stop_id": "189643",
+    "stop_name": "Sahinjoentie E"
+  },
+  {
+    "stop_id": "189645",
+    "stop_name": "Suurosentie I"
+  },
+  {
+    "stop_id": "189646",
+    "stop_name": "Poranmäki L"
+  },
+  {
+    "stop_id": "189647",
+    "stop_name": "Poranmäki P"
+  },
+  {
+    "stop_id": "189648",
+    "stop_name": "Hankasalmi asema E"
+  },
+  {
+    "stop_id": "189649",
+    "stop_name": "Mäntylä P"
+  },
+  {
+    "stop_id": "189988",
+    "stop_name": "Kuusjärventie P"
+  },
+  {
+    "stop_id": "189989",
+    "stop_name": "Kuusimäentie E"
+  },
+  {
+    "stop_id": "189990",
+    "stop_name": "Kuusimäentie I"
+  },
+  {
+    "stop_id": "189999",
+    "stop_name": "Ruuhimäki E"
+  },
+  {
+    "stop_id": "190001",
+    "stop_name": "Kelkkamäki th E"
+  },
+  {
+    "stop_id": "190003",
+    "stop_name": "Koskelanmutka L"
+  },
+  {
+    "stop_id": "190004",
+    "stop_name": "Koskelanmutka I"
+  },
+  {
+    "stop_id": "190005",
+    "stop_name": "Palokanorsi 838 I"
+  },
+  {
+    "stop_id": "190006",
+    "stop_name": "Jokelantie L"
+  },
+  {
+    "stop_id": "190007",
+    "stop_name": "Haukkalantie 1"
+  },
+  {
+    "stop_id": "190008",
+    "stop_name": "Pykälistönkuja P"
+  },
+  {
+    "stop_id": "190012",
+    "stop_name": "Varrenvesi L"
+  },
+  {
+    "stop_id": "190015",
+    "stop_name": "Makkarajoentie I"
+  },
+  {
+    "stop_id": "190016",
+    "stop_name": "Rässälä L"
+  },
+  {
+    "stop_id": "190018",
+    "stop_name": "Koivuharju L"
+  },
+  {
+    "stop_id": "190019",
+    "stop_name": "Pappilanrinne 2"
+  },
+  {
+    "stop_id": "190020",
+    "stop_name": "Lehesjärventie L"
+  },
+  {
+    "stop_id": "190021",
+    "stop_name": "Perälä P"
+  },
+  {
+    "stop_id": "190022",
+    "stop_name": "Hiekkapohja P"
+  },
+  {
+    "stop_id": "190023",
+    "stop_name": "Koivurinne P"
+  },
+  {
+    "stop_id": "190024",
+    "stop_name": "Vehmaanraitti I"
+  },
+  {
+    "stop_id": "190025",
+    "stop_name": "Hytösenkuja P"
+  },
+  {
+    "stop_id": "190026",
+    "stop_name": "Tyvelänniemi E"
+  },
+  {
+    "stop_id": "190027",
+    "stop_name": "Mikkolanniemi P"
+  },
+  {
+    "stop_id": "190028",
+    "stop_name": "Kelkkamäki th P"
+  },
+  {
+    "stop_id": "190029",
+    "stop_name": "Pirtinalue L"
+  },
+  {
+    "stop_id": "190030",
+    "stop_name": "Pirtinalue I"
+  },
+  {
+    "stop_id": "190031",
+    "stop_name": "Pekanraitti L"
+  },
+  {
+    "stop_id": "190032",
+    "stop_name": "Liepeentie P"
+  },
+  {
+    "stop_id": "190113",
+    "stop_name": "Kanervakuja P"
+  },
+  {
+    "stop_id": "190114",
+    "stop_name": "Salmenniemi P"
+  },
+  {
+    "stop_id": "190117",
+    "stop_name": "Puuppolan kauppa E"
+  },
+  {
+    "stop_id": "190118",
+    "stop_name": "Puuppolan kauppa P"
+  },
+  {
+    "stop_id": "190119",
+    "stop_name": "Suontaustantie E"
+  },
+  {
+    "stop_id": "190120",
+    "stop_name": "Hytölänpolku P"
+  },
+  {
+    "stop_id": "190121",
+    "stop_name": "Hytölänpolku E"
+  },
+  {
+    "stop_id": "190124",
+    "stop_name": "Lohitalot P"
+  },
+  {
+    "stop_id": "190125",
+    "stop_name": "Lohitalot E"
+  },
+  {
+    "stop_id": "190126",
+    "stop_name": "Lahjaharjun hautausmaa E"
+  },
+  {
+    "stop_id": "190127",
+    "stop_name": "Lahjaharjun hautausmaa P"
+  },
+  {
+    "stop_id": "190128",
+    "stop_name": "Seppälän th E"
+  },
+  {
+    "stop_id": "190129",
+    "stop_name": "Seppälän th P"
+  },
+  {
+    "stop_id": "190130",
+    "stop_name": "Sorastajantie E"
+  },
+  {
+    "stop_id": "190131",
+    "stop_name": "Sorastajantie P"
+  },
+  {
+    "stop_id": "190132",
+    "stop_name": "Kuormaajantie P"
+  },
+  {
+    "stop_id": "190133",
+    "stop_name": "Tiituspohja th I"
+  },
+  {
+    "stop_id": "190136",
+    "stop_name": "Pekkalantie E"
+  },
+  {
+    "stop_id": "190137",
+    "stop_name": "Vuojärvi P"
+  },
+  {
+    "stop_id": "190138",
+    "stop_name": "Vaajakoskentie 267 E"
+  },
+  {
+    "stop_id": "190139",
+    "stop_name": "Vaajakoskentie 266 P"
+  },
+  {
+    "stop_id": "190140",
+    "stop_name": "Isojoki L"
+  },
+  {
+    "stop_id": "190141",
+    "stop_name": "Isojoki I"
+  },
+  {
+    "stop_id": "190327",
+    "stop_name": "Palokan ympyrä P"
+  },
+  {
+    "stop_id": "190328",
+    "stop_name": "Palokanorsi ramppi E"
+  },
+  {
+    "stop_id": "190334",
+    "stop_name": "Säynätsalo th P"
+  },
+  {
+    "stop_id": "190421",
+    "stop_name": "Säynätsalo th E"
+  },
+  {
+    "stop_id": "190422",
+    "stop_name": "Hirvaskangas P Äänekoski"
+  },
+  {
+    "stop_id": "190424",
+    "stop_name": "Ramppi Muurame P"
+  },
+  {
+    "stop_id": "190426",
+    "stop_name": "Korkeakoskenlahti L"
+  },
+  {
+    "stop_id": "190441",
+    "stop_name": "Talvimäentie L"
+  },
+  {
+    "stop_id": "191032",
+    "stop_name": "Taipaleenharju P"
+  },
+  {
+    "stop_id": "191033",
+    "stop_name": "Taipaleenharju E"
+  },
+  {
+    "stop_id": "191034",
+    "stop_name": "Mäntykankaan hautausmaa E"
+  },
+  {
+    "stop_id": "191035",
+    "stop_name": "Mäntykankaan hautausmaa P"
+  },
+  {
+    "stop_id": "191036",
+    "stop_name": "Laastitie E"
+  },
+  {
+    "stop_id": "191037",
+    "stop_name": "Laastitie P"
+  },
+  {
+    "stop_id": "191038",
+    "stop_name": "Valio E"
+  },
+  {
+    "stop_id": "191039",
+    "stop_name": "Valio P"
+  },
+  {
+    "stop_id": "191040",
+    "stop_name": "Palokangas P"
+  },
+  {
+    "stop_id": "191041",
+    "stop_name": "Palokangas E"
+  },
+  {
+    "stop_id": "191042",
+    "stop_name": "Yritystie 20 E"
+  },
+  {
+    "stop_id": "191043",
+    "stop_name": "Yritystie 20 P"
+  },
+  {
+    "stop_id": "191044",
+    "stop_name": "Kuormaajantie E"
+  },
+  {
+    "stop_id": "191367",
+    "stop_name": "Teletie E"
+  },
+  {
+    "stop_id": "191368",
+    "stop_name": "Teletie P"
+  },
+  {
+    "stop_id": "191512",
+    "stop_name": "Petäjävesi th L"
+  },
+  {
+    "stop_id": "191513",
+    "stop_name": "Teollisuustie E"
+  },
+  {
+    "stop_id": "200319",
+    "stop_name": "Laukaantie 2"
+  },
+  {
+    "stop_id": "200320",
+    "stop_name": "Satamatie 2"
+  },
+  {
+    "stop_id": "200321",
+    "stop_name": "Satamatie 1"
+  },
+  {
+    "stop_id": "200327",
+    "stop_name": "Harjutie th 2"
+  },
+  {
+    "stop_id": "200328",
+    "stop_name": "Peurunka jäähalli"
+  },
+  {
+    "stop_id": "200330",
+    "stop_name": "Peurunka Kuntoutuskeskus 1"
+  },
+  {
+    "stop_id": "200331",
+    "stop_name": "Harjutie th 1"
+  },
+  {
+    "stop_id": "200349",
+    "stop_name": "Vihtavuoren kappeli 2"
+  },
+  {
+    "stop_id": "200350",
+    "stop_name": "Vihtavuoren kappeli 1"
+  },
+  {
+    "stop_id": "200351",
+    "stop_name": "Vihtavuorenkoulu E"
+  },
+  {
+    "stop_id": "200353",
+    "stop_name": "Vihtavuorenkoulu P"
+  },
+  {
+    "stop_id": "200354",
+    "stop_name": "Niittytie th 2"
+  },
+  {
+    "stop_id": "200355",
+    "stop_name": "Niittytie th 1"
+  },
+  {
+    "stop_id": "200411",
+    "stop_name": "Korpelantie 1"
+  },
+  {
+    "stop_id": "200412",
+    "stop_name": "Korpelantie 2"
+  },
+  {
+    "stop_id": "200413",
+    "stop_name": "Halttusentie 1"
+  },
+  {
+    "stop_id": "200414",
+    "stop_name": "Halttusentie 2"
+  },
+  {
+    "stop_id": "200415",
+    "stop_name": "Perinnetie 1"
+  },
+  {
+    "stop_id": "200416",
+    "stop_name": "Perinnetie 2"
+  },
+  {
+    "stop_id": "200417",
+    "stop_name": "Tiituspohjan koulu 1"
+  },
+  {
+    "stop_id": "200418",
+    "stop_name": "Tiituspohjan koulu 2"
+  },
+  {
+    "stop_id": "200419",
+    "stop_name": "Niittyrinne 1"
+  },
+  {
+    "stop_id": "200420",
+    "stop_name": "Niittyrinne 2"
+  },
+  {
+    "stop_id": "200421",
+    "stop_name": "Laurintie 1"
+  },
+  {
+    "stop_id": "200422",
+    "stop_name": "Laurintie 2"
+  },
+  {
+    "stop_id": "200423",
+    "stop_name": "Toivontie 1"
+  },
+  {
+    "stop_id": "200424",
+    "stop_name": "Toivontie 2"
+  },
+  {
+    "stop_id": "200426",
+    "stop_name": "Pieleslehdontie 1"
+  },
+  {
+    "stop_id": "200427",
+    "stop_name": "Mestarintie 1"
+  },
+  {
+    "stop_id": "200428",
+    "stop_name": "Mestarintie 2"
+  },
+  {
+    "stop_id": "200429",
+    "stop_name": "Tiituspohjan TH 22"
+  },
+  {
+    "stop_id": "200489",
+    "stop_name": "Lievestuore"
+  },
+  {
+    "stop_id": "200626",
+    "stop_name": "Koulutie I"
+  },
+  {
+    "stop_id": "205567",
+    "stop_name": "Peltolantie"
+  },
+  {
+    "stop_id": "205568",
+    "stop_name": "Haravatie"
+  },
+  {
+    "stop_id": "205569",
+    "stop_name": "Hakatie"
+  },
+  {
+    "stop_id": "205570",
+    "stop_name": "Alapaulantie"
+  },
+  {
+    "stop_id": "205571",
+    "stop_name": "Kohopolku"
+  },
+  {
+    "stop_id": "205572",
+    "stop_name": "Kulmapolku"
+  },
+  {
+    "stop_id": "205577",
+    "stop_name": "Nuorisoseurantalo"
+  },
+  {
+    "stop_id": "205578",
+    "stop_name": "Virastotalo  Muurame"
+  },
+  {
+    "stop_id": "205987",
+    "stop_name": "Honkala"
+  },
+  {
+    "stop_id": "205988",
+    "stop_name": "Majala"
+  },
+  {
+    "stop_id": "205992",
+    "stop_name": "Keiteleentie 1"
+  },
+  {
+    "stop_id": "205996",
+    "stop_name": "Tippala L"
+  },
+  {
+    "stop_id": "206003",
+    "stop_name": "Suolahti"
+  },
+  {
+    "stop_id": "206006",
+    "stop_name": "Keiteleentie 1"
+  },
+  {
+    "stop_id": "206034",
+    "stop_name": "Keskusta"
+  },
+  {
+    "stop_id": "206035",
+    "stop_name": "Tori P"
+  },
+  {
+    "stop_id": "206036",
+    "stop_name": "Mikonpuisto P"
+  },
+  {
+    "stop_id": "206038",
+    "stop_name": "Masto E"
+  },
+  {
+    "stop_id": "206039",
+    "stop_name": "Mikonpuisto E"
+  },
+  {
+    "stop_id": "206040",
+    "stop_name": "Tori E"
+  },
+  {
+    "stop_id": "206041",
+    "stop_name": "Keskusta"
+  },
+  {
+    "stop_id": "206047",
+    "stop_name": "Masto P"
+  },
+  {
+    "stop_id": "206048",
+    "stop_name": "Kauppis P"
+  },
+  {
+    "stop_id": "206049",
+    "stop_name": "Markkamäki P"
+  },
+  {
+    "stop_id": "206050",
+    "stop_name": "Markkamäki 2 P"
+  },
+  {
+    "stop_id": "206051",
+    "stop_name": "Markkamäki 3 P"
+  },
+  {
+    "stop_id": "206052",
+    "stop_name": "Mämmensalmi P"
+  },
+  {
+    "stop_id": "206053",
+    "stop_name": "Markkamäki 2 E"
+  },
+  {
+    "stop_id": "206054",
+    "stop_name": "Markkamäki E"
+  },
+  {
+    "stop_id": "206055",
+    "stop_name": "Vesitorni"
+  },
+  {
+    "stop_id": "206056",
+    "stop_name": "Mäkikatu"
+  },
+  {
+    "stop_id": "206057",
+    "stop_name": "Poke E"
+  },
+  {
+    "stop_id": "206058",
+    "stop_name": "Liikuntapuisto"
+  },
+  {
+    "stop_id": "206059",
+    "stop_name": "Römmi"
+  },
+  {
+    "stop_id": "206060",
+    "stop_name": "Varikko"
+  },
+  {
+    "stop_id": "206061",
+    "stop_name": "Liikuntapuisto"
+  },
+  {
+    "stop_id": "207344",
+    "stop_name": "Kaarikuja"
+  },
+  {
+    "stop_id": "207345",
+    "stop_name": "Kissankello 1"
+  },
+  {
+    "stop_id": "207346",
+    "stop_name": "Kokkakuja 1"
+  },
+  {
+    "stop_id": "207347",
+    "stop_name": "Kulottajantie"
+  },
+  {
+    "stop_id": "207348",
+    "stop_name": "Lahjaharju 1"
+  },
+  {
+    "stop_id": "207349",
+    "stop_name": "Lehdokintie 1"
+  },
+  {
+    "stop_id": "207350",
+    "stop_name": "Paloniemi 1"
+  },
+  {
+    "stop_id": "207352",
+    "stop_name": "Petäjävedentie 1"
+  },
+  {
+    "stop_id": "207353",
+    "stop_name": "Salokatu 2"
+  },
+  {
+    "stop_id": "207354",
+    "stop_name": "Seitikintie 1"
+  },
+  {
+    "stop_id": "207355",
+    "stop_name": "Ss-Hannala 1"
+  },
+  {
+    "stop_id": "207357",
+    "stop_name": "Tuulimyllyntie 1"
+  },
+  {
+    "stop_id": "207358",
+    "stop_name": "Valkovuokontie 1"
+  },
+  {
+    "stop_id": "207359",
+    "stop_name": "Vesojantie 1"
+  },
+  {
+    "stop_id": "207362",
+    "stop_name": "Ainola 1"
+  },
+  {
+    "stop_id": "207363",
+    "stop_name": "Muurarintie 1"
+  },
+  {
+    "stop_id": "207364",
+    "stop_name": "Cygnaeuksen koulu 2"
+  },
+  {
+    "stop_id": "207365",
+    "stop_name": "Hauhontie 1"
+  },
+  {
+    "stop_id": "207366",
+    "stop_name": "Hirvirinne 1"
+  },
+  {
+    "stop_id": "207367",
+    "stop_name": "Jäähalli 2"
+  },
+  {
+    "stop_id": "207368",
+    "stop_name": "Koivuranta 1"
+  },
+  {
+    "stop_id": "207369",
+    "stop_name": "Köhniönjärvi 2"
+  },
+  {
+    "stop_id": "207370",
+    "stop_name": "Könkkölä 1"
+  },
+  {
+    "stop_id": "207371",
+    "stop_name": "Masonmutka 1"
+  },
+  {
+    "stop_id": "207372",
+    "stop_name": "Sairaala 1"
+  },
+  {
+    "stop_id": "207373",
+    "stop_name": "Savela 1"
+  },
+  {
+    "stop_id": "207374",
+    "stop_name": "Seppäläntie 1"
+  },
+  {
+    "stop_id": "207375",
+    "stop_name": "Sepänkatu 1"
+  },
+  {
+    "stop_id": "207376",
+    "stop_name": "Sorvi 2"
+  },
+  {
+    "stop_id": "207377",
+    "stop_name": "Ss-Kangastie 1"
+  },
+  {
+    "stop_id": "207378",
+    "stop_name": "ss-Kunnantalo 1"
+  },
+  {
+    "stop_id": "207379",
+    "stop_name": "Sulkuranta 1"
+  },
+  {
+    "stop_id": "207380",
+    "stop_name": "Sääksmäentie 1"
+  },
+  {
+    "stop_id": "207381",
+    "stop_name": "Tarhamäki 1"
+  },
+  {
+    "stop_id": "207382",
+    "stop_name": "Valimo 1"
+  },
+  {
+    "stop_id": "207383",
+    "stop_name": "Huhtasuo 1"
+  },
+  {
+    "stop_id": "207385",
+    "stop_name": "Kaislikkotie 1"
+  },
+  {
+    "stop_id": "207386",
+    "stop_name": "Karhunrinne 1"
+  },
+  {
+    "stop_id": "207387",
+    "stop_name": "Keljonkankaan koulu 2"
+  },
+  {
+    "stop_id": "207388",
+    "stop_name": "Keltinsilta 1"
+  },
+  {
+    "stop_id": "207390",
+    "stop_name": "Kontiontie 1"
+  },
+  {
+    "stop_id": "207391",
+    "stop_name": "Kortemäki"
+  },
+  {
+    "stop_id": "207392",
+    "stop_name": "Kunnantalo 2"
+  },
+  {
+    "stop_id": "207393",
+    "stop_name": "Kuokkala 1"
+  },
+  {
+    "stop_id": "207395",
+    "stop_name": "Kuokkala 2"
+  },
+  {
+    "stop_id": "207396",
+    "stop_name": "Lahokantie 1"
+  },
+  {
+    "stop_id": "207398",
+    "stop_name": "Löylyjoki 1"
+  },
+  {
+    "stop_id": "207399",
+    "stop_name": "Nenäinmutka 1"
+  },
+  {
+    "stop_id": "207400",
+    "stop_name": "Nenäinniemi"
+  },
+  {
+    "stop_id": "207401",
+    "stop_name": "Niinitie 1"
+  },
+  {
+    "stop_id": "207403",
+    "stop_name": "Orakkaantie 1"
+  },
+  {
+    "stop_id": "207404",
+    "stop_name": "Patteritie 1"
+  },
+  {
+    "stop_id": "207405",
+    "stop_name": "Pieles 1"
+  },
+  {
+    "stop_id": "207406",
+    "stop_name": "Pupuhuhdan koulu 1"
+  },
+  {
+    "stop_id": "207407",
+    "stop_name": "Pupuhuhta"
+  },
+  {
+    "stop_id": "207408",
+    "stop_name": "Purokatu 2"
+  },
+  {
+    "stop_id": "207409",
+    "stop_name": "Roninmäki 1"
+  },
+  {
+    "stop_id": "207410",
+    "stop_name": "Ruutisarvi 1"
+  },
+  {
+    "stop_id": "207411",
+    "stop_name": "Salmirannantie 1"
+  },
+  {
+    "stop_id": "207412",
+    "stop_name": "Sammaltie"
+  },
+  {
+    "stop_id": "207413",
+    "stop_name": "Vuorenlahti 1"
+  },
+  {
+    "stop_id": "207414",
+    "stop_name": "Teivaalantie 1"
+  },
+  {
+    "stop_id": "207416",
+    "stop_name": "Tikan koulu 1"
+  },
+  {
+    "stop_id": "207417",
+    "stop_name": "Tikantori 1"
+  },
+  {
+    "stop_id": "207418",
+    "stop_name": "Tähtäin 1"
+  },
+  {
+    "stop_id": "207419",
+    "stop_name": "Ulpukkatie 1"
+  },
+  {
+    "stop_id": "207420",
+    "stop_name": "Vahverontie 1"
+  },
+  {
+    "stop_id": "207421",
+    "stop_name": "Ohjelmakaari"
+  },
+  {
+    "stop_id": "207422",
+    "stop_name": "Yläpaula 1"
+  },
+  {
+    "stop_id": "207424",
+    "stop_name": "Muuratsalo"
+  },
+  {
+    "stop_id": "207425",
+    "stop_name": "Aholaita 2"
+  },
+  {
+    "stop_id": "207426",
+    "stop_name": "Keskusta 1"
+  },
+  {
+    "stop_id": "207427",
+    "stop_name": "Keskusta 2"
+  },
+  {
+    "stop_id": "207428",
+    "stop_name": "Keskusta 3"
+  },
+  {
+    "stop_id": "207429",
+    "stop_name": "Keskusta 4"
+  },
+  {
+    "stop_id": "207430",
+    "stop_name": "Marjapolku 1"
+  },
+  {
+    "stop_id": "207431",
+    "stop_name": "Seppäläntie 2"
+  },
+  {
+    "stop_id": "207432",
+    "stop_name": "Syrjälä 1"
+  },
+  {
+    "stop_id": "207434",
+    "stop_name": "Aholaita 1"
+  },
+  {
+    "stop_id": "207435",
+    "stop_name": "Halssilan koulu 1"
+  },
+  {
+    "stop_id": "207436",
+    "stop_name": "Ilveskuja 1"
+  },
+  {
+    "stop_id": "207437",
+    "stop_name": "Kaakkolampi"
+  },
+  {
+    "stop_id": "207438",
+    "stop_name": "Kansanopisto 1"
+  },
+  {
+    "stop_id": "207439",
+    "stop_name": "Kivistö 1"
+  },
+  {
+    "stop_id": "207442",
+    "stop_name": "Ammattikorkeakoulu 1"
+  },
+  {
+    "stop_id": "207443",
+    "stop_name": "Energia 1"
+  },
+  {
+    "stop_id": "207444",
+    "stop_name": "Harjun oppilaitos 2"
+  },
+  {
+    "stop_id": "207445",
+    "stop_name": "Jäähalli 1"
+  },
+  {
+    "stop_id": "207447",
+    "stop_name": "Kauppatori 8"
+  },
+  {
+    "stop_id": "207449",
+    "stop_name": "Keljonkeskus 1"
+  },
+  {
+    "stop_id": "207450",
+    "stop_name": "Keljonkeskus 2"
+  },
+  {
+    "stop_id": "207451",
+    "stop_name": "Keskussairaala 1"
+  },
+  {
+    "stop_id": "207452",
+    "stop_name": "Keskussairaala 11"
+  },
+  {
+    "stop_id": "207453",
+    "stop_name": "Keskussairaala 2"
+  },
+  {
+    "stop_id": "207454",
+    "stop_name": "Keskusta 5"
+  },
+  {
+    "stop_id": "207455",
+    "stop_name": "Keskusta 6"
+  },
+  {
+    "stop_id": "207456",
+    "stop_name": "Keskusta 7"
+  },
+  {
+    "stop_id": "207457",
+    "stop_name": "Kirjasto 1"
+  },
+  {
+    "stop_id": "207458",
+    "stop_name": "Kirjasto 2"
+  },
+  {
+    "stop_id": "207459",
+    "stop_name": "Kivelänranta 1"
+  },
+  {
+    "stop_id": "207460",
+    "stop_name": "Kunnantalo 1"
+  },
+  {
+    "stop_id": "207461",
+    "stop_name": "Kyllö 1"
+  },
+  {
+    "stop_id": "207462",
+    "stop_name": "Kyllö 2"
+  },
+  {
+    "stop_id": "207463",
+    "stop_name": "Laajis 1"
+  },
+  {
+    "stop_id": "207464",
+    "stop_name": "Pitkäkatu 1"
+  },
+  {
+    "stop_id": "207465",
+    "stop_name": "Pitkäkatu 2"
+  },
+  {
+    "stop_id": "207466",
+    "stop_name": "Prisma 1"
+  },
+  {
+    "stop_id": "207467",
+    "stop_name": "Prisma 2"
+  },
+  {
+    "stop_id": "207468",
+    "stop_name": "Puistokoulu 2"
+  },
+  {
+    "stop_id": "207469",
+    "stop_name": "Rautpohja 1"
+  },
+  {
+    "stop_id": "207470",
+    "stop_name": "Rautpohja 2"
+  },
+  {
+    "stop_id": "207471",
+    "stop_name": "Sepänkatu 2"
+  },
+  {
+    "stop_id": "207472",
+    "stop_name": "Torpankuja 1"
+  },
+  {
+    "stop_id": "207473",
+    "stop_name": "Tourula 1"
+  },
+  {
+    "stop_id": "207474",
+    "stop_name": "Tourula 2"
+  },
+  {
+    "stop_id": "207475",
+    "stop_name": "Tourunsilta 1"
+  },
+  {
+    "stop_id": "207476",
+    "stop_name": "Tourunsilta 2"
+  },
+  {
+    "stop_id": "207477",
+    "stop_name": "Urhonkatu 1"
+  },
+  {
+    "stop_id": "207479",
+    "stop_name": "Valimo 11"
+  },
+  {
+    "stop_id": "207480",
+    "stop_name": "Valimo 2"
+  },
+  {
+    "stop_id": "207481",
+    "stop_name": "Vanha hautausmaa 2"
+  },
+  {
+    "stop_id": "207482",
+    "stop_name": "Yliopisto 1"
+  },
+  {
+    "stop_id": "207483",
+    "stop_name": "Yliopisto 2"
+  },
+  {
+    "stop_id": "207484",
+    "stop_name": "Aittorinne 1"
+  },
+  {
+    "stop_id": "207485",
+    "stop_name": "Ammattikoulu 1"
+  },
+  {
+    "stop_id": "207486",
+    "stop_name": "Ammattikoulu 2"
+  },
+  {
+    "stop_id": "207487",
+    "stop_name": "Auvilankuja 1"
+  },
+  {
+    "stop_id": "207488",
+    "stop_name": "Halisenmutka 1"
+  },
+  {
+    "stop_id": "207489",
+    "stop_name": "Haperontie 1"
+  },
+  {
+    "stop_id": "207490",
+    "stop_name": "Kahakatu 1"
+  },
+  {
+    "stop_id": "207491",
+    "stop_name": "Kangasvuori 1"
+  },
+  {
+    "stop_id": "207492",
+    "stop_name": "Keljonkangas 1"
+  },
+  {
+    "stop_id": "207493",
+    "stop_name": "Keljonkankaan koulu 1"
+  },
+  {
+    "stop_id": "207494",
+    "stop_name": "Keltinmutka 1"
+  },
+  {
+    "stop_id": "207495",
+    "stop_name": "Keltinmäen koulu 1"
+  },
+  {
+    "stop_id": "207496",
+    "stop_name": "Korpela 1"
+  },
+  {
+    "stop_id": "207497",
+    "stop_name": "Kortesuo 2"
+  },
+  {
+    "stop_id": "207498",
+    "stop_name": "Kultalakintie 1"
+  },
+  {
+    "stop_id": "207499",
+    "stop_name": "Kuokkalan Kartano 1"
+  },
+  {
+    "stop_id": "207500",
+    "stop_name": "Kypärämäen koulu 1"
+  },
+  {
+    "stop_id": "207501",
+    "stop_name": "Köhniönjärvi 1"
+  },
+  {
+    "stop_id": "207502",
+    "stop_name": "Lahjaharjuntie 1"
+  },
+  {
+    "stop_id": "207503",
+    "stop_name": "Lohikoski 1"
+  },
+  {
+    "stop_id": "207504",
+    "stop_name": "Messukeskus 1"
+  },
+  {
+    "stop_id": "207505",
+    "stop_name": "Messukeskus 2"
+  },
+  {
+    "stop_id": "207506",
+    "stop_name": "Myllypolku 1"
+  },
+  {
+    "stop_id": "207507",
+    "stop_name": "Nevakatu 1"
+  },
+  {
+    "stop_id": "207508",
+    "stop_name": "Nuottakatu 1"
+  },
+  {
+    "stop_id": "207509",
+    "stop_name": "Oppilaitokset 2"
+  },
+  {
+    "stop_id": "207510",
+    "stop_name": "Pohjanlahti 1"
+  },
+  {
+    "stop_id": "207511",
+    "stop_name": "Pohjanlampi 1"
+  },
+  {
+    "stop_id": "207512",
+    "stop_name": "Pohjanlampi 2"
+  },
+  {
+    "stop_id": "207513",
+    "stop_name": "Pohjanpelto 1"
+  },
+  {
+    "stop_id": "207514",
+    "stop_name": "Pohjanpelto 2"
+  },
+  {
+    "stop_id": "207515",
+    "stop_name": "Puistokoulu 1"
+  },
+  {
+    "stop_id": "207516",
+    "stop_name": "Rajalammentie 1"
+  },
+  {
+    "stop_id": "207517",
+    "stop_name": "Rihlaperä 1"
+  },
+  {
+    "stop_id": "207518",
+    "stop_name": "Ristonmaa 1"
+  },
+  {
+    "stop_id": "207519",
+    "stop_name": "Salokatu 1"
+  },
+  {
+    "stop_id": "207520",
+    "stop_name": "Sorvi 1"
+  },
+  {
+    "stop_id": "207521",
+    "stop_name": "Ss-Säynätsalo 1"
+  },
+  {
+    "stop_id": "207522",
+    "stop_name": "Ss-Säynätsalo 2"
+  },
+  {
+    "stop_id": "207523",
+    "stop_name": "Taitoniekantie"
+  },
+  {
+    "stop_id": "207524",
+    "stop_name": "Taulumäki 1"
+  },
+  {
+    "stop_id": "207525",
+    "stop_name": "Tietoniekantie 1"
+  },
+  {
+    "stop_id": "207526",
+    "stop_name": "Tikantori 2"
+  },
+  {
+    "stop_id": "207527",
+    "stop_name": "Vellamonkatu 1"
+  },
+  {
+    "stop_id": "207528",
+    "stop_name": "Verkkokatu 1"
+  },
+  {
+    "stop_id": "207529",
+    "stop_name": "Viitaniemi 1"
+  },
+  {
+    "stop_id": "207530",
+    "stop_name": "Voionmaan koulu 2"
+  },
+  {
+    "stop_id": "207532",
+    "stop_name": "Ylioppilaskylä 1"
+  },
+  {
+    "stop_id": "207534",
+    "stop_name": "Aittorinne 2"
+  },
+  {
+    "stop_id": "207535",
+    "stop_name": "Alasinkatu 1"
+  },
+  {
+    "stop_id": "207536",
+    "stop_name": "Alasinkatu 2"
+  },
+  {
+    "stop_id": "207537",
+    "stop_name": "Auvilankuja 2"
+  },
+  {
+    "stop_id": "207538",
+    "stop_name": "Cygnaeuksen koulu 1"
+  },
+  {
+    "stop_id": "207539",
+    "stop_name": "Vehkakatu 2"
+  },
+  {
+    "stop_id": "207540",
+    "stop_name": "Energia 22"
+  },
+  {
+    "stop_id": "207541",
+    "stop_name": "Halisenmutka 2"
+  },
+  {
+    "stop_id": "207542",
+    "stop_name": "Halssilan koulu 2"
+  },
+  {
+    "stop_id": "207543",
+    "stop_name": "Halssilanrinne 2"
+  },
+  {
+    "stop_id": "207544",
+    "stop_name": "Hankurainen 1"
+  },
+  {
+    "stop_id": "207545",
+    "stop_name": "Hankurainen 2"
+  },
+  {
+    "stop_id": "207546",
+    "stop_name": "Haperontie 2"
+  },
+  {
+    "stop_id": "207547",
+    "stop_name": "Hauhontie 2"
+  },
+  {
+    "stop_id": "207550",
+    "stop_name": "Heikinkatu 1"
+  },
+  {
+    "stop_id": "207551",
+    "stop_name": "Heikinkatu 2"
+  },
+  {
+    "stop_id": "207552",
+    "stop_name": "Hirvirinne 2"
+  },
+  {
+    "stop_id": "207554",
+    "stop_name": "Huhtalammentie 2"
+  },
+  {
+    "stop_id": "207555",
+    "stop_name": "Huhtasuo 2"
+  },
+  {
+    "stop_id": "207556",
+    "stop_name": "Huhtasuon koulu 1"
+  },
+  {
+    "stop_id": "207557",
+    "stop_name": "Huhtasuon koulu 2"
+  },
+  {
+    "stop_id": "207560",
+    "stop_name": "Hämeenlahdentie 22"
+  },
+  {
+    "stop_id": "207562",
+    "stop_name": "Jenkkakuja 1"
+  },
+  {
+    "stop_id": "207563",
+    "stop_name": "Kaakonsiipi 1"
+  },
+  {
+    "stop_id": "207564",
+    "stop_name": "Kaakonsiipi 2"
+  },
+  {
+    "stop_id": "207565",
+    "stop_name": "Kahakatu 2"
+  },
+  {
+    "stop_id": "207566",
+    "stop_name": "Kaislikkotie 2"
+  },
+  {
+    "stop_id": "207567",
+    "stop_name": "Kaivokatu 1"
+  },
+  {
+    "stop_id": "207568",
+    "stop_name": "Kammi"
+  },
+  {
+    "stop_id": "207569",
+    "stop_name": "Kangasvuori 2"
+  },
+  {
+    "stop_id": "207570",
+    "stop_name": "Kankitie 1"
+  },
+  {
+    "stop_id": "207571",
+    "stop_name": "Kankitie 2"
+  },
+  {
+    "stop_id": "207574",
+    "stop_name": "Kansanopisto 2"
+  },
+  {
+    "stop_id": "207575",
+    "stop_name": "Karhunrinne 2"
+  },
+  {
+    "stop_id": "207576",
+    "stop_name": "Kauhatie 1"
+  },
+  {
+    "stop_id": "207577",
+    "stop_name": "Kauhatie 2"
+  },
+  {
+    "stop_id": "207579",
+    "stop_name": "Kauppatori 11"
+  },
+  {
+    "stop_id": "207582",
+    "stop_name": "Keljonkangas 22"
+  },
+  {
+    "stop_id": "207583",
+    "stop_name": "Keljonkatu 1"
+  },
+  {
+    "stop_id": "207584",
+    "stop_name": "Keljonkatu 2"
+  },
+  {
+    "stop_id": "207585",
+    "stop_name": "Keltinmutka 2"
+  },
+  {
+    "stop_id": "207586",
+    "stop_name": "Keltinmäen koulu 2"
+  },
+  {
+    "stop_id": "207587",
+    "stop_name": "Keltinsilta 2"
+  },
+  {
+    "stop_id": "207588",
+    "stop_name": "Kemian laitos 2"
+  },
+  {
+    "stop_id": "207589",
+    "stop_name": "Keski-Suomen talo"
+  },
+  {
+    "stop_id": "207590",
+    "stop_name": "Killeri 1"
+  },
+  {
+    "stop_id": "207591",
+    "stop_name": "Killeri 2"
+  },
+  {
+    "stop_id": "207592",
+    "stop_name": "Killeri 22"
+  },
+  {
+    "stop_id": "207594",
+    "stop_name": "Kirjasto 3"
+  },
+  {
+    "stop_id": "207595",
+    "stop_name": "Kirjasto 5"
+  },
+  {
+    "stop_id": "207596",
+    "stop_name": "Kirjasto 6"
+  },
+  {
+    "stop_id": "207597",
+    "stop_name": "Kissankello 2"
+  },
+  {
+    "stop_id": "207598",
+    "stop_name": "Kisällintie 1"
+  },
+  {
+    "stop_id": "207599",
+    "stop_name": "Kisällintie 2"
+  },
+  {
+    "stop_id": "207600",
+    "stop_name": "Kivelänranta 2"
+  },
+  {
+    "stop_id": "207603",
+    "stop_name": "Kivistö 2"
+  },
+  {
+    "stop_id": "207605",
+    "stop_name": "Koivuranta 2"
+  },
+  {
+    "stop_id": "207606",
+    "stop_name": "Kokkakuja 2"
+  },
+  {
+    "stop_id": "207607",
+    "stop_name": "Kontiontie 2"
+  },
+  {
+    "stop_id": "207608",
+    "stop_name": "Korpela 2"
+  },
+  {
+    "stop_id": "207609",
+    "stop_name": "Kotapuro 1"
+  },
+  {
+    "stop_id": "207610",
+    "stop_name": "Kotapuro 2"
+  },
+  {
+    "stop_id": "207611",
+    "stop_name": "Kultalakintie 2"
+  },
+  {
+    "stop_id": "207612",
+    "stop_name": "Kunnantalo 11"
+  },
+  {
+    "stop_id": "207613",
+    "stop_name": "Kuokkalan Kartano 2"
+  },
+  {
+    "stop_id": "207617",
+    "stop_name": "Kylmänoro 1"
+  },
+  {
+    "stop_id": "207619",
+    "stop_name": "Kypärämäen koulu 2"
+  },
+  {
+    "stop_id": "207622",
+    "stop_name": "Könkkölä 2"
+  },
+  {
+    "stop_id": "207623",
+    "stop_name": "Laajis 2"
+  },
+  {
+    "stop_id": "207624",
+    "stop_name": "Laajavuori 1"
+  },
+  {
+    "stop_id": "207625",
+    "stop_name": "Laajavuori 2"
+  },
+  {
+    "stop_id": "207626",
+    "stop_name": "Ukonniementie E"
+  },
+  {
+    "stop_id": "207627",
+    "stop_name": "Lahjaharju 2"
+  },
+  {
+    "stop_id": "207628",
+    "stop_name": "Lahjaharjuntie 2"
+  },
+  {
+    "stop_id": "207629",
+    "stop_name": "Lahjaharjuntie 22"
+  },
+  {
+    "stop_id": "207630",
+    "stop_name": "Lahti 2"
+  },
+  {
+    "stop_id": "207631",
+    "stop_name": "Lahti 22"
+  },
+  {
+    "stop_id": "207633",
+    "stop_name": "Lapiotie 1"
+  },
+  {
+    "stop_id": "207634",
+    "stop_name": "Lapiotie 2"
+  },
+  {
+    "stop_id": "207635",
+    "stop_name": "Lehdokintie 2"
+  },
+  {
+    "stop_id": "207636",
+    "stop_name": "LohikoskiI 2"
+  },
+  {
+    "stop_id": "207637",
+    "stop_name": "Lounaispuisto 2"
+  },
+  {
+    "stop_id": "207638",
+    "stop_name": "Löylyjoki 2"
+  },
+  {
+    "stop_id": "207639",
+    "stop_name": "Maakuntakeskus"
+  },
+  {
+    "stop_id": "207642",
+    "stop_name": "Marjapolku 2"
+  },
+  {
+    "stop_id": "207643",
+    "stop_name": "Masonmutka 2"
+  },
+  {
+    "stop_id": "207644",
+    "stop_name": "Mattilanniemi"
+  },
+  {
+    "stop_id": "207645",
+    "stop_name": "Murskaamontie 1"
+  },
+  {
+    "stop_id": "207646",
+    "stop_name": "Murskaamontie 2"
+  },
+  {
+    "stop_id": "207647",
+    "stop_name": "Museo 2"
+  },
+  {
+    "stop_id": "207648",
+    "stop_name": "Muuramentie 1"
+  },
+  {
+    "stop_id": "207649",
+    "stop_name": "Muuramentie 2"
+  },
+  {
+    "stop_id": "207650",
+    "stop_name": "Myllypolku 2"
+  },
+  {
+    "stop_id": "207652",
+    "stop_name": "Myllysuo 2"
+  },
+  {
+    "stop_id": "207653",
+    "stop_name": "Nenäinmutka 2"
+  },
+  {
+    "stop_id": "207654",
+    "stop_name": "Nevakatu 2"
+  },
+  {
+    "stop_id": "207656",
+    "stop_name": "Niskakuja 1"
+  },
+  {
+    "stop_id": "207657",
+    "stop_name": "Niskakuja 2"
+  },
+  {
+    "stop_id": "207658",
+    "stop_name": "Nuottakatu 2"
+  },
+  {
+    "stop_id": "207659",
+    "stop_name": "Ohjelmakaari 2"
+  },
+  {
+    "stop_id": "207660",
+    "stop_name": "Orakkaantie 2"
+  },
+  {
+    "stop_id": "207661",
+    "stop_name": "Pajatie 1"
+  },
+  {
+    "stop_id": "207662",
+    "stop_name": "Pajatie 2"
+  },
+  {
+    "stop_id": "207663",
+    "stop_name": "Palokunnankatu 2"
+  },
+  {
+    "stop_id": "207664",
+    "stop_name": "Palokunta 2"
+  },
+  {
+    "stop_id": "207665",
+    "stop_name": "Paloniemi 2"
+  },
+  {
+    "stop_id": "207666",
+    "stop_name": "Patteritie 2"
+  },
+  {
+    "stop_id": "207667",
+    "stop_name": "Petäjävedentie 2"
+  },
+  {
+    "stop_id": "207668",
+    "stop_name": "Pieles 2"
+  },
+  {
+    "stop_id": "207669",
+    "stop_name": "Pirttimäki 1"
+  },
+  {
+    "stop_id": "207670",
+    "stop_name": "Pirttimäki 2"
+  },
+  {
+    "stop_id": "207671",
+    "stop_name": "Pohjanlahti 2"
+  },
+  {
+    "stop_id": "207672",
+    "stop_name": "Pohjanlahti 22"
+  },
+  {
+    "stop_id": "207673",
+    "stop_name": "Poratie 1"
+  },
+  {
+    "stop_id": "207674",
+    "stop_name": "Poratie 2"
+  },
+  {
+    "stop_id": "207675",
+    "stop_name": "Pupuhuhdan koulu 2"
+  },
+  {
+    "stop_id": "207676",
+    "stop_name": "Purokatu 1"
+  },
+  {
+    "stop_id": "207679",
+    "stop_name": "Raivio 1"
+  },
+  {
+    "stop_id": "207680",
+    "stop_name": "Raivio 2"
+  },
+  {
+    "stop_id": "207684",
+    "stop_name": "Rihlaperä 2"
+  },
+  {
+    "stop_id": "207685",
+    "stop_name": "Ristonmaa 2"
+  },
+  {
+    "stop_id": "207686",
+    "stop_name": "Roninmäki 2"
+  },
+  {
+    "stop_id": "207687",
+    "stop_name": "Ruutisarvi 2"
+  },
+  {
+    "stop_id": "207688",
+    "stop_name": "Sairaala 2"
+  },
+  {
+    "stop_id": "207689",
+    "stop_name": "Salmirannantie 2"
+  },
+  {
+    "stop_id": "207690",
+    "stop_name": "Satama 1"
+  },
+  {
+    "stop_id": "207691",
+    "stop_name": "Satama 2"
+  },
+  {
+    "stop_id": "207692",
+    "stop_name": "Savela 2"
+  },
+  {
+    "stop_id": "207693",
+    "stop_name": "Schaumanin linna 1"
+  },
+  {
+    "stop_id": "207694",
+    "stop_name": "Schaumanin linna 2"
+  },
+  {
+    "stop_id": "207695",
+    "stop_name": "Seitikintie 2"
+  },
+  {
+    "stop_id": "207696",
+    "stop_name": "Seitikintie 3"
+  },
+  {
+    "stop_id": "207697",
+    "stop_name": "Seppäläntien jatke 1"
+  },
+  {
+    "stop_id": "207698",
+    "stop_name": "Seppäläntien jatke 2"
+  },
+  {
+    "stop_id": "207699",
+    "stop_name": "Sorastajantie 11"
+  },
+  {
+    "stop_id": "207700",
+    "stop_name": "Sorastajantie 22"
+  },
+  {
+    "stop_id": "207701",
+    "stop_name": "Ss-Hannala 2"
+  },
+  {
+    "stop_id": "207702",
+    "stop_name": "Ss-Kangastie 2"
+  },
+  {
+    "stop_id": "207703",
+    "stop_name": "Kokko 1"
+  },
+  {
+    "stop_id": "207704",
+    "stop_name": "Kokko 2"
+  },
+  {
+    "stop_id": "207705",
+    "stop_name": "Ss-Kunnantalo 2"
+  },
+  {
+    "stop_id": "207706",
+    "stop_name": "Ss-Peekorpi 1"
+  },
+  {
+    "stop_id": "207707",
+    "stop_name": "Ss-Peekorpi 2"
+  },
+  {
+    "stop_id": "207708",
+    "stop_name": "Vuorenlahti 2"
+  },
+  {
+    "stop_id": "207709",
+    "stop_name": "Ss-Riihelä 2"
+  },
+  {
+    "stop_id": "207713",
+    "stop_name": "Uimala 1"
+  },
+  {
+    "stop_id": "207714",
+    "stop_name": "Uimala 2"
+  },
+  {
+    "stop_id": "207715",
+    "stop_name": "Uohua 1"
+  },
+  {
+    "stop_id": "207716",
+    "stop_name": "Uohua 2"
+  },
+  {
+    "stop_id": "207717",
+    "stop_name": "Suksipajantie 1"
+  },
+  {
+    "stop_id": "207718",
+    "stop_name": "Suksipajantie 2"
+  },
+  {
+    "stop_id": "207719",
+    "stop_name": "Sulkuranta 2"
+  },
+  {
+    "stop_id": "207720",
+    "stop_name": "Syrjälä 2"
+  },
+  {
+    "stop_id": "207721",
+    "stop_name": "Sääksmäentie 2"
+  },
+  {
+    "stop_id": "207722",
+    "stop_name": "Tarhamäki 2"
+  },
+  {
+    "stop_id": "207723",
+    "stop_name": "Taulumäki 2"
+  },
+  {
+    "stop_id": "207724",
+    "stop_name": "Teivaalantie 2"
+  },
+  {
+    "stop_id": "207725",
+    "stop_name": "Tienristi 1"
+  },
+  {
+    "stop_id": "207726",
+    "stop_name": "Tietoniekantie 2"
+  },
+  {
+    "stop_id": "207728",
+    "stop_name": "Tikan koulu 2"
+  },
+  {
+    "stop_id": "207730",
+    "stop_name": "Tikanranta 2"
+  },
+  {
+    "stop_id": "207731",
+    "stop_name": "Tikantori 11"
+  },
+  {
+    "stop_id": "207732",
+    "stop_name": "Tikka 1"
+  },
+  {
+    "stop_id": "207733",
+    "stop_name": "Tikka 2"
+  },
+  {
+    "stop_id": "207734",
+    "stop_name": "Torpankuja 2"
+  },
+  {
+    "stop_id": "207735",
+    "stop_name": "Tourutorni 1"
+  },
+  {
+    "stop_id": "207736",
+    "stop_name": "Tuulimyllyntie 2"
+  },
+  {
+    "stop_id": "207737",
+    "stop_name": "Tyyppälänlahti 1"
+  },
+  {
+    "stop_id": "207738",
+    "stop_name": "Tyyppälänlahti 2"
+  },
+  {
+    "stop_id": "207739",
+    "stop_name": "Tähtäin 2"
+  },
+  {
+    "stop_id": "207740",
+    "stop_name": "Ulpukkatie 2"
+  },
+  {
+    "stop_id": "207741",
+    "stop_name": "Usvattarentie 1"
+  },
+  {
+    "stop_id": "207742",
+    "stop_name": "Usvattarentie 2"
+  },
+  {
+    "stop_id": "207743",
+    "stop_name": "Vahverontie 2"
+  },
+  {
+    "stop_id": "207744",
+    "stop_name": "Valkovuokontie 2"
+  },
+  {
+    "stop_id": "207745",
+    "stop_name": "Vekarokatu 2"
+  },
+  {
+    "stop_id": "207746",
+    "stop_name": "Vellamonkatu 2"
+  },
+  {
+    "stop_id": "207747",
+    "stop_name": "Verkkokatu 2"
+  },
+  {
+    "stop_id": "207748",
+    "stop_name": "Vesangantie 2"
+  },
+  {
+    "stop_id": "207750",
+    "stop_name": "Vesojantie 2"
+  },
+  {
+    "stop_id": "207751",
+    "stop_name": "Viherlandia 1"
+  },
+  {
+    "stop_id": "207752",
+    "stop_name": "Viitaniemi 2"
+  },
+  {
+    "stop_id": "207753",
+    "stop_name": "Voionmaan koulu 1"
+  },
+  {
+    "stop_id": "207757",
+    "stop_name": "Ylämyllyntie 2"
+  },
+  {
+    "stop_id": "207758",
+    "stop_name": "Yläpaula 2"
+  },
+  {
+    "stop_id": "207759",
+    "stop_name": "Älylä"
+  },
+  {
+    "stop_id": "207762",
+    "stop_name": "Alhontie 2"
+  },
+  {
+    "stop_id": "207765",
+    "stop_name": "Ammattikorkeakoulu 2"
+  },
+  {
+    "stop_id": "207767",
+    "stop_name": "Asmalampi 1"
+  },
+  {
+    "stop_id": "207768",
+    "stop_name": "Asmalampi 2"
+  },
+  {
+    "stop_id": "207771",
+    "stop_name": "Haapaniemi 1"
+  },
+  {
+    "stop_id": "207772",
+    "stop_name": "Haapaniemi 2"
+  },
+  {
+    "stop_id": "207773",
+    "stop_name": "Haapaniemi päätepysäkki"
+  },
+  {
+    "stop_id": "207774",
+    "stop_name": "Harjun oppilaitos 1"
+  },
+  {
+    "stop_id": "207775",
+    "stop_name": "Haukkamäentie 1"
+  },
+  {
+    "stop_id": "207776",
+    "stop_name": "Haukkamäentie 2"
+  },
+  {
+    "stop_id": "207779",
+    "stop_name": "Kaunisharjuntie 1"
+  },
+  {
+    "stop_id": "207780",
+    "stop_name": "Kaunisharjuntie 2"
+  },
+  {
+    "stop_id": "207781",
+    "stop_name": "Kevättärentie 1"
+  },
+  {
+    "stop_id": "207782",
+    "stop_name": "Kevättärentie 2"
+  },
+  {
+    "stop_id": "207783",
+    "stop_name": "Kirkkokatu 1"
+  },
+  {
+    "stop_id": "207784",
+    "stop_name": "Kirkkokatu 2"
+  },
+  {
+    "stop_id": "207785",
+    "stop_name": "Kirrinkydöntie"
+  },
+  {
+    "stop_id": "207786",
+    "stop_name": "Korpikallentie th 1"
+  },
+  {
+    "stop_id": "207787",
+    "stop_name": "Korpikallentie th 2"
+  },
+  {
+    "stop_id": "207788",
+    "stop_name": "Kotamäentie kp"
+  },
+  {
+    "stop_id": "207789",
+    "stop_name": "Kotimäki 1"
+  },
+  {
+    "stop_id": "207790",
+    "stop_name": "Kotimäki 2"
+  },
+  {
+    "stop_id": "207791",
+    "stop_name": "Kovasentie 1"
+  },
+  {
+    "stop_id": "207792",
+    "stop_name": "Kovasentie 2"
+  },
+  {
+    "stop_id": "207793",
+    "stop_name": "Kylväjäntie 1"
+  },
+  {
+    "stop_id": "207794",
+    "stop_name": "Kylväjäntie 2"
+  },
+  {
+    "stop_id": "207795",
+    "stop_name": "Lahokantie 2"
+  },
+  {
+    "stop_id": "207797",
+    "stop_name": "Palokärjentie 1"
+  },
+  {
+    "stop_id": "207798",
+    "stop_name": "Palokärjentie 2"
+  },
+  {
+    "stop_id": "207799",
+    "stop_name": "Puuralantie 1"
+  },
+  {
+    "stop_id": "207800",
+    "stop_name": "Puuralantie 2"
+  },
+  {
+    "stop_id": "207801",
+    "stop_name": "Rajalammentie 2"
+  },
+  {
+    "stop_id": "207803",
+    "stop_name": "Sulunperäntie 1"
+  },
+  {
+    "stop_id": "207804",
+    "stop_name": "Sulunperäntie 2"
+  },
+  {
+    "stop_id": "207806",
+    "stop_name": "Tammirinne 1"
+  },
+  {
+    "stop_id": "207807",
+    "stop_name": "Tammirinne 2"
+  },
+  {
+    "stop_id": "207809",
+    "stop_name": "Teollisuustalo 1"
+  },
+  {
+    "stop_id": "207810",
+    "stop_name": "Teollisuustalo 2"
+  },
+  {
+    "stop_id": "207811",
+    "stop_name": "Tervala 22"
+  },
+  {
+    "stop_id": "207812",
+    "stop_name": "Tikanranta 11"
+  },
+  {
+    "stop_id": "207814",
+    "stop_name": "Tähteläntie"
+  },
+  {
+    "stop_id": "207815",
+    "stop_name": "Urheilutie 1"
+  },
+  {
+    "stop_id": "207816",
+    "stop_name": "Urheilutie 2"
+  },
+  {
+    "stop_id": "207818",
+    "stop_name": "Urhonkatu 4"
+  },
+  {
+    "stop_id": "207820",
+    "stop_name": "Vaajakummun koulu 1"
+  },
+  {
+    "stop_id": "207821",
+    "stop_name": "Vaajala 1"
+  },
+  {
+    "stop_id": "207822",
+    "stop_name": "Vaajala 2"
+  },
+  {
+    "stop_id": "207823",
+    "stop_name": "Valmetinkuja 1"
+  },
+  {
+    "stop_id": "207824",
+    "stop_name": "Valmetinkuja 2"
+  },
+  {
+    "stop_id": "207825",
+    "stop_name": "Valmetintie 1"
+  },
+  {
+    "stop_id": "207826",
+    "stop_name": "Valmetintie 2"
+  },
+  {
+    "stop_id": "207827",
+    "stop_name": "Vanha hautausmaa 1"
+  },
+  {
+    "stop_id": "207828",
+    "stop_name": "Väinöläntie 1"
+  },
+  {
+    "stop_id": "207829",
+    "stop_name": "Ylä Kylmänoro 1"
+  },
+  {
+    "stop_id": "207830",
+    "stop_name": "Ylä Kylmänoro 2"
+  },
+  {
+    "stop_id": "207833",
+    "stop_name": "Jyväskylä Matkakeskus 5"
+  },
+  {
+    "stop_id": "207834",
+    "stop_name": "Vaajakummun koulu 2"
+  },
+  {
+    "stop_id": "207953",
+    "stop_name": "Kirkkomäki kk"
+  },
+  {
+    "stop_id": "211763",
+    "stop_name": "Jyväskylä Matkakeskus 3"
+  },
+  {
+    "stop_id": "211764",
+    "stop_name": "Jyväskylä Matkakeskus 1"
+  },
+  {
+    "stop_id": "211765",
+    "stop_name": "Jyväskylä Matkakeskus 2"
+  },
+  {
+    "stop_id": "211766",
+    "stop_name": "Jyväskylä Matkakeskus 4"
+  },
+  {
+    "stop_id": "230735",
+    "stop_name": "Ruuhimäki P"
+  },
+  {
+    "stop_id": "230738",
+    "stop_name": "Hytösenkuja E"
+  },
+  {
+    "stop_id": "230741",
+    "stop_name": "Sulkulantie E"
+  },
+  {
+    "stop_id": "230745",
+    "stop_name": "Laajaranta I"
+  },
+  {
+    "stop_id": "230746",
+    "stop_name": "Kautto E"
+  },
+  {
+    "stop_id": "230747",
+    "stop_name": "Vehkalahti P"
+  },
+  {
+    "stop_id": "230748",
+    "stop_name": "Liimattala P"
+  },
+  {
+    "stop_id": "230749",
+    "stop_name": "Savilantie P"
+  },
+  {
+    "stop_id": "230750",
+    "stop_name": "Päivöläntie L"
+  },
+  {
+    "stop_id": "230751",
+    "stop_name": "Majala"
+  },
+  {
+    "stop_id": "230752",
+    "stop_name": "Lähdeahontie E"
+  },
+  {
+    "stop_id": "231278",
+    "stop_name": "Hirvaskangas E Äänekoski"
+  },
+  {
+    "stop_id": "231417",
+    "stop_name": "Vehniän alikulku E"
+  },
+  {
+    "stop_id": "231418",
+    "stop_name": "Vehniän alikulku P"
+  },
+  {
+    "stop_id": "231419",
+    "stop_name": "Mattila th E"
+  },
+  {
+    "stop_id": "231420",
+    "stop_name": "Mattila th P"
+  },
+  {
+    "stop_id": "231423",
+    "stop_name": "Lekosaari P"
+  },
+  {
+    "stop_id": "231688",
+    "stop_name": "Kotirannantie L"
+  },
+  {
+    "stop_id": "231693",
+    "stop_name": "Manunsaarentie E"
+  },
+  {
+    "stop_id": "231719",
+    "stop_name": "Äijäläntie P"
+  },
+  {
+    "stop_id": "231720",
+    "stop_name": "Suolahti kirkko L"
+  },
+  {
+    "stop_id": "231721",
+    "stop_name": "Hämepohja th L"
+  },
+  {
+    "stop_id": "231722",
+    "stop_name": "Sumiaistentie 184 P"
+  },
+  {
+    "stop_id": "231723",
+    "stop_name": "Sumiaistentie 187 E"
+  },
+  {
+    "stop_id": "231725",
+    "stop_name": "Hallakorpi I"
+  },
+  {
+    "stop_id": "231726",
+    "stop_name": "Hallakorpi L"
+  },
+  {
+    "stop_id": "231727",
+    "stop_name": "Konginkankaantie 74 E"
+  },
+  {
+    "stop_id": "231762",
+    "stop_name": "Hirvasjoki L"
+  },
+  {
+    "stop_id": "231763",
+    "stop_name": "Hirvasjoki I"
+  },
+  {
+    "stop_id": "231941",
+    "stop_name": "Syvälahti th I"
+  },
+  {
+    "stop_id": "300001",
+    "stop_name": "Rauhanyhdistyksen piha"
+  },
+  {
+    "stop_id": "300002",
+    "stop_name": "Kevätlahdentie"
+  },
+  {
+    "stop_id": "300003",
+    "stop_name": "Kumpumäentie th"
+  },
+  {
+    "stop_id": "300004",
+    "stop_name": "Myllysaarentie th"
+  },
+  {
+    "stop_id": "300010",
+    "stop_name": "TEKE 1"
+  },
+  {
+    "stop_id": "300050",
+    "stop_name": "Kangashäkintie th"
+  },
+  {
+    "stop_id": "300052",
+    "stop_name": "Parantalan vanha koulu"
+  },
+  {
+    "stop_id": "300060",
+    "stop_name": "Hietaman koulu"
+  },
+  {
+    "stop_id": "300100",
+    "stop_name": "Koiviston koulu"
+  },
+  {
+    "stop_id": "300452",
+    "stop_name": "Konginkangas"
+  },
+  {
+    "stop_id": "300645",
+    "stop_name": "Hankasalmi kk (MH)  Riukulantie 3"
+  },
+  {
+    "stop_id": "300667",
+    "stop_name": "Niittyaho (Muurame)"
+  },
+  {
+    "stop_id": "300693",
+    "stop_name": "Sumiainen"
+  },
+  {
+    "stop_id": "300866",
+    "stop_name": "Niemisjärvi (Hankasalmi)"
+  },
+  {
+    "stop_id": "301115",
+    "stop_name": "JOKINIEMI (LAUKAA)"
+  },
+  {
+    "stop_id": "301206",
+    "stop_name": "Koivikonkuja"
+  },
+  {
+    "stop_id": "301207",
+    "stop_name": "Laajalahdentie"
+  },
+  {
+    "stop_id": "301208",
+    "stop_name": "Mustikkarinne 1"
+  },
+  {
+    "stop_id": "301210",
+    "stop_name": "Mustikkarinne 2"
+  },
+  {
+    "stop_id": "301211",
+    "stop_name": "Sulkusillanpuro"
+  },
+  {
+    "stop_id": "301212",
+    "stop_name": "Muuttolantie"
+  },
+  {
+    "stop_id": "301213",
+    "stop_name": "Yläniementie"
+  },
+  {
+    "stop_id": "301214",
+    "stop_name": "Keihästie"
+  },
+  {
+    "stop_id": "301215",
+    "stop_name": "Laukaan Esso"
+  },
+  {
+    "stop_id": "302783",
+    "stop_name": "Alkula E"
+  },
+  {
+    "stop_id": "302787",
+    "stop_name": "Oikokuja L"
+  },
+  {
+    "stop_id": "302790",
+    "stop_name": "Asemakatu P"
+  },
+  {
+    "stop_id": "302793",
+    "stop_name": "Kukkula L"
+  },
+  {
+    "stop_id": "302795",
+    "stop_name": "Telakkakadun koulu"
+  },
+  {
+    "stop_id": "302799",
+    "stop_name": "Sumiaistentie 2"
+  },
+  {
+    "stop_id": "302800",
+    "stop_name": "Niemelänkatu L"
+  },
+  {
+    "stop_id": "302802",
+    "stop_name": "Asemakatu E"
+  },
+  {
+    "stop_id": "302804",
+    "stop_name": "Kukkula I"
+  },
+  {
+    "stop_id": "302806",
+    "stop_name": "Mutapohja"
+  },
+  {
+    "stop_id": "302807",
+    "stop_name": "Mutapohja L"
+  },
+  {
+    "stop_id": "302851",
+    "stop_name": "Kauppis E"
+  },
+  {
+    "stop_id": "302853",
+    "stop_name": "Koskela"
+  },
+  {
+    "stop_id": "302854",
+    "stop_name": "Pukkimäki L"
+  },
+  {
+    "stop_id": "302855",
+    "stop_name": "Laajalahti L"
+  },
+  {
+    "stop_id": "302856",
+    "stop_name": "Laajalahti I"
+  },
+  {
+    "stop_id": "302857",
+    "stop_name": "Pukkimäki I"
+  },
+  {
+    "stop_id": "302946",
+    "stop_name": "Mammensalmi kp"
+  },
+  {
+    "stop_id": "302948",
+    "stop_name": "Karhunlahde"
+  },
+  {
+    "stop_id": "302951",
+    "stop_name": "Liikuntatalo"
+  },
+  {
+    "stop_id": "302952",
+    "stop_name": "Äänekoski (Nelostielle)"
+  },
+  {
+    "stop_id": "302954",
+    "stop_name": "Terveysasema"
+  },
+  {
+    "stop_id": "303640",
+    "stop_name": "Noukanniementie 2"
+  },
+  {
+    "stop_id": "303641",
+    "stop_name": "Tammitie 1"
+  },
+  {
+    "stop_id": "303644",
+    "stop_name": "Härköviidantie 2"
+  },
+  {
+    "stop_id": "303645",
+    "stop_name": "Härköviidantie 1"
+  },
+  {
+    "stop_id": "303646",
+    "stop_name": "Niinitie 2"
+  },
+  {
+    "stop_id": "303664",
+    "stop_name": "Tikkala 1"
+  },
+  {
+    "stop_id": "303676",
+    "stop_name": "Luola"
+  },
+  {
+    "stop_id": "303713",
+    "stop_name": "Noukanniementie 1"
+  },
+  {
+    "stop_id": "303715",
+    "stop_name": "Liikuntakeskus Killeri 1"
+  },
+  {
+    "stop_id": "303716",
+    "stop_name": "Liikuntakeskus Killeri 2"
+  },
+  {
+    "stop_id": "303733",
+    "stop_name": "Isolahti koulu 2"
+  },
+  {
+    "stop_id": "303741",
+    "stop_name": "Tarvaala P"
+  },
+  {
+    "stop_id": "303742",
+    "stop_name": "Lievestuore MH"
+  },
+  {
+    "stop_id": "304199",
+    "stop_name": "Kaijanlampi 2"
+  },
+  {
+    "stop_id": "304227",
+    "stop_name": "Kaijanlampi 1"
+  },
+  {
+    "stop_id": "304228",
+    "stop_name": "Pippurimylly 2"
+  },
+  {
+    "stop_id": "304231",
+    "stop_name": "Sääksvuori 1"
+  },
+  {
+    "stop_id": "304300",
+    "stop_name": "Pippurimylly 1"
+  },
+  {
+    "stop_id": "304302",
+    "stop_name": "Aspitie 1"
+  },
+  {
+    "stop_id": "304303",
+    "stop_name": "Aspitie 2"
+  },
+  {
+    "stop_id": "304304",
+    "stop_name": "Sääksvuori 2"
+  },
+  {
+    "stop_id": "304552",
+    "stop_name": "Ilmoniemi th"
+  },
+  {
+    "stop_id": "304599",
+    "stop_name": "Hiidenjärventie KP"
+  },
+  {
+    "stop_id": "304647",
+    "stop_name": "Alkio-opisto"
+  },
+  {
+    "stop_id": "304844",
+    "stop_name": "Nisulankatu 2"
+  },
+  {
+    "stop_id": "306701",
+    "stop_name": "Syystie P"
+  },
+  {
+    "stop_id": "306800",
+    "stop_name": "Elokuja E"
+  },
+  {
+    "stop_id": "306801",
+    "stop_name": "Elokuja P"
+  },
+  {
+    "stop_id": "308837",
+    "stop_name": "Lampitie th 1"
+  },
+  {
+    "stop_id": "308838",
+    "stop_name": "Lampitie th 2"
+  },
+  {
+    "stop_id": "308839",
+    "stop_name": "Hämeenlahdentie th 1"
+  },
+  {
+    "stop_id": "308840",
+    "stop_name": "Palanderinkatu 1"
+  },
+  {
+    "stop_id": "308841",
+    "stop_name": "Palanderinkatu 2"
+  },
+  {
+    "stop_id": "308842",
+    "stop_name": "Rasinrinne 2"
+  },
+  {
+    "stop_id": "308843",
+    "stop_name": "Rasinrinne 1"
+  },
+  {
+    "stop_id": "309454",
+    "stop_name": "Kanavuoren koulu"
+  },
+  {
+    "stop_id": "309589",
+    "stop_name": "Hirvaskangas ABC"
+  },
+  {
+    "stop_id": "309862",
+    "stop_name": "Kankainen L"
+  },
+  {
+    "stop_id": "309866",
+    "stop_name": "Kankainen I"
+  },
+  {
+    "stop_id": "310607",
+    "stop_name": "Sireenitie 1"
+  },
+  {
+    "stop_id": "310625",
+    "stop_name": "Mustalampi"
+  },
+  {
+    "stop_id": "310629",
+    "stop_name": "Vuorenlahti I"
+  },
+  {
+    "stop_id": "310637",
+    "stop_name": "Sireenitie 2"
+  },
+  {
+    "stop_id": "310819",
+    "stop_name": "Kerkkäkatu 2"
+  },
+  {
+    "stop_id": "311407",
+    "stop_name": "Konginkankaan koulu"
+  },
+  {
+    "stop_id": "315602",
+    "stop_name": "Kirrinkuja 1"
+  },
+  {
+    "stop_id": "315700",
+    "stop_name": "Koppalantie 1"
+  },
+  {
+    "stop_id": "318200",
+    "stop_name": "Kirrinpolku 1"
+  },
+  {
+    "stop_id": "319402",
+    "stop_name": "Huutomäki L"
+  },
+  {
+    "stop_id": "319403",
+    "stop_name": "Huutomäki I"
+  },
+  {
+    "stop_id": "319407",
+    "stop_name": "Huutomäen ramppi E"
+  },
+  {
+    "stop_id": "322517",
+    "stop_name": "Ronttospohja P"
+  },
+  {
+    "stop_id": "325323",
+    "stop_name": "Mutilankuja I"
+  },
+  {
+    "stop_id": "325337",
+    "stop_name": "Kala-Matti E"
+  },
+  {
+    "stop_id": "325338",
+    "stop_name": "Kala-Matti P"
+  },
+  {
+    "stop_id": "325339",
+    "stop_name": "Huutomäki E"
+  },
+  {
+    "stop_id": "325340",
+    "stop_name": "Huutomäki P"
+  },
+  {
+    "stop_id": "325341",
+    "stop_name": "Hujakko E"
+  },
+  {
+    "stop_id": "325342",
+    "stop_name": "Hujakko P"
+  },
+  {
+    "stop_id": "327014",
+    "stop_name": "Petäjävesi keskusta E"
+  },
+  {
+    "stop_id": "329381",
+    "stop_name": "Ilmoniemen kääntöpaikka"
+  },
+  {
+    "stop_id": "330217",
+    "stop_name": "Ruohorannantie 2"
+  },
+  {
+    "stop_id": "335617",
+    "stop_name": "Vesangan koulu"
+  },
+  {
+    "stop_id": "335817",
+    "stop_name": "Hakakatu 1"
+  },
+  {
+    "stop_id": "336021",
+    "stop_name": "Raiviomäki E"
+  },
+  {
+    "stop_id": "336022",
+    "stop_name": "Niemeläntien th E"
+  },
+  {
+    "stop_id": "336023",
+    "stop_name": "Niemeläntien th P"
+  },
+  {
+    "stop_id": "336024",
+    "stop_name": "Vieryvämäki E"
+  },
+  {
+    "stop_id": "336025",
+    "stop_name": "Vieryvämäki P"
+  },
+  {
+    "stop_id": "336028",
+    "stop_name": "Akanniemen etl ramppi P"
+  },
+  {
+    "stop_id": "336029",
+    "stop_name": "Akanniemen etl ramppi E"
+  },
+  {
+    "stop_id": "342759",
+    "stop_name": "Tikkakoski koulu 2"
+  },
+  {
+    "stop_id": "342917",
+    "stop_name": "Tikkakoski koulu 1"
+  },
+  {
+    "stop_id": "344317",
+    "stop_name": "Humppakuja 2"
+  },
+  {
+    "stop_id": "344318",
+    "stop_name": "Kangas 2"
+  },
+  {
+    "stop_id": "344417",
+    "stop_name": "Muurarintie 2"
+  },
+  {
+    "stop_id": "344418",
+    "stop_name": "Rusokinkatu 2"
+  },
+  {
+    "stop_id": "344419",
+    "stop_name": "Rusokinkatu 1"
+  },
+  {
+    "stop_id": "344420",
+    "stop_name": "Kangas 1"
+  },
+  {
+    "stop_id": "344421",
+    "stop_name": "Paperitehtaankatu 2"
+  },
+  {
+    "stop_id": "344422",
+    "stop_name": "Paperitehtaankatu 1"
+  },
+  {
+    "stop_id": "344423",
+    "stop_name": "Vasarakatu 1"
+  },
+  {
+    "stop_id": "344424",
+    "stop_name": "Vasarakatu 2"
+  },
+  {
+    "stop_id": "344520",
+    "stop_name": "Merasin 2"
+  },
+  {
+    "stop_id": "344521",
+    "stop_name": "Merasin 1"
+  },
+  {
+    "stop_id": "344717",
+    "stop_name": "Vasarakatu 22"
+  },
+  {
+    "stop_id": "344817",
+    "stop_name": "Vasarakatu 11"
+  },
+  {
+    "stop_id": "344917",
+    "stop_name": "Korpilahden keskusta 1"
+  },
+  {
+    "stop_id": "344918",
+    "stop_name": "Korpilahden keskusta 2"
+  },
+  {
+    "stop_id": "347319",
+    "stop_name": "Lounaispuisto 1"
+  },
+  {
+    "stop_id": "348617",
+    "stop_name": "Nova 2"
+  },
+  {
+    "stop_id": "348717",
+    "stop_name": "Nova 1"
+  },
+  {
+    "stop_id": "349218",
+    "stop_name": "Koivula P"
+  },
+  {
+    "stop_id": "349219",
+    "stop_name": "Matinmäentie th P"
+  },
+  {
+    "stop_id": "349220",
+    "stop_name": "Puuppola th E"
+  },
+  {
+    "stop_id": "349221",
+    "stop_name": "Puuppola th P"
+  },
+  {
+    "stop_id": "349222",
+    "stop_name": "Peltola E"
+  },
+  {
+    "stop_id": "349223",
+    "stop_name": "Peltola P"
+  },
+  {
+    "stop_id": "349226",
+    "stop_name": "Päivölä P"
+  },
+  {
+    "stop_id": "349227",
+    "stop_name": "Tikkakoski th E"
+  },
+  {
+    "stop_id": "349231",
+    "stop_name": "Lentoasema th E"
+  },
+  {
+    "stop_id": "349232",
+    "stop_name": "Alapohja E"
+  },
+  {
+    "stop_id": "349233",
+    "stop_name": "Laukaa th nelostie P"
+  },
+  {
+    "stop_id": "349234",
+    "stop_name": "Tikkakoski I"
+  },
+  {
+    "stop_id": "349235",
+    "stop_name": "Tikkakoski L"
+  },
+  {
+    "stop_id": "349238",
+    "stop_name": "Kuorejoki E"
+  },
+  {
+    "stop_id": "349239",
+    "stop_name": "Kuorejoki P"
+  },
+  {
+    "stop_id": "349319",
+    "stop_name": "Päivölä E"
+  },
+  {
+    "stop_id": "349320",
+    "stop_name": "Tervajärventie E"
+  },
+  {
+    "stop_id": "349321",
+    "stop_name": "Tervajärventie P"
+  },
+  {
+    "stop_id": "349322",
+    "stop_name": "Lentoasema th P"
+  },
+  {
+    "stop_id": "349417",
+    "stop_name": "Mustikkamäki E"
+  },
+  {
+    "stop_id": "349418",
+    "stop_name": "Koivurinne E"
+  },
+  {
+    "stop_id": "349517",
+    "stop_name": "Mustikkamäki P"
+  },
+  {
+    "stop_id": "349518",
+    "stop_name": "Koivurinne P"
+  },
+  {
+    "stop_id": "350025",
+    "stop_name": "Tikka L"
+  },
+  {
+    "stop_id": "350026",
+    "stop_name": "Tikka I"
+  },
+  {
+    "stop_id": "350027",
+    "stop_name": "Rässälä I"
+  },
+  {
+    "stop_id": "350028",
+    "stop_name": "Savulahti P"
+  },
+  {
+    "stop_id": "350029",
+    "stop_name": "Savulahti E"
+  },
+  {
+    "stop_id": "350422",
+    "stop_name": "Römmi L"
+  },
+  {
+    "stop_id": "358017",
+    "stop_name": "Leppälahden kääntöpaikka"
+  },
+  {
+    "stop_id": "358419",
+    "stop_name": "Viisarimäentien th I"
+  },
+  {
+    "stop_id": "358420",
+    "stop_name": "Viisarimäentien th L"
+  },
+  {
+    "stop_id": "361919",
+    "stop_name": "Norolantie 1"
+  },
+  {
+    "stop_id": "361920",
+    "stop_name": "Norolantie 2"
+  },
+  {
+    "stop_id": "364925",
+    "stop_name": "Kukkumäki ramppi L"
+  },
+  {
+    "stop_id": "366519",
+    "stop_name": "Lintukangas ramppi P"
+  },
+  {
+    "stop_id": "366520",
+    "stop_name": "Lintukangas ramppi E"
+  },
+  {
+    "stop_id": "366528",
+    "stop_name": "Puuppola ramppi E"
+  },
+  {
+    "stop_id": "366531",
+    "stop_name": "Tikkakosken ramppi P"
+  },
+  {
+    "stop_id": "366532",
+    "stop_name": "Tikkakoski ramppi E"
+  },
+  {
+    "stop_id": "366535",
+    "stop_name": "Lentokenttä ramppi E"
+  },
+  {
+    "stop_id": "366538",
+    "stop_name": "Vehniä ramppi P"
+  },
+  {
+    "stop_id": "366539",
+    "stop_name": "Vehniä ramppi E"
+  },
+  {
+    "stop_id": "366627",
+    "stop_name": "Puuppola ramppi P"
+  },
+  {
+    "stop_id": "366630",
+    "stop_name": "Lentokenttä ramppi P"
+  },
+  {
+    "stop_id": "382420",
+    "stop_name": "Maakuntakeskus 2"
+  },
+  {
+    "stop_id": "388318",
+    "stop_name": "Gradia Lievestuore"
+  },
+  {
+    "stop_id": "393818",
+    "stop_name": "Opistokatu E"
+  },
+  {
+    "stop_id": "393918",
+    "stop_name": "Opistokatu P"
+  },
+  {
+    "stop_id": "394018",
+    "stop_name": "Sumiaistentie I"
+  },
+  {
+    "stop_id": "411220",
+    "stop_name": "Vuorenlahdentie E"
+  },
+  {
+    "stop_id": "411518",
+    "stop_name": "Myllylahti E"
+  },
+  {
+    "stop_id": "411619",
+    "stop_name": "Vuorenlahdentie I"
+  },
+  {
+    "stop_id": "445818",
+    "stop_name": "Keljonkeskus 11"
+  },
+  {
+    "stop_id": "449218",
+    "stop_name": "Appiukontie 2"
+  },
+  {
+    "stop_id": "449219",
+    "stop_name": "Talitiaisentie 1"
+  },
+  {
+    "stop_id": "449318",
+    "stop_name": "Appiukontie 1"
+  },
+  {
+    "stop_id": "449418",
+    "stop_name": "Talitiaisentie 2"
+  },
+  {
+    "stop_id": "449518",
+    "stop_name": "Kauramäki 1"
+  },
+  {
+    "stop_id": "449618",
+    "stop_name": "Viherlandia 2"
+  },
+  {
+    "stop_id": "449619",
+    "stop_name": "Savelankatu 2"
+  },
+  {
+    "stop_id": "449718",
+    "stop_name": "Savelankatu 1"
+  },
+  {
+    "stop_id": "451318",
+    "stop_name": "Purukorventie E"
+  },
+  {
+    "stop_id": "451418",
+    "stop_name": "Purukorventie P"
+  },
+  {
+    "stop_id": "459818",
+    "stop_name": "Myllyntaus P"
+  },
+  {
+    "stop_id": "459918",
+    "stop_name": "Liitoskatu th P"
+  },
+  {
+    "stop_id": "460018",
+    "stop_name": "Liitoskatu th E"
+  },
+  {
+    "stop_id": "460318",
+    "stop_name": "Kauppakeskus Seppä 1"
+  },
+  {
+    "stop_id": "460418",
+    "stop_name": "Kauppakeskus Seppä 2"
+  },
+  {
+    "stop_id": "463318",
+    "stop_name": "Salotaipaleentie 2"
+  },
+  {
+    "stop_id": "463418",
+    "stop_name": "Salotaipaleentie 1"
+  },
+  {
+    "stop_id": "464618",
+    "stop_name": "Tuomaalantie th."
+  },
+  {
+    "stop_id": "464718",
+    "stop_name": "Ahokkaantien th."
+  },
+  {
+    "stop_id": "467918",
+    "stop_name": "Vehkakatu 1"
+  },
+  {
+    "stop_id": "472219",
+    "stop_name": "Äänekoski (Suolahteen)"
+  },
+  {
+    "stop_id": "473018",
+    "stop_name": "KEKO"
+  },
+  {
+    "stop_id": "478818",
+    "stop_name": "Parolantie kääntöpaikka"
+  },
+  {
+    "stop_id": "485223",
+    "stop_name": "Naarakoskentie th E"
+  },
+  {
+    "stop_id": "485520",
+    "stop_name": "Naarakoskentie th P"
+  },
+  {
+    "stop_id": "490018",
+    "stop_name": "Keskusta 8"
+  },
+  {
+    "stop_id": "490118",
+    "stop_name": "Keskusta 9"
+  },
+  {
+    "stop_id": "490619",
+    "stop_name": "Purola L"
+  },
+  {
+    "stop_id": "491018",
+    "stop_name": "Lapinkangas L"
+  },
+  {
+    "stop_id": "500288",
+    "stop_name": "Muurame Shell"
+  },
+  {
+    "stop_id": "959007",
+    "stop_name": "Jynkkälä"
+  },
+  {
+    "stop_id": "991437",
+    "stop_name": "Kartanokievari"
+  },
+  {
+    "stop_id": "991438",
+    "stop_name": "Terveysasema (Lidlin puoleinen)"
+  },
+  {
+    "stop_id": "991439",
+    "stop_name": "Sumiainen Voikukka"
+  },
+  {
+    "stop_id": "992558",
+    "stop_name": "Kalevankatu (Äänekoski)"
+  },
+  {
+    "stop_id": "1234563",
+    "stop_name": "Petäiskorpi"
+  },
+  {
+    "stop_id": "8000001",
+    "stop_name": "Kuhnamonkatu kp"
+  },
+  {
+    "stop_id": "10022010",
+    "stop_name": "Koivistonkylän museotie"
+  },
+  {
+    "stop_id": "10101010",
+    "stop_name": "Laurinkylän koulu"
+  },
+  {
+    "stop_id": "20000000",
+    "stop_name": "Vaajakosken yläkoulu"
+  },
+  {
+    "stop_id": "20000900",
+    "stop_name": "Särkimäentie"
+  },
+  {
+    "stop_id": "20202020",
+    "stop_name": "Rauanlahdentie"
+  }
+]

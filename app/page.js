@@ -1,65 +1,301 @@
-import Image from "next/image";
+'use client';
+
+import { useEffect, useState } from 'react';
+import stops from './data/stops.json';
+import routes from './data/routes.json';
+const sortedStops = stops.slice().sort((a, b) => a.stop_name.localeCompare(b.stop_name));
+const routeMap = {};
+routes.forEach(r => {
+  routeMap[r.route_id] = r;
+});
+
+
 
 export default function Home() {
+  const [stopId, setStopId] = useState('');
+  const [buses, setBuses] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [favourite, setFavourite] = useState('');
+  const [hasFetchedBuses, setHasFetchedBuses] = useState(false);
+
+  const stopIdStoppage = [
+    {
+      "stop_id": "207506",
+      "stop_name": "Myllypolku 1"
+    },
+    {
+      "stop_id": "207650",
+      "stop_name": "Myllypolku 2"
+    },
+    {
+      "stop_id": "490118",
+      "stop_name": "Keskusta 9"
+    },
+    {
+      "stop_id": "207483",
+      "stop_name": "Yliopisto 2"
+    },
+    {
+      "stop_name": "Stoppage List"
+    }
+  ]
+
+  const fetchBuses = async () => {
+    if (!stopId) return alert('Please select a stop');
+    setLoading(true);
+    setHasFetchedBuses(true);
+    try {
+      const vehicleres = await fetch(`/api/waltti/jyvaskyla/vehicleposition`);
+      const vehicledata = await vehicleres.json();
+      const res = await fetch(`/api/waltti/jyvaskyla/tripupdate`);
+      const data = await res.json();
+      const stopIdFilteredBuses = data.entity
+        .filter(e => e.tripUpdate)
+        .map(e => e.tripUpdate)
+        .flatMap(trip => {
+          return trip.stopTimeUpdate
+            .filter(s => s.stopId === stopId)
+            .map(s => ({
+              tripId: trip.trip.tripId,
+              vehicleId: trip.vehicle.id,
+              routeId: trip.trip.routeId,
+              headsign: trip.vehicle.label || 'Unknown',
+              arrival: s.arrival?.time ? new Date(s.arrival.time * 1000) : null,
+              departure: s.departure?.time ? new Date(s.departure.time * 1000) : null
+            }));
+        })
+        .filter(s => s.departure)
+        .sort((a, b) => a.departure - b.departure);
+
+
+      const updatedBuses = stopIdFilteredBuses.map(bus => {
+      const vehicle = vehicledata.entity.find(v => v.id === bus.vehicleId);
+
+        return {
+          ...bus,
+          vehicleLabel: vehicle?.vehicle.vehicle.label || 'Unknown',
+          licensePlate: vehicle?.vehicle.licensePlate || '',
+          latitude: vehicle?.vehicle.position?.latitude || null,
+          longitude: vehicle?.vehicle.position?.longitude || null,
+          bearing: vehicle?.vehicle.position?.bearing || null,
+          speed: vehicle?.vehicle.position?.speed || null,
+          currentStopSequence: vehicle?.vehicle.currentStopSequence || null,
+          currentStatus: vehicle?.vehicle.currentStatus || null
+        };
+      });
+
+      setBuses(updatedBuses);
+    } catch (err) {
+      console.error(err);
+      alert('Failed to fetch buses');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleStoppageClick = (clickedStoppageName) => {
+    if (clickedStoppageName.stop_name === 'Stoppage List') {
+      setFavourite(clickedStoppageName.stop_name)
+      setStopId('')
+      return
+    }
+    setFavourite(clickedStoppageName.stop_name)
+    clickedStoppageName.stop_name !== 'Stoppage List' && setStopId(clickedStoppageName.stop_id)
+  };
+
+  async function getAddressFromLatLng(latitude, longitude) {
+    try {
+      const response = await fetch(
+        `https://nominatim.openstreetmap.org/reverse?format=json&lat=${latitude}&lon=${longitude}`
+      );
+
+      if (!response.ok) {
+        throw new Error(`Failed to fetch: ${response.status}`);
+      }
+
+      const data = await response.json();
+      return data.display_name || 'Address not found';
+    } catch (error) {
+      console.error('Error fetching address:', error);
+      return 'Error fetching address';
+    }
+  }
+
+  useEffect(() => {
+    if (favourite && favourite !== 'Stoppage List') {
+      fetchBuses()
+    }
+  }, [stopId])
+
+  function BusRow({ latitude, longitude }) {
+    const [address, setAddress] = useState('Loading...');
+
+    useEffect(() => {
+      async function fetchAddress() {
+        const addr = await getAddressFromLatLng(latitude, longitude);
+        setAddress(addr.split(',')[0]);
+      }
+      fetchAddress();
+    }, [latitude, longitude]);
+
+    return <>{address}</>
+  }
+
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.js file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <>
+      <div className="min-h-screen flex flex-col bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 p-4 md:p-8">
+        <div className="max-w-6xl mx-auto flex flex-col flex-1 w-full">
+          <div className="text-center mb-6 md:mb-8">
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">Linkki Tracker</h1>
+          </div>
+
+          <div className="flex flex-wrap justify-center gap-2 mb-6 md:mb-8">
+            {stopIdStoppage.map((stoppageName) => (
+              <button
+                key={stoppageName.stop_name}
+                onClick={() => handleStoppageClick(stoppageName)}
+                className={`px-6 py-3 md:px-6 md:py-3 text-xl md:text-xl font-bold rounded-full backdrop-blur-sm border transition-all duration-200
+            ${favourite === stoppageName.stop_name
+                    ? 'bg-white text-blue-900 border-white shadow-[inset_0_1px_0_rgba(255,255,255,0.2)] scale-105'
+                    : 'bg-white/20 text-white border-white/30 hover:bg-white/30 hover:scale-105'
+                  }`}
+              >
+                {stoppageName.stop_name}
+              </button>
+            ))}
+          </div>
+
+          {favourite === 'Stoppage List' && (
+            <div className="w-full max-w-2xl mx-auto mb-6 md:mb-8 px-2">
+              <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-4 md:p-6 border border-white/30 shadow-xl">
+                <div className="mb-4">
+                  <select
+                    value={stopId}
+                    onChange={e => setStopId(e.target.value)}
+                    className="w-full p-3 md:p-4 text-lg md:text-lg font-semibold bg-white text-blue-900 
+                rounded-xl focus:outline-none focus:ring-4 focus:ring-white/50
+                transition-all duration-200 cursor-pointer shadow-lg
+                border-2 border-white/40"
+                  >
+                    <option value="">Select Stop</option>
+                    {sortedStops.map(stop => (
+                      <option key={stop.stop_id} value={stop.stop_id}>
+                        {stop.stop_name}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+
+                <button
+                  onClick={fetchBuses}
+                  className="w-full bg-white text-blue-900 py-3 md:py-4 px-6 rounded-xl 
+              font-bold text-lg md:text-lg
+              hover:scale-105 active:scale-95
+              transition-all duration-200 
+              shadow-lg border-2 border-white/40"
+                >
+                  Show Next Buses
+                </button>
+              </div>
+            </div>
+          )}
+
+          {buses.length > 0 && (
+            <div className="w-full mx-auto mb-6 md:mb-8 px-2">
+              <div className="bg-white/20 backdrop-blur-md rounded-2xl p-4 md:p-6 border-2 border-white/40 shadow-2xl">
+                <h2 className="text-2xl md:text-2xl font-bold text-white mb-4 text-center">Next Buses</h2>
+
+                {/* Mobile Card View */}
+                <div className="md:hidden space-y-4">
+                  {buses.map((bus, idx) => (
+                    <div
+                      key={idx}
+                      className="bg-white/10 backdrop-blur-sm rounded-2xl p-5 border border-white/30"
+                    >
+                      <div className="flex justify-between items-center mb-3">
+                        <span className="text-white/70 text-lg font-bold">Bus</span>
+                        <span className="text-white font-bold text-2xl">
+                          {routeMap[bus.routeId].route_short_name || bus.routeId}
+                        </span>
+                      </div>
+                      <div className="flex justify-between items-start mb-3">
+                        <span className="text-white/70 text-lg font-bold">Destination</span>
+                        <span className="text-white font-semibold text-lg text-right">
+                          {bus.headsign}
+                        </span>
+                      </div>
+                      <div className="flex justify-between items-start mb-3">
+                        <span className="text-white/70 text-lg font-bold">Current Location</span>
+                        <span className="text-white font-semibold text-lg text-right">
+                          <BusRow latitude={bus.latitude} longitude={bus.longitude} />
+                        </span>
+                      </div>
+                      <div className="flex justify-between items-center">
+                        <span className="text-white/70 text-lg font-bold">Departure Time</span>
+                        <span className="text-white font-bold text-xl">
+                          {bus.departure ? bus.departure.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'N/A'}
+                        </span>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                {/* Desktop Table View */}
+                <div className="hidden md:block overflow-x-auto">
+                  <table className="w-full">
+                    <thead>
+                      <tr className="border-b-2 border-white/50">
+                        <th className="px-4 py-3 text-left text-m font-bold text-white">Bus</th>
+                        <th className="px-4 py-3 text-left text-m font-bold text-white">Destination</th>
+                        <th className="px-4 py-3 text-left text-m font-bold text-white">Current Location</th>
+                        <th className="px-4 py-3 text-left text-m font-bold text-white">Departure Time</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {buses.map((bus, idx) => (
+
+                        <tr
+                          key={idx}
+                          className="border-b border-white/30 hover:bg-white/20 transition-all duration-200"
+                        >
+                          <td className="px-4 py-3 text-white font-bold text-sm">
+                            {routeMap[bus.routeId].route_short_name || bus.routeId}
+                          </td>
+                          <td className="px-4 py-3 text-white font-semibold text-sm">
+                            {bus.headsign}
+                          </td>
+                          <td className="px-4 py-3 text-white font-semibold text-sm">
+                            <BusRow latitude={bus.latitude} longitude={bus.longitude} />
+                          </td>
+                          <td className="px-4 py-3 text-white font-bold text-sm">
+                            {bus.departure ? bus.departure.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'N/A'}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {hasFetchedBuses && buses.length === 0 && stopId && (
+            <div className="w-full max-w-4xl mx-auto px-2">
+              <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-6 border-2 border-white/40">
+                <p className="text-center text-white text-xl font-semibold">
+                  No upcoming buses found for this stop.
+                </p>
+              </div>
+            </div>
+          )}
+
+          <div className="text-center mt-auto text-blue-200 text-sm pt-6">
+            <p className="mt-2">Built with React & Next.js by Dhrubajotee Howlader</p>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+      </div>
+
+    </>
   );
 }
