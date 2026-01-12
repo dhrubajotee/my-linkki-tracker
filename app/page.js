@@ -15,8 +15,16 @@ export default function Home() {
   const [stopId, setStopId] = useState('');
   const [buses, setBuses] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [favourite, setFavourite] = useState('');
+  const [favourite, setFavourite] = useState('Stoppage List');
   const [hasFetchedBuses, setHasFetchedBuses] = useState(false);
+
+  const [searchTerm, setSearchTerm] = useState('');
+  const [showDropdown, setShowDropdown] = useState(false);
+
+  // Filter stops based on search term
+  const filteredStops = sortedStops.filter(stop =>
+    stop.stop_name.toLowerCase().includes(searchTerm.toLowerCase())
+  );
 
   const stopIdStoppage = [
     {
@@ -67,9 +75,8 @@ export default function Home() {
         .filter(s => s.departure)
         .sort((a, b) => a.departure - b.departure);
 
-
       const updatedBuses = stopIdFilteredBuses.map(bus => {
-      const vehicle = vehicledata.entity.find(v => v.id === bus.vehicleId);
+        const vehicle = vehicledata.entity.find(v => v.id === bus.vehicleId);
 
         return {
           ...bus,
@@ -83,7 +90,6 @@ export default function Home() {
           currentStatus: vehicle?.vehicle.currentStatus || null
         };
       });
-
       setBuses(updatedBuses);
     } catch (err) {
       console.error(err);
@@ -97,6 +103,7 @@ export default function Home() {
     if (clickedStoppageName.stop_name === 'Stoppage List') {
       setFavourite(clickedStoppageName.stop_name)
       setStopId('')
+      setBuses('')
       return
     }
     setFavourite(clickedStoppageName.stop_name)
@@ -141,6 +148,16 @@ export default function Home() {
     return <>{address}</>
   }
 
+  useEffect(() => {
+    const handleClickOutside = (e) => {
+      if (!e.target.closest('.relative')) {
+        setShowDropdown(false);
+      }
+    };
+    document.addEventListener('click', handleClickOutside);
+    return () => document.removeEventListener('click', handleClickOutside);
+  }, []);
+
 
   return (
     <>
@@ -167,33 +184,88 @@ export default function Home() {
           </div>
 
           {favourite === 'Stoppage List' && (
+            // <div className="w-full max-w-2xl mx-auto mb-6 md:mb-8 px-2">
+            //   <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-4 md:p-6 border border-white/30 shadow-xl">
+            //     <div className="mb-4">
+            //       <select
+            //         value={stopId}
+            //         onChange={e => setStopId(e.target.value)}
+            //         className="w-full p-3 md:p-4 text-lg md:text-lg font-semibold bg-white text-blue-900 
+            //     rounded-xl focus:outline-none focus:ring-4 focus:ring-white/50
+            //     transition-all duration-200 cursor-pointer shadow-lg
+            //     border-2 border-white/40"
+            //       >
+            //         <option value="">Select Stop</option>
+            //         {sortedStops.map(stop => (
+            //           <option key={stop.stop_id} value={stop.stop_id}>
+            //             {stop.stop_name}
+            //           </option>
+            //         ))}
+            //       </select>
+            //     </div>
+
+            //     <button
+            //       onClick={fetchBuses}
+            //       className="w-full bg-white text-blue-900 py-3 md:py-4 px-6 rounded-xl 
+            //   font-bold text-lg md:text-lg
+            //   hover:scale-105 active:scale-95
+            //   transition-all duration-200 
+            //   shadow-lg border-2 border-white/40"
+            //     >
+            //       Show Next Buses
+            //     </button>
+            //   </div>
+            // </div>
             <div className="w-full max-w-2xl mx-auto mb-6 md:mb-8 px-2">
               <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-4 md:p-6 border border-white/30 shadow-xl">
-                <div className="mb-4">
-                  <select
-                    value={stopId}
-                    onChange={e => setStopId(e.target.value)}
+                <div className="mb-4 relative">
+                  <input
+                    type="text"
+                    value={searchTerm}
+                    onChange={e => {
+                      setSearchTerm(e.target.value);
+                      setShowDropdown(true);
+                    }}
+                    onFocus={() => setShowDropdown(true)}
+                    placeholder="Search for a stop..."
                     className="w-full p-3 md:p-4 text-lg md:text-lg font-semibold bg-white text-blue-900 
-                rounded-xl focus:outline-none focus:ring-4 focus:ring-white/50
-                transition-all duration-200 cursor-pointer shadow-lg
-                border-2 border-white/40"
-                  >
-                    <option value="">Select Stop</option>
-                    {sortedStops.map(stop => (
-                      <option key={stop.stop_id} value={stop.stop_id}>
-                        {stop.stop_name}
-                      </option>
-                    ))}
-                  </select>
+          rounded-xl focus:outline-none focus:ring-4 focus:ring-white/50
+          transition-all duration-200 shadow-lg
+          border-2 border-white/40"
+                  />
+
+                  {showDropdown && (
+                    <div className="absolute z-10 w-full mt-2 bg-white rounded-xl shadow-2xl border-2 border-white/40 max-h-60 overflow-y-auto">
+                      {filteredStops.length > 0 ? (
+                        filteredStops.map(stop => (
+                          <div
+                            key={stop.stop_id}
+                            onClick={() => {
+                              setStopId(stop.stop_id);
+                              setSearchTerm(stop.stop_name);
+                              setShowDropdown(false);
+                            }}
+                            className="p-3 md:p-4 text-blue-900 hover:bg-blue-50 cursor-pointer transition-colors duration-150 border-b border-gray-100 last:border-b-0"
+                          >
+                            <div className="font-semibold">{stop.stop_name}</div>
+                          </div>
+                        ))
+                      ) : (
+                        <div className="p-4 text-gray-500 text-center">No stops found</div>
+                      )}
+                    </div>
+                  )}
                 </div>
 
                 <button
                   onClick={fetchBuses}
+                  disabled={!stopId}
                   className="w-full bg-white text-blue-900 py-3 md:py-4 px-6 rounded-xl 
-              font-bold text-lg md:text-lg
-              hover:scale-105 active:scale-95
-              transition-all duration-200 
-              shadow-lg border-2 border-white/40"
+        font-bold text-lg md:text-lg
+        hover:scale-105 active:scale-95
+        transition-all duration-200 
+        shadow-lg border-2 border-white/40
+        disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100"
                 >
                   Show Next Buses
                 </button>
