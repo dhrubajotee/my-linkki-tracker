@@ -3,12 +3,13 @@
 import { useEffect, useState } from 'react';
 import stops from './data/stops.json';
 import routes from './data/routes.json';
+import BusMap from './components/BusMap';
+
 const sortedStops = stops.slice().sort((a, b) => a.stop_name.localeCompare(b.stop_name));
 const routeMap = {};
 routes.forEach(r => {
   routeMap[r.route_id] = r;
 });
-
 
 
 export default function Home() {
@@ -17,11 +18,11 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [favourite, setFavourite] = useState('Stoppage List');
   const [hasFetchedBuses, setHasFetchedBuses] = useState(false);
-
   const [searchTerm, setSearchTerm] = useState('');
   const [showDropdown, setShowDropdown] = useState(false);
+  const [selectedBus, setSelectedBus] = useState(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
-  // Filter stops based on search term
   const filteredStops = sortedStops.filter(stop =>
     stop.stop_name.toLowerCase().includes(searchTerm.toLowerCase())
   );
@@ -46,7 +47,17 @@ export default function Home() {
     {
       "stop_name": "Stoppage List"
     }
-  ]
+  ];
+
+  const openModal = (bus) => {
+    setSelectedBus(bus);
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setSelectedBus(null);
+  };
 
   const fetchBuses = async () => {
     if (!stopId) return alert('Please select a stop');
@@ -81,11 +92,12 @@ export default function Home() {
         return {
           ...bus,
           vehicleLabel: vehicle?.vehicle.vehicle.label || 'Unknown',
-          licensePlate: vehicle?.vehicle.licensePlate || '',
+          licensePlate: vehicle?.vehicle.vehicle.licensePlate || '',
           latitude: vehicle?.vehicle.position?.latitude || null,
           longitude: vehicle?.vehicle.position?.longitude || null,
-          bearing: vehicle?.vehicle.position?.bearing || null,
+          startDate: vehicle?.vehicle.trip?.startDate || null,
           speed: vehicle?.vehicle.position?.speed || null,
+          fullroute: routeMap[vehicle?.vehicle.trip?.routeId].route_long_name || null,
           currentStopSequence: vehicle?.vehicle.currentStopSequence || null,
           currentStatus: vehicle?.vehicle.currentStatus || null
         };
@@ -101,52 +113,20 @@ export default function Home() {
 
   const handleStoppageClick = (clickedStoppageName) => {
     if (clickedStoppageName.stop_name === 'Stoppage List') {
-      setFavourite(clickedStoppageName.stop_name)
-      setStopId('')
-      setBuses('')
-      return
+      setFavourite(clickedStoppageName.stop_name);
+      setStopId('');
+      setBuses([]);
+      return;
     }
-    setFavourite(clickedStoppageName.stop_name)
-    clickedStoppageName.stop_name !== 'Stoppage List' && setStopId(clickedStoppageName.stop_id)
+    setFavourite(clickedStoppageName.stop_name);
+    clickedStoppageName.stop_name !== 'Stoppage List' && setStopId(clickedStoppageName.stop_id);
   };
-
-  async function getAddressFromLatLng(latitude, longitude) {
-    try {
-      const response = await fetch(
-        `https://nominatim.openstreetmap.org/reverse?format=json&lat=${latitude}&lon=${longitude}`
-      );
-
-      if (!response.ok) {
-        throw new Error(`Failed to fetch: ${response.status}`);
-      }
-
-      const data = await response.json();
-      return data.display_name || 'Address not found';
-    } catch (error) {
-      console.error('Error fetching address:', error);
-      return 'Error fetching address';
-    }
-  }
 
   useEffect(() => {
     if (favourite && favourite !== 'Stoppage List') {
-      fetchBuses()
+      fetchBuses();
     }
-  }, [stopId])
-
-  function BusRow({ latitude, longitude }) {
-    const [address, setAddress] = useState('Loading...');
-
-    useEffect(() => {
-      async function fetchAddress() {
-        const addr = await getAddressFromLatLng(latitude, longitude);
-        setAddress(addr.split(',')[0]);
-      }
-      fetchAddress();
-    }, [latitude, longitude]);
-
-    return <>{address}</>
-  }
+  }, [stopId]);
 
   useEffect(() => {
     const handleClickOutside = (e) => {
@@ -158,9 +138,15 @@ export default function Home() {
     return () => document.removeEventListener('click', handleClickOutside);
   }, []);
 
-
   return (
     <>
+      <BusMap
+        bus={selectedBus} 
+        isOpen={isModalOpen} 
+        onClose={closeModal}
+        routeMap={routeMap}
+       />
+
       <div className="min-h-screen flex flex-col bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 p-4 md:p-8">
         <div className="max-w-6xl mx-auto flex flex-col flex-1 w-full">
           <div className="text-center mb-6 md:mb-8">
@@ -184,38 +170,6 @@ export default function Home() {
           </div>
 
           {favourite === 'Stoppage List' && (
-            // <div className="w-full max-w-2xl mx-auto mb-6 md:mb-8 px-2">
-            //   <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-4 md:p-6 border border-white/30 shadow-xl">
-            //     <div className="mb-4">
-            //       <select
-            //         value={stopId}
-            //         onChange={e => setStopId(e.target.value)}
-            //         className="w-full p-3 md:p-4 text-lg md:text-lg font-semibold bg-white text-blue-900 
-            //     rounded-xl focus:outline-none focus:ring-4 focus:ring-white/50
-            //     transition-all duration-200 cursor-pointer shadow-lg
-            //     border-2 border-white/40"
-            //       >
-            //         <option value="">Select Stop</option>
-            //         {sortedStops.map(stop => (
-            //           <option key={stop.stop_id} value={stop.stop_id}>
-            //             {stop.stop_name}
-            //           </option>
-            //         ))}
-            //       </select>
-            //     </div>
-
-            //     <button
-            //       onClick={fetchBuses}
-            //       className="w-full bg-white text-blue-900 py-3 md:py-4 px-6 rounded-xl 
-            //   font-bold text-lg md:text-lg
-            //   hover:scale-105 active:scale-95
-            //   transition-all duration-200 
-            //   shadow-lg border-2 border-white/40"
-            //     >
-            //       Show Next Buses
-            //     </button>
-            //   </div>
-            // </div>
             <div className="w-full max-w-2xl mx-auto mb-6 md:mb-8 px-2">
               <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-4 md:p-6 border border-white/30 shadow-xl">
                 <div className="mb-4 relative">
@@ -297,18 +251,19 @@ export default function Home() {
                           {bus.headsign}
                         </span>
                       </div>
-                      <div className="flex justify-between items-start mb-3">
-                        <span className="text-white/70 text-lg font-bold">Current Location</span>
-                        <span className="text-white font-semibold text-lg text-right">
-                          <BusRow latitude={bus.latitude} longitude={bus.longitude} />
-                        </span>
-                      </div>
-                      <div className="flex justify-between items-center">
+                      
+                      <div className="flex justify-between items-center mb-3">
                         <span className="text-white/70 text-lg font-bold">Departure Time</span>
                         <span className="text-white font-bold text-xl">
                           {bus.departure ? bus.departure.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'N/A'}
                         </span>
                       </div>
+                      <button
+                        onClick={() => openModal(bus)}
+                        className="w-full bg-white/20 hover:bg-white/30 text-white py-2 rounded-xl font-bold transition-all duration-200 border border-white/40"
+                      >
+                        View Details
+                      </button>
                     </div>
                   ))}
                 </div>
@@ -320,13 +275,12 @@ export default function Home() {
                       <tr className="border-b-2 border-white/50">
                         <th className="px-4 py-3 text-left text-m font-bold text-white">Bus</th>
                         <th className="px-4 py-3 text-left text-m font-bold text-white">Destination</th>
-                        <th className="px-4 py-3 text-left text-m font-bold text-white">Current Location</th>
                         <th className="px-4 py-3 text-left text-m font-bold text-white">Departure Time</th>
+                        <th className="px-4 py-3 text-center text-m font-bold text-white">Details</th>
                       </tr>
                     </thead>
                     <tbody>
                       {buses.map((bus, idx) => (
-
                         <tr
                           key={idx}
                           className="border-b border-white/30 hover:bg-white/20 transition-all duration-200"
@@ -337,11 +291,17 @@ export default function Home() {
                           <td className="px-4 py-3 text-white font-semibold text-sm">
                             {bus.headsign}
                           </td>
-                          <td className="px-4 py-3 text-white font-semibold text-sm">
-                            <BusRow latitude={bus.latitude} longitude={bus.longitude} />
-                          </td>
+                          
                           <td className="px-4 py-3 text-white font-bold text-sm">
                             {bus.departure ? bus.departure.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'N/A'}
+                          </td>
+                          <td className="px-4 py-3 text-center">
+                            <button
+                              onClick={() => openModal(bus)}
+                              className="bg-white/20 hover:bg-white/30 text-white px-4 py-2 rounded-lg font-bold transition-all duration-200 border border-white/40"
+                            >
+                              View Details
+                            </button>
                           </td>
                         </tr>
                       ))}
@@ -367,7 +327,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
     </>
   );
 }
