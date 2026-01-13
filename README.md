@@ -46,14 +46,10 @@ Each bus item can be opened in a detailed modal view showing:
 ---
 
 ## Demo
-
-You can add screenshots or a demo video here.
-
-Example:
-
-- `screenshots/home.png`
-- `screenshots/bus-list.png`
-- `screenshots/bus-details.png`
+<img width="1670" height="903" alt="home" src="https://github.com/user-attachments/assets/69acddf3-4f5f-4806-b50b-0b3a4bb5443e" />
+<img width="1571" height="898" alt="bus-dropdown" src="https://github.com/user-attachments/assets/e3551588-3df5-4ea6-8ec7-a6796baa4f82" />
+<img width="1777" height="901" alt="bus-list" src="https://github.com/user-attachments/assets/65844d09-c90a-4afa-923b-78d6926fd0e8" />
+<img width="1225" height="877" alt="bus-details" src="https://github.com/user-attachments/assets/0d89ff67-c067-44f6-8145-f0af5b741e6f" />
 
 ---
 
