@@ -62,7 +62,7 @@ export default function Home() {
   const fetchBuses = async () => {
     if (!stopId) return alert('Please select a stop');
     setLoading(true);
-    setHasFetchedBuses(true);
+
     try {
       const vehicleres = await fetch(`/api/waltti/jyvaskyla/vehicleposition`);
       const vehicledata = await vehicleres.json();
@@ -102,7 +102,13 @@ export default function Home() {
           currentStatus: vehicle?.vehicle.currentStatus || null
         };
       });
-      setBuses(updatedBuses);
+      if (updatedBuses) {
+        setBuses(updatedBuses);
+      }
+      else {
+        setHasFetchedBuses(true);
+      }
+
     } catch (err) {
       console.error(err);
       alert('Failed to fetch buses');
@@ -141,11 +147,11 @@ export default function Home() {
   return (
     <>
       <BusMap
-        bus={selectedBus} 
-        isOpen={isModalOpen} 
+        bus={selectedBus}
+        isOpen={isModalOpen}
         onClose={closeModal}
         routeMap={routeMap}
-       />
+      />
 
       <div className="min-h-screen flex flex-col bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 p-4 md:p-8">
         <div className="max-w-6xl mx-auto flex flex-col flex-1 w-full">
@@ -227,6 +233,19 @@ export default function Home() {
             </div>
           )}
 
+          {loading && (
+            <div className="w-full max-w-4xl mx-auto mb-6 md:mb-8 px-2">
+              <div className="bg-white/20 backdrop-blur-md rounded-2xl p-6 md:p-8 border-2 border-white/40 shadow-2xl">
+                <div className="flex flex-col items-center gap-4">
+                  <div className="w-12 h-12 border-4 border-white/30 border-t-white rounded-full animate-spin"></div>
+                  <p className="text-white text-lg md:text-xl font-semibold">
+                    Loading bus schedules...
+                  </p>
+                </div>
+              </div>
+            </div>
+          )}
+
           {buses.length > 0 && (
             <div className="w-full mx-auto mb-6 md:mb-8 px-2">
               <div className="bg-white/20 backdrop-blur-md rounded-2xl p-4 md:p-6 border-2 border-white/40 shadow-2xl">
@@ -251,7 +270,7 @@ export default function Home() {
                           {bus.headsign}
                         </span>
                       </div>
-                      
+
                       <div className="flex justify-between items-center mb-3">
                         <span className="text-white/70 text-lg font-bold">Departure Time</span>
                         <span className="text-white font-bold text-xl">
@@ -291,7 +310,7 @@ export default function Home() {
                           <td className="px-4 py-3 text-white font-semibold text-sm">
                             {bus.headsign}
                           </td>
-                          
+
                           <td className="px-4 py-3 text-white font-bold text-sm">
                             {bus.departure ? bus.departure.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'N/A'}
                           </td>
