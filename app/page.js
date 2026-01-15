@@ -156,7 +156,7 @@ export default function Home() {
       <div className="min-h-screen flex flex-col bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 p-4 md:p-8">
         <div className="max-w-6xl mx-auto flex flex-col flex-1 w-full">
           <div className="text-center mb-6 md:mb-8">
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">Linkki Tracker</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">My Linkki Tracker</h1>
           </div>
 
           <div className="flex flex-wrap justify-center gap-2 mb-6 md:mb-8">
