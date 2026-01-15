@@ -64,6 +64,7 @@ export default function Home() {
     setLoading(true);
 
     try {
+      setBuses([])
       const vehicleres = await fetch(`/api/waltti/jyvaskyla/vehicleposition`);
       const vehicledata = await vehicleres.json();
       const res = await fetch(`/api/waltti/jyvaskyla/tripupdate`);
