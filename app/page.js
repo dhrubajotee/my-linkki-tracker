@@ -102,7 +102,7 @@ export default function Home() {
           currentStatus: vehicle?.vehicle.currentStatus || null
         };
       });
-      if (updatedBuses) {
+      if (updatedBuses.length > 0) {
         setBuses(updatedBuses);
       }
       else {
